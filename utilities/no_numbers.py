@@ -1,51 +1,53 @@
 import cv2
 import os
 
-def remove_numbers(image_path, output_path):
+def preprocess_image(img):
+    # Convert to grayscale
+    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+
+    # Apply adaptive thresholding
+    binary = cv2.adaptiveThreshold(gray, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C,
+                                   cv2.THRESH_BINARY, 11, 2)
+
+    # Morphological closing operation
+    kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (3,3))
+    closed = cv2.morphologyEx(binary, cv2.MORPH_CLOSE, kernel)
+
+    return closed
+
+def remove_numbers_and_corners(input_path, output_path):
     # Read the image
-    image = cv2.imread(image_path)
-    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-    
-    # Invert the image and apply binary threshold
-    _, bin_img = cv2.threshold(gray, 128, 255, cv2.THRESH_BINARY_INV | cv2.THRESH_OTSU)
+    image = cv2.imread(input_path)
+    preprocessed = preprocess_image(image)
 
-    # Find contours in the image
-    contours, _ = cv2.findContours(bin_img, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+    # Find contours on the preprocessed image
+    contours, _ = cv2.findContours(preprocessed, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
 
-    # Iterate through each contour to find potential number boxes
     for contour in contours:
-        # Get the area of the contour
-        area = cv2.contourArea(contour)
+        # Compute the bounding rectangle
+        x, y, w, h = cv2.boundingRect(contour)
 
-        # Get bounding rectangle around the contour
-        rect = cv2.boundingRect(contour)
-        aspect_ratio = float(rect[2]) / rect[3]
-        
-        # Check contour size and aspect ratio to identify number boxes
-        if 50 < area < 3000 and 0.5 < aspect_ratio < 1.5:
-            x, y, w, h = rect
-            # Increase the size of the box slightly to ensure complete removal
-            cv2.rectangle(image, (x-5, y-5), (x+w+5, y+h+5), (255, 255, 255), -1) # Fill the box with white
+        # Condition to check if it's likely a number
+        if 100 < w * h < 50000:
+            cv2.drawContours(image, [contour], -1, (255, 255, 255), -1)
 
-    # Save the modified image
+        # Condition to check if it's likely a corner
+        if 5 < w * h < 100:
+            cv2.drawContours(image, [contour], -1, (255, 255, 255), -1)
+
+    # Save the processed image
     cv2.imwrite(output_path, image)
 
 def main():
     input_folder = "../media/raw_formatted"
     output_folder = "../media/no_numbers"
 
-    if not os.path.exists(output_folder):
-        os.makedirs(output_folder)
-
-    # Process each image in the input_folder
     for filename in os.listdir(input_folder):
-        if filename.endswith('.png'):
-            print(f"Removing numbers from: {filename}")
+        if filename.endswith(".png"):
+            print(f"Removing numbers and corners from: {filename}")
             input_image_path = os.path.join(input_folder, filename)
             output_image_path = os.path.join(output_folder, filename)
-            remove_numbers(input_image_path, output_image_path)
-
-    print("Numbers removed successfully!")
+            remove_numbers_and_corners(input_image_path, output_image_path)
 
 if __name__ == "__main__":
     main()
