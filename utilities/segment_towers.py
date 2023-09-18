@@ -5,9 +5,6 @@ def extract_towers(input_image_path, output_folder):
     # Read the image using OpenCV
     image = cv2.imread(input_image_path)
     
-    # Remove the handwritten number
-    image = remove_number(image)
-    
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
     # Thresholding the image to binarize
@@ -22,7 +19,7 @@ def extract_towers(input_image_path, output_folder):
     
     extracted_towers = []
 
-    min_tower_area = 25000  # Adjust as needed
+    min_tower_area = 30000  # Adjust as needed
 
     for contour in contours:
         if cv2.contourArea(contour) < min_tower_area:
@@ -38,26 +35,8 @@ def extract_towers(input_image_path, output_folder):
 
     return extracted_towers
 
-def remove_number(image):
-    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-    _, thresh = cv2.threshold(gray, 128, 255, cv2.THRESH_BINARY_INV)
-
-    contours, _ = cv2.findContours(thresh, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
-
-    for contour in contours:
-        x, y, w, h = cv2.boundingRect(contour)
-        area = cv2.contourArea(contour)
-        aspect_ratio = float(w) / h
-
-        # More specific criteria to identify the numbers
-        if 2500 < area < 5000 and 0.7 < aspect_ratio < 1.3:
-            cv2.rectangle(image, (x, y), (x + w, y + h), (255, 255, 255), -1)
-
-    return image
-
-
 def main():
-    input_folder = "../media/raw_formatted"
+    input_folder = "../media/number_removed"
     output_folder = "../media/tower_images"
     
     overall_tower_count = 0
