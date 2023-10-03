@@ -8,7 +8,7 @@ class TowerTool(tk.Tk):
     def __init__(self):
         super().__init__()
         self.title("Tower Image Processor")
-        self.geometry("1000x600")  # Set window size
+        self.geometry("1000x645")  # Set window size
 
         self.container = tk.Frame(self)  # New containing frame
         self.container.pack(fill=tk.BOTH, expand=True)
@@ -19,21 +19,19 @@ class TowerTool(tk.Tk):
         self.thumbnail_frame = tk.Frame(self.container)
         self.thumbnail_frame.grid(row=0, column=1, sticky="ns")
 
-        self.button_frame = tk.Frame(self)
-        self.button_frame.pack(side=tk.BOTTOM, fill=tk.X)
-        
+        self.button_frame = tk.Frame(self.container)  # Changed parent to self.container
+        self.button_frame.grid(row=1, columnspan=2, sticky="ew")  # Changed pack to grid
+
         self.save_button = tk.Button(self.button_frame, text="Save Thumbnails", command=self.save_thumbnails)
-        self.save_button.pack(side=tk.LEFT, padx=5, pady=5)
+        self.save_button.grid(row=0, column=0, padx=5, pady=5)  # changed pack to grid
         
         self.next_button = tk.Button(self.button_frame, text="Load Next Image", command=self.load_next_image_wrapper)
-        self.next_button.pack(side=tk.LEFT, padx=5, pady=5)
+        self.next_button.grid(row=0, column=1, padx=5, pady=5)  # changed pack to grid
 
         self.menu = tk.Menu(self)
         self.config(menu=self.menu)
 
-        self.file_menu = tk.Menu(self.menu)
-        self.menu.add_cascade(label="File", menu=self.file_menu)
-        self.file_menu.add_command(label="Open", command=self.open_file_dialog)
+        self.menu.add_command(label="Open", command=self.open_file_dialog)
 
         self.canvas.bind("<ButtonPress-1>", self.on_button_press)
         self.canvas.bind("<B1-Motion>", self.on_mouse_drag)
@@ -55,6 +53,7 @@ class TowerTool(tk.Tk):
 
         self.rectangles = []
         self.image_sections = []
+        self.rectangles_coords = []
 
         self.current_image_number = None
 
@@ -77,7 +76,7 @@ class TowerTool(tk.Tk):
         self.canvas.create_image(0, 0, anchor=tk.NW, image=self.tk_image)
     
     def open_file_dialog(self):
-        file_path = filedialog.askopenfilename()
+        file_path = filedialog.askopenfilename(initialdir="../media/preprocessed")
         if file_path:
             self.open_image(file_path)
     
@@ -108,7 +107,8 @@ class TowerTool(tk.Tk):
         # Adjust coordinates according to the scaling factor
         scaling_factor = self.get_scaling_factor()
         coords = (int(self.start_x / scaling_factor), int(self.start_y / scaling_factor),
-                int(end_x / scaling_factor), int(end_y / scaling_factor))
+              int(end_x / scaling_factor), int(end_y / scaling_factor))
+        self.rectangles_coords.append(coords)  # Save the coordinates
         
         # Extract the image section
         image_section = self.original_image.crop(coords)
@@ -138,11 +138,17 @@ class TowerTool(tk.Tk):
         return scaling_factor
     
     def save_thumbnails(self):
-        tower_images_dir = "../media/tower_images"
+        tower_images_dir = "../media/thumbnails"
         os.makedirs(tower_images_dir, exist_ok=True)  # Create directory if it doesn't exist
         
-        for i, image_section in enumerate(self.image_sections):
-            image_section.save(f"{tower_images_dir}/thumbnail_{i}.png")
+        for i, (coords, image_section) in enumerate(zip(self.rectangles_coords, self.image_sections)):
+            # Formulate the file name according to the specified convention
+            file_name = f"{self.current_image_number}_{i + 1}.png"
+            file_path = os.path.join(tower_images_dir, file_name)
+            
+            # Extract the corresponding region from the original image
+            original_region = self.original_image.crop(coords)
+            original_region.save(file_path)
     
     
     def load_next_image_wrapper(self):
@@ -155,14 +161,22 @@ class TowerTool(tk.Tk):
     
     
     def load_next_image(self, image_path):
+        self.selection_rectangle = None  # Reset the selection rectangle
+        
         self.original_image = Image.open(image_path)
         
         # Reset the canvas and other related variables if necessary
         self.canvas.delete("all")
         self.tk_images.clear()
         self.image_sections.clear()
+        self.rectangles_coords.clear()  # Assuming you have this list to hold rectangle coordinates
         self.current_row = 0
         self.current_column = 0
+        
+        # Rebind the event handlers in case they were lost
+        self.canvas.bind("<ButtonPress-1>", self.on_button_press)
+        self.canvas.bind("<B1-Motion>", self.on_mouse_drag)
+        self.canvas.bind("<ButtonRelease-1>", self.on_button_release)
         
         # Get the dimensions of the canvas
         canvas_width = self.canvas.winfo_width()
@@ -176,6 +190,7 @@ class TowerTool(tk.Tk):
         
         self.tk_image = ImageTk.PhotoImage(display_image)
         self.canvas.create_image(0, 0, anchor=tk.NW, image=self.tk_image)
+
 
 
 if __name__ == "__main__":
