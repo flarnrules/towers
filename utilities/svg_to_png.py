@@ -10,32 +10,34 @@ if __name__ == "__main__":
     <svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
         <!-- Background -->
         <rect width="100%" height="100%" fill="#f5e6c8"/>
-
-        <!-- Left Tower: Base to first curve -->
-        <path d="M 95 350 Q 105 325 115 290" fill="none" stroke="#000" stroke-width="8"/>
         
-        <!-- Left Tower: First curve to the top -->
-        <path d="M 115 290 Q 125 260 120 200" fill="none" stroke="#000" stroke-width="8"/>
+        <!-- Left Tower: Outer Shape -->
+        <path d="M 100 350 Q 120 200 130 100 Q 120 50 110 0" fill="none" stroke="#000" stroke-width="4"/>
 
-        <!-- Left Tower: Top edge -->
-        <path d="M 120 200 Q 110 175 95 150" fill="none" stroke="#000" stroke-width="8"/>
+        <!-- Left Tower: First Inner Line -->
+        <path d="M 115 350 Q 130 220 138 110" fill="none" stroke="#000" stroke-width="2"/>
 
-        <!-- Left Tower: Downwards edge -->
-        <path d="M 95 150 L 100 350" fill="none" stroke="#000" stroke-width="8"/>
+        <!-- Left Tower: Second Inner Line -->
+        <path d="M 130 350 Q 142 220 148 120" fill="none" stroke="#000" stroke-width="2"/>
         
-        <!-- Right Tower: Base to first curve -->
-        <path d="M 235 350 Q 245 325 255 290" fill="none" stroke="#000" stroke-width="8"/>
-        
-        <!-- Right Tower: First curve to the top -->
-        <path d="M 255 290 Q 265 260 260 200" fill="none" stroke="#000" stroke-width="8"/>
+        <!-- Right Tower: Outer Shape -->
+        <path d="M 270 350 Q 250 200 240 100 Q 250 50 260 0" fill="none" stroke="#000" stroke-width="4"/>
 
-        <!-- Right Tower: Top edge -->
-        <path d="M 260 200 Q 250 175 235 150" fill="none" stroke="#000" stroke-width="8"/>
+        <!-- Right Tower: First Inner Line -->
+        <path d="M 255 350 Q 240 220 232 110" fill="none" stroke="#000" stroke-width="2"/>
 
-        <!-- Right Tower: Downwards edge -->
-        <path d="M 235 150 L 240 350" fill="none" stroke="#000" stroke-width="8"/>
+        <!-- Right Tower: Second Inner Line -->
+        <path d="M 240 350 Q 228 220 222 120" fill="none" stroke="#000" stroke-width="2"/>
         
+        <!-- Base details -->
+        <path d="M 90 350 L 170 350 Q 160 340 150 330 Q 140 320 130 320 Q 120 320 110 330 Z" fill="none" stroke="#000" stroke-width="3"/>
+        <path d="M 230 350 L 310 350 Q 300 340 290 330 Q 280 320 270 320 Q 260 320 250 330 Z" fill="none" stroke="#000" stroke-width="3"/>
+        <path d="M 170 350 L 230 350" fill="none" stroke="#000" stroke-width="3"/>
+        <path d="M 100 350 L 60 360 L 40 370" fill="none" stroke="#000" stroke-width="3"/>
+        <path d="M 300 350 L 340 360 L 360 370" fill="none" stroke="#000" stroke-width="3"/>
+
     </svg>
+
     """
 
     # Convert the SVG string to PNG
