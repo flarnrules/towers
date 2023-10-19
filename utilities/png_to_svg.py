@@ -3,7 +3,7 @@ import os
 
 # Set the path and base filename
 PATH = "../media/test_images/"
-BASE_FILENAME = "a_tower"  # Without extension
+BASE_FILENAME = "6_1_rotate_better_512"  # Without extension
 
 def png_to_svg(input_path, output_path):
     # Convert PNG to BMP because potrace requires it
