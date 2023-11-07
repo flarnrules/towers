@@ -45,3 +45,25 @@ One of the traits of this JSON object, which probably needs a good name... for n
 What traits are in the `blueprint` JSON so far... none. What do I want to create:
 - a glyph of of the full-scale drawing, that is a 100x100 pixel art version of the drawing itself.
 - a bunch of interesting metadata about the drawing that is saved as a png. file that generates the original drawing's stats, like the color palette and other cool stuff. Could include pre/post processing stats too.
+
+
+### Preprocessing
+the images need to be scanned in, which from my scanner right now it's generating a pdf.
+I wonder if taking a picture with my dslr would be better, or scanner better?
+I also wonder if it's possible to scan in as a more compatible file format.
+Either way, we follow these steps:
+
+1. Raw scan goes into `towers/media/raw`
+2. Pre-processed png: run `pdf_to_page_png.py` and these pages go into `towers/media/raw_formatted`
+3. Preprocessing step: run `preprocessing.py` and these pages go into `towers/media/preprocessed`
+4. Segment towers into individual pngs: run `select_towers.py` and these images are placed in `towers/media/thumbnails`
+
+*here's where I'm stuck* - I'm not sure what to do next. Do I do a manual pass and try to clean up some of the images by erasing stuff via MS Paint?
+That would be a fairly time consuming effort. Also, I'm wondering if the thumbnails serve as the starting point, the original image type.
+Then I post-process those further into svgs and other stuff. I need a way to get metadata on all of these images, I think I'll need
+to manually do that for a lot of the meta data in the original image type. There's 115 pages, and on average probably 3-4 per page.
+My guess is that the book will have 500 towers. Then I should be able to generate svgs from close to 400 of them, and then create pngs
+from those svgs from the best ones, maybe about 100 or so. These 100 would form the basis of the component that relies on the hashlips art engine
+to generate a whole bunch of variations.
+
+5. 
