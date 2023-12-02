@@ -40,4 +40,3 @@ def create_metadata_and_images(source_dir, img_dir=images_directory, meta_dir=me
             json.dump([], jf)  # Use {} for an empty dictionary if preferred
         print(f"Created JSON file {json_file}")
 
-create_metadata_and_images(source_directory)

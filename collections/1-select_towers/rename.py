@@ -1,7 +1,7 @@
 import os
 import shutil
 
-def copy_and_rename_images(source_dir, target_dir='images'):
+def copy_and_rename_images(source_dir, target_dir='originals'):
     # Ensure the source directory exists
     if not os.path.exists(source_dir):
         print(f"Source directory '{source_dir}' does not exist.")
