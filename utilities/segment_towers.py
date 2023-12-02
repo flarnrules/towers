@@ -1,3 +1,5 @@
+# what does this script do
+
 import cv2
 import os
 
