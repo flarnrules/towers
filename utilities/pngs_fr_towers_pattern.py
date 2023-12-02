@@ -73,8 +73,8 @@ def extract_and_debug_towers(input_path, towers_output_folder, debug_output_path
     print(f"Extracted {len(contours)} towers and generated a debug image!")
 
 # Update paths accordingly
-input_path = '../media/concept_art/towers_pattern_manual_preprocess.png'
-towers_output_folder = '../media/test_images/towers_png6'
-debug_output_path = '../media/debug_images/debug_segmentation_with_indices.png'
+input_path = '../media/raw_formatted/2.png'
+towers_output_folder = '../media/test_2.png'
+debug_output_path = '../media/debug_2.png'
 
 extract_and_debug_towers(input_path, towers_output_folder, debug_output_path)
