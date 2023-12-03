@@ -6,7 +6,7 @@ import os
 import shutil
 import json
 
-source_directory = "originals"  # Replace with your source directory path
+source_directory = "originals"  
 images_directory = "images"
 metadata_directory = "metadata"
 
@@ -37,6 +37,7 @@ def create_metadata_and_images(source_dir, img_dir=images_directory, meta_dir=me
 
         # Create a corresponding JSON file in the metadata directory
         with open(json_file, 'w') as jf:
-            json.dump([], jf)  # Use {} for an empty dictionary if preferred
+            json.dump({}, jf)
         print(f"Created JSON file {json_file}")
 
+# create_metadata_and_images(source_dir=source_directory, img_dir=images_directory, meta_dir=metadata_directory)

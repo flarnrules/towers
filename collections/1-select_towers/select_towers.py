@@ -1,4 +1,4 @@
-from ren_gen_met.py import create_metadata_and_images
+#from ren_gen_met.py import create_metadata_and_images
 import os
 import re
 import tkinter as tk
@@ -75,6 +75,7 @@ class TowerTool(tk.Tk):
         
         self.tk_image = ImageTk.PhotoImage(display_image)
         self.canvas.create_image(0, 0, anchor=tk.NW, image=self.tk_image)
+        
     
     def open_file_dialog(self):
         file_path = filedialog.askopenfilename(initialdir="../../media/preprocessed")
@@ -205,4 +206,4 @@ if __name__ == "__main__":
 source_directory = "originals"
 images_directory = "images"
 metadata_directory = "metadata"
-create_metadata_and_images(source_directory, images_directory, metadata_directory)
+#create_metadata_and_images(source_directory, images_directory, metadata_directory)
