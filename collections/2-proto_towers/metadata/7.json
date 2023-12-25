@@ -1,0 +1,44 @@
+{
+	
+    "name": "Proto Tower 7",
+    "description": "This is the second proto tower I'm drawing tonight, and it went a lot faster and i think looks a little bit more fluid and interesting. i also learned a nice new terminal command to copy my json template for `n` number of times, i've decided that's an interesting tidbit to add as metadata, so i've added `code snippet` to see how that formats and looks in a trait ",
+    
+    
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "64x64"
+        },
+	    {
+            "trait_type": "dimensions",
+            "value": "768x768"
+	    },  
+        {
+            "trait_type": "color palette",
+            "value": "Default"
+        },
+        {
+            "trait_type": "background pattern",
+            "value": "substrate"
+        },
+        {
+            "trait_type": "time in minutes",
+            "value": 7
+        },
+        {
+            "trait_type": "recorded",
+            "value": true
+        },
+        {
+            "trait_type": "code snippet",
+            "value": "for i in {8..n}; do cp 7.json '$i.json'; done"
+        },
+        {
+            "trait_type": "code snippet language",
+            "value": "bash"
+        }
+
+	]
+    
+    
+}

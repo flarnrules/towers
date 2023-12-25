@@ -3,8 +3,8 @@ import imageio
 import os
 
 # Set the path and base filename
-PATH = "../media/test_images/"
-BASE_FILENAME = "6_1_rotate_better_512"  # Without extension
+PATH = "/mnt/c/users/benjamin/documents/calis_family_farm/"
+BASE_FILENAME = "calisfamilyfarmlogo"  # Without extension
 
 def preprocess_image(image_path, save_path):
     # Read the image using OpenCV

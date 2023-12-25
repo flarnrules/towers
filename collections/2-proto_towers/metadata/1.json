@@ -1,0 +1,23 @@
+{
+	
+    "name": "Proto Tower 1",
+    "description": "One of many. Proto towers is the first collection by flarnrules deployed on stargaze.",
+    
+    
+    "attributes": [
+        {
+		 "trait_type": "dimensions",
+		 "value": "64x64"
+        },
+	    {
+		"trait_type": "",
+		"value": ""
+	    },  
+        {
+        "trait_type": "color palette",
+        "value": "A64"
+        }
+	]
+    
+    
+}

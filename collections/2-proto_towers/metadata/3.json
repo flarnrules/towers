@@ -1,0 +1,28 @@
+{
+	
+    "name": "Proto Tower 3",
+    "description": "this proto tower is the first with the 'background pattern' trait. isn't that cool? it's also the first (hopefully) that fills the entire alloted space for the image display. I'll shrink the next one to see exactly how many pixels are needed to prevent the fuzzy border. it will be a little experiment.",
+    
+    
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "64x64"
+        },
+	    {
+            "trait_type": "dimensions",
+            "value": "768x768"
+	    },  
+        {
+            "trait_type": "color palette",
+            "value": "Default"
+        },
+        {
+            "trait_type": "background pattern",
+            "value": "pluses"
+
+        }
+	]
+    
+    
+}

@@ -1,0 +1,28 @@
+{
+	
+    "name": "Proto Tower 4",
+    "description": "It looks like 768x768 is a size that fills the entire display image on stargaze. good to know! This proto tower introduces a new background pattern value 'circles with pluses'. i was going to name this trait value something different, but it felt inappropriate.",
+    
+    
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "64x64"
+        },
+	    {
+            "trait_type": "dimensions",
+            "value": "768x768"
+	    },  
+        {
+            "trait_type": "color palette",
+            "value": "Default"
+        },
+        {
+            "trait_type": "background pattern",
+            "value": "circles with pluses"
+
+        }
+	]
+    
+    
+}

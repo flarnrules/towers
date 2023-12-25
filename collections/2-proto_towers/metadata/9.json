@@ -1,0 +1,35 @@
+{
+	
+    "name": "Proto Tower 9",
+    "description": "This is part of a dual set, 9 and 10. trying to see how long it takes to do two. i also find myself wanting to come up with new background patterns every time even though it would probably be better if i standardized the names, or limited myself from time to time to a certain set, to keep the traits reined in a bit... wreigned in... rein in? is that how it's spelled? writing on a text editor doesn't afford the same sort of spell check as writing in a word processor. who cares though right? ",
+    
+    
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "64x64"
+        },
+	    {
+            "trait_type": "dimensions",
+            "value": "768x768"
+	    },  
+        {
+            "trait_type": "color palette",
+            "value": "AAP-64"
+        },
+        {
+            "trait_type": "background pattern",
+            "value": "squares in circles"
+        },
+        {
+            "trait_type": "time in minutes",
+            "value": null
+        },
+        {
+            "trait_type": "recorded",
+            "value": false
+        }
+	]
+    
+    
+}

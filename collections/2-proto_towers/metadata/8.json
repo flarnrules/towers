@@ -1,0 +1,35 @@
+{
+	
+    "name": "Proto Tower 8",
+    "description": "this is the third proto tower I've drawn tonight, and probably the last one. i'm getting the hang of streamlining the process of setup->draw->mint but it's still a fairly time consuming workflow. I'd like to continue to refine the optimal environment to cut the time down to around 5 minutes of coding/admin stuff, and 5-15 minutes of drawing resulting in around 10-20 minutes per nft. That would mean 5 per day should take about 1 hour. then once i have around 100, i can start mixing and matching, and get a nice generative work flow where i can create around 100-200 per week. then i think the 10,000 piece collection will be a bit more feasable.",
+    
+    
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "64x64"
+        },
+	    {
+            "trait_type": "dimensions",
+            "value": "768x768"
+	    },  
+        {
+            "trait_type": "color palette",
+            "value": "AAP-64"
+        },
+        {
+            "trait_type": "background pattern",
+            "value": "radial gradient"
+        },
+        {
+            "trait_type": "time in minutes",
+            "value": 10
+        },
+        {
+            "trait_type": "recorded",
+            "value": true
+        }
+	]
+    
+    
+}

@@ -1,0 +1,35 @@
+{
+	
+    "name": "Proto Tower 10",
+    "description": "this is the second of a duel set, and the 5th tonight. this took a bit longer because i made a small mistake and multipled the 64x64 grid by 12,000% instead of 1,200%, and ended up with some huge files that I almost uploaded -- so I had to re-export both images. Anyways, doing the art at first for two was much faster than doing the entire sequence for each one at a time. I think for proto towers 11-15 I'll make 5 drawings, then create the metadata, then mint them on-chain and see if that can be done in less that 1 hour ",
+    
+    
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "64x64"
+        },
+	    {
+            "trait_type": "dimensions",
+            "value": "768x768"
+	    },  
+        {
+            "trait_type": "color palette",
+            "value": "Default"
+        },
+        {
+            "trait_type": "background pattern",
+            "value": "stamp"
+        },
+        {
+            "trait_type": "time in minutes",
+            "value": null
+        },
+        {
+            "trait_type": "recorded",
+            "value": false
+        }
+	]
+    
+    
+}

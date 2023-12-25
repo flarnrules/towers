@@ -1,0 +1,23 @@
+{
+	
+    "name": "Proto Tower 2",
+    "description": "These proto towers make holders eligible for whitelist. They are also .",
+    
+    
+    "attributes": [
+        {
+		 "trait_type": "pixels",
+		 "value": "64x64"
+        },
+	    {
+		"trait_type": "dimensions",
+		"value": "640x640"
+	    },  
+        {
+        "trait_type": "color palette",
+        "value": "Default"
+        }
+	]
+    
+    
+}

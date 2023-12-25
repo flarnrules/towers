@@ -1,0 +1,35 @@
+{
+	
+    "name": "Proto Tower 6",
+    "description": "This is proto tower 6, the first proto tower where I've tried to record how long it takes to draw one... and subsequently it had a major impact on the amount of time and overthinking went into drawing it... like a sort of schroedinger's proto towe - -  observation impacts the outcome sort of deal. I'm not even sure if that's the right reference, or if it's some other physics-meets-psychology kind of thing. anyways, this one has a new trait type: recorded, which is a bool, the first of many. Recorded has a `true` value if i recorded drawing it, and a `false` value if i didn't record it. This is different than the other new trait `time in minutes` which is the amount of time in minutes it took to draw. this particular is just an integer representing minutes, rounded to the nearest minute. ",
+    
+    
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "64x64"
+        },
+	    {
+            "trait_type": "dimensions",
+            "value": "768x768"
+	    },  
+        {
+            "trait_type": "color palette",
+            "value": "Default"
+        },
+        {
+            "trait_type": "background pattern",
+            "value": "circle grids"
+        },
+        {
+            "trait_type": "time in minutes",
+            "value": 13
+        },
+        {
+            "trait_type": "recorded",
+            "value": true
+        }
+	]
+    
+    
+}
