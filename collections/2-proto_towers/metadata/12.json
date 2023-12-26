@@ -1,7 +1,7 @@
 {
 	
     "name": "Proto Tower 12",
-    "description": " ",
+    "description": "I didn't finish the description on Proto Tower 11 because it's the holidays and there's lots of distractions. Lol. Anyways, this one was also drawn with a mouse and on Microsoft Paint. Ever since they added a layers feature, MS Paint is pretty rad to be honest. Just remember to use the pencil tool, rather than the brush, for those clean crisp pixels.",
     
     
     "attributes": [
@@ -15,11 +15,11 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": "Default"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "clouds"
         },
         {
             "trait_type": "time in minutes",
@@ -28,6 +28,14 @@
         {
             "trait_type": "recorded",
             "value": false
+        },
+        {
+            "trait_type": "raster graphics editor",
+            "value": "Microsoft Paint"
+        },
+        {
+            "trait_type": "drawing instrument",
+            "value": "mouse"
         }
 	]
     

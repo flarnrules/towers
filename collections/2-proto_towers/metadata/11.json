@@ -1,7 +1,7 @@
 {
 	
     "name": "Proto Tower 11",
-    "description": " ",
+    "description": "It's the day after christmas, and I'm going to draw a few proto towers. Since I'm on the road, I'm using my laptop, and a mouse to draw, instead of a drawing tablet and my pc. I also used Microsoft Paint instead of Aesprite, because the ",
     
     
     "attributes": [
@@ -15,11 +15,11 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": "Default"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "grid of pluses"
         },
         {
             "trait_type": "time in minutes",
@@ -28,7 +28,16 @@
         {
             "trait_type": "recorded",
             "value": false
+        },
+        {
+            "trait_type": "raster graphics editor",
+            "value": "Microsoft Paint"
+        },
+        {
+            "trait_type": "drawing instrument",
+            "value": "mouse"
         }
+
 	]
     
     
