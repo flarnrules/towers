@@ -1,0 +1,48 @@
+{
+	
+    "name": "Proto Tower 19",
+    "description": "",
+    
+    
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "64x64"
+        },
+	    {
+            "trait_type": "dimensions",
+            "value": "768x768"
+	    },  
+        {
+            "trait_type": "color palette",
+            "value": ""
+        },
+        {
+            "trait_type": "background pattern",
+            "value": ""
+        },
+        {
+            "trait_type": "time in minutes",
+            "value": null
+        },
+        {
+            "trait_type": "recorded",
+            "value": false
+        },
+        {
+            "trait_type": "raster graphics editor",
+            "value": "Microsoft Paint"
+        },
+        {
+            "trait_type": "drawing instrument",
+            "value": "mouse"
+        },
+        {
+            "trait_type": "code snippet",
+            "value": ""
+
+        }
+	]
+    
+    
+}
