@@ -1,7 +1,7 @@
 {
 	
     "name": "Proto Tower 15",
-    "description": " ",
+    "description": "This is proto tower 15 and the 5th of the proto towers created on the road. I added another function in the resize python script that is defined in the metadata of proto tower 13. I have a question that I hope to answer by the time I've completed this whitelist collection... Is it possible to execute the code contained in the metadata of these nfts on other nfts? how would that work, and what would it look like? Anyways, I've included the code snippet in the metadata of this one, but this time as a github gist, wich is basically just a link to the specific file of code. The function relies on the previous function, so I've included the entire script. Hopefully it comes in handy for future proto towers and other digital art creations.",
     
     
     "attributes": [
@@ -15,11 +15,11 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": "Default"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "corners"
         },
         {
             "trait_type": "time in minutes",
@@ -28,6 +28,19 @@
         {
             "trait_type": "recorded",
             "value": false
+        },
+        {
+            "trait_type": "raster graphics editor",
+            "value": "Microsoft Paint"
+        },
+        {
+            "trait_type": "drawing instrument",
+            "value": "mouse"
+        },
+        {
+            "trait_type": "code snippet",
+            "value": "https://gist.github.com/flarnrules/250db78f112b938fb31253bb7fc2f4d5"
+
         }
 	]
     

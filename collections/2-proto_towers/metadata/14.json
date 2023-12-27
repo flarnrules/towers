@@ -1,7 +1,7 @@
 {
 	
     "name": "Proto Tower 14",
-    "description": " ",
+    "description": "This is the 14th proto tower, and another on the road during the 2023 holiday season. as a result, I drew this using Microsoft Paint, with a mouse. I also needed to use the python script that is included in the meta data of proto tower 13 to scale the image from 64x64 pixels to 768x768 pixels. I should probably experiment with that script a bit in future pieces, and also i think it might work better to automate the process a bit.",
     
     
     "attributes": [
@@ -15,11 +15,11 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": "Default"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "diagonal checkers"
         },
         {
             "trait_type": "time in minutes",
@@ -28,6 +28,14 @@
         {
             "trait_type": "recorded",
             "value": false
+        },
+        {
+            "trait_type": "raster graphics editor",
+            "value": "Microsoft Paint"
+        },
+        {
+            "trait_type": "drawing instrument",
+            "value": "mouse"
         }
 	]
     

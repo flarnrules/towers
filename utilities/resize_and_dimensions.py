@@ -1,19 +1,23 @@
 from PIL import Image
+import os
 
 def resize_image(input_path, output_path, new_width, new_height):
-    # Open the image file
     with Image.open(input_path) as img:
-        # Print original dimensions
         print(f"Original dimensions: {img.size}")
-
-        # Resize the image with nearest-neighbor algorithm
         resized_img = img.resize((new_width, new_height), Image.NEAREST)
-
-        # Save the resized image
         resized_img.save(output_path)
-
-        # Print new dimensions
         print(f"New dimensions: {resized_img.size}")
 
-# Example usage
-resize_image("../collections/2-proto_towers/media/tower12.png", "../collections/2-proto_towers/media/12.png", 768, 768)
+
+def bulk_resize(folder_path, new_width, new_height):
+    for filename in os.listdir(folder_path):
+        if filename.lower().endswith(('.png', '.jpg', '.jpeg', '.bmp', '.gif')):
+            input_file = os.path.join(folder_path, filename)
+            output_file = os.path.join(folder_path, f"resized_{filename}")
+
+            resize_image(input_file, output_file, new_width, new_height)
+            print(f"Resized '{input_file}' and saved to '{output_file}'")
+
+
+# resize_image("../collections/2-proto_towers/media/tower12.png", "../collections/2-proto_towers/media/12.png", 768, 768)
+bulk_resize("../collections/2-proto_towers/bulkresize", 768, 768)

@@ -1,7 +1,7 @@
 {
 	
     "name": "Proto Tower 13",
-    "description": " ",
+    "description": "This is the third of the proto towers created on the road. Used Microsoft Paint and a mouse to draw, so a bit different look. Also, the resize feature on Microsoft Paint does not maintain sharp pixel borders, so I had to write a python script to increase the size of the 64x64 grid. See code snippit below, I forgot about that trait_type on proto tower 11 and 12.",
     
     
     "attributes": [
@@ -15,11 +15,11 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": "Default"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "mosaic"
         },
         {
             "trait_type": "time in minutes",
@@ -28,6 +28,18 @@
         {
             "trait_type": "recorded",
             "value": false
+        },
+        {
+            "trait_type": "raster graphics editor",
+            "value": "Microsoft Paint"
+        },
+        {
+            "trait_type": "drawing instrument",
+            "value": "mouse"
+        },
+        {
+            "trait_type": "code snippet",
+            "value": "from PIL import Image\n\n\ndef resize_image(input_path, output_path, new_width, new_height):\n\n    with Image.open(input_path) as img:\n\n        print(f\"Original dimensions: {img.size}\")\n\n\n        resized_img = img.resize((new_width, new_height), Image.NEAREST)\n\n\n        resized_img.save(output_path)\n\n\n        print(f\"New dimensions: {resized_img.size}\")"
         }
 	]
     
