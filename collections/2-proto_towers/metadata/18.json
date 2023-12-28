@@ -1,13 +1,13 @@
 {
 	
     "name": "Proto Tower 18",
-    "description": "",
+    "description": "I kind of liked this minimal design, until i did the background. couldn't really figure out how to make the background work in a way that made me feel happy, but sometimes you just gotta say... eh... not my best work. I like the concept of the background, and the concept of the foreground. This design is coming back in the future, but hopefully with improved implementation.",
     
     
     "attributes": [
         {
             "trait_type": "pixels",
-            "value": "64x64"
+            "value": "32x32"
         },
 	    {
             "trait_type": "dimensions",
@@ -15,11 +15,11 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": ""
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "squares"
         },
         {
             "trait_type": "time in minutes",

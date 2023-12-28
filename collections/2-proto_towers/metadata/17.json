@@ -1,13 +1,13 @@
 {
 	
     "name": "Proto Tower 17",
-    "description": "",
+    "description": "The second 32x32 grid proto tower. the restraint is a big aggravating and I can feel myself breaking some *rules* of pixel art that would likely disappoint real pixel artists right now. That said, while creating these smaller grids I've come to the conclusion that one really great thing about NFT art is that one can sort of larp as an artist in this realm. there's nothing wrong with trying your best and creating something that you find aesthetically pleasing, even if it doesn't *quite* follow design standards. Also, more practicing + publishing gives me opportunities to learn, get feedback, and improve my designs. These are proto towers after all.",
     
     
     "attributes": [
         {
             "trait_type": "pixels",
-            "value": "64x64"
+            "value": "32x32"
         },
 	    {
             "trait_type": "dimensions",
@@ -15,11 +15,11 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": ""
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "stamp"
         },
         {
             "trait_type": "time in minutes",

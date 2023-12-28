@@ -1,13 +1,13 @@
 {
 	
     "name": "Proto Tower 20",
-    "description": "",
+    "description": "The last of this batch, I think the proto towers outline started off nice with a sort of pyramid and desert vibe, but I definitely struggled with the limited pallette of MS Paint. I'll need to use a trait value called 'custom' to open up the opportunities on MS Paint when I'm restricted to this raster graphics tool. Also, I got a kick out of adding lots of clouds to a desert sky. I feel like this is a fun little mismatch, based on my brain's idea of what a desert sky looks like... this ain't it. I'm pleased with this one, hope you are too!",
     
     
     "attributes": [
         {
             "trait_type": "pixels",
-            "value": "64x64"
+            "value": "32x32"
         },
 	    {
             "trait_type": "dimensions",
@@ -15,11 +15,11 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": ""
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "clouds"
         },
         {
             "trait_type": "time in minutes",
@@ -39,7 +39,7 @@
         },
         {
             "trait_type": "code snippet",
-            "value": ""
+            "value": "bulk_resize('../collections/2-proto_towers/bulkresize', 768, 768)"
 
         }
 	]

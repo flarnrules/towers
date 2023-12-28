@@ -1,13 +1,13 @@
 {
 	
     "name": "Proto Tower 19",
-    "description": "",
+    "description": "I think this one had an interesting starting point, but I botched the delivery. I also forgot to fill in the background with a solid color 🤣. It took me a long time to come up with the background pattern name... i'm calling this pattern 'sneks', but I considered calling it 'corners",
     
     
     "attributes": [
         {
             "trait_type": "pixels",
-            "value": "64x64"
+            "value": "32x32"
         },
 	    {
             "trait_type": "dimensions",
@@ -15,11 +15,11 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": ""
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "sneks"
         },
         {
             "trait_type": "time in minutes",

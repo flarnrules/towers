@@ -1,13 +1,13 @@
 {
 	
     "name": "Proto Tower 16",
-    "description": "",
+    "description": "This is the first 32x32 pixel proto tower. Takes less time to draw, but obviously there's fewer opetions to correct flaws, so I'm finding these a bit more difficult to pull off effectively. Should be an interesting format to explore for the next 5. This next set of 5 will all be in this format, and all drawn with mouse + microsoft paint.",
     
     
     "attributes": [
         {
             "trait_type": "pixels",
-            "value": "64x64"
+            "value": "32x32"
         },
 	    {
             "trait_type": "dimensions",
@@ -15,11 +15,11 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": ""
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "pluses"
         },
         {
             "trait_type": "time in minutes",
@@ -39,8 +39,7 @@
         },
         {
             "trait_type": "code snippet",
-            "value": ""
-
+            "value": "for i in {16..20}; do cp 15.json \"$i.json\"; done"
         }
 	]
     
