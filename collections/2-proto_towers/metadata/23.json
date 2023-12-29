@@ -1,0 +1,44 @@
+{
+	
+    "name": "Proto Tower 23",
+    "description": "Note: read the description of proto tower 22 if you are curious to know what's going on with this batch of ten proto towers. End note. Another secret, which is probably not really a secret, but the Proto Towers collection is listed at incrementally higher selling prices. I'm incrementing the selling price by 1 STAR  for each new tower, but I started at 10 STARS instead of starting at 1 STAR.",
+    
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "32x32"
+        },
+	    {
+            "trait_type": "dimensions",
+            "value": "768x768"
+	    },  
+        {
+            "trait_type": "color palette",
+            "value": "Microsoft Paint"
+        },
+        {
+            "trait_type": "background pattern",
+            "value": "Clouds"
+        },
+        {
+            "trait_type": "time in minutes",
+            "value": null
+        },
+        {
+            "trait_type": "recorded",
+            "value": false
+        },
+        {
+            "trait_type": "raster graphics editor",
+            "value": "Microsoft Paint"
+        },
+        {
+            "trait_type": "drawing instrument",
+            "value": "mouse"
+        },
+        {
+            "trait_type": "code snippet",
+            "value": "for i in {22..30}; do cp 21.json \"$i.json\"; done"
+        }
+	]
+}
