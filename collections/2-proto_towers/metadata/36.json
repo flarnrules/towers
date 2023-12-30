@@ -1,0 +1,44 @@
+{
+	
+    "name": "Proto Tower 36",
+    "description": "I'm back to 32x32 on this batch of 5, but just wait - I'll be doing some 8x8 as well. I think it would be interesting to query the metadata and visualize the change in canvas size over time. I'll most certainly jump back to 64x64 for later collections, and I've been thinking about how this collection is an appendable 1/1 so there's no limit to the number of new proto towers that can be added. Once I've got a sufficient base number of nfts with a decent sized whitelist (not sure what decent means yet... perhaps 500 wallets), but anyways, once I have a nice base level of proto towers, I think I'd like to create a workflow where I try and publish 1 per day, like Beeple's everyday's project, just of towers. It would be nice to be starting that in the New Year, but there's just not enough time to bulk mint enough to be feasible. Perhaps Jan 1 2025 I formalize this a bit more.",
+    
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "32x32"
+        },
+	    {
+            "trait_type": "dimensions",
+            "value": "768x768"
+	    },  
+        {
+            "trait_type": "color palette",
+            "value": "A64"
+        },
+        {
+            "trait_type": "background pattern",
+            "value": "squares"
+        },
+        {
+            "trait_type": "time in minutes",
+            "value": null
+        },
+        {
+            "trait_type": "recorded",
+            "value": false
+        },
+        {
+            "trait_type": "raster graphics editor",
+            "value": "Aesprite"
+        },
+        {
+            "trait_type": "drawing instrument",
+            "value": "digital pen"
+        },
+        {
+            "trait_type": "code snippet",
+            "value": "for i in {36..40}; do cp template.json \"$i.json\"; done"
+        }
+	]
+}

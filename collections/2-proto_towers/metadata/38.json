@@ -1,12 +1,12 @@
 {
 	
-    "name": "Proto Tower ",
-    "description": "",
+    "name": "Proto Tower 38",
+    "description": "I wonder if some of these descriptions will make people have stronger opinions about this collection. These sort of... rambling stream of consciousness journal entries. Sometimes I'm describing the image, sometimes the project, and other times... I'm just saying nothing. Like this time!",
     
     "attributes": [
         {
             "trait_type": "pixels",
-            "value": "64x64"
+            "value": "32x32"
         },
 	    {
             "trait_type": "dimensions",
@@ -14,11 +14,11 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": "Default"
+            "value": "ARQ4"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "stamp"
         },
         {
             "trait_type": "time in minutes",

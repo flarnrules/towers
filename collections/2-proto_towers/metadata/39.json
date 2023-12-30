@@ -1,12 +1,12 @@
 {
 	
-    "name": "Proto Tower ",
-    "description": "",
+    "name": "Proto Tower 39",
+    "description": "This is one of my favorite background patterns to draw. I also like the name.",
     
     "attributes": [
         {
             "trait_type": "pixels",
-            "value": "64x64"
+            "value": "32x32"
         },
 	    {
             "trait_type": "dimensions",
@@ -14,11 +14,11 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": "Default"
+            "value": "CGAO"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "corners"
         },
         {
             "trait_type": "time in minutes",

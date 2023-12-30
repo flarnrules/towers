@@ -1,12 +1,12 @@
 {
 	
-    "name": "Proto Tower ",
-    "description": "",
+    "name": "Proto Tower 42",
+    "description": "I'll need to come up a couple new good background patterns, this one is the hardest patternwise. That doesn't make much sense, but it is pretty late so I'll work on the rest of this metadata in the morning.",
     
     "attributes": [
         {
             "trait_type": "pixels",
-            "value": "64x64"
+            "value": "16x16"
         },
 	    {
             "trait_type": "dimensions",

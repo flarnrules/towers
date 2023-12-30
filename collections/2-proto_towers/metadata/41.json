@@ -1,12 +1,12 @@
 {
 	
-    "name": "Proto Tower ",
-    "description": "",
+    "name": "Proto Tower 41",
+    "description": "The thing that makes me feel the most optimistic about finishing 25 proto towers in one day is that it's a SATURDAY BABY!!! and also I'm writing out the vast majority of the metadata all at once. I'll change some values after the drawings are finished, but the vast majority of the metadata won't need to be changed much.",
     
     "attributes": [
         {
             "trait_type": "pixels",
-            "value": "64x64"
+            "value": "16x16"
         },
 	    {
             "trait_type": "dimensions",

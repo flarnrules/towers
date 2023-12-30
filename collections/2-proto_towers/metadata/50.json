@@ -1,12 +1,12 @@
 {
 	
-    "name": "Proto Tower ",
+    "name": "Proto Tower 50",
     "description": "",
     
     "attributes": [
         {
             "trait_type": "pixels",
-            "value": "64x64"
+            "value": "128x128"
         },
 	    {
             "trait_type": "dimensions",

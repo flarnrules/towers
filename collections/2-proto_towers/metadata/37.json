@@ -1,12 +1,12 @@
 {
 	
-    "name": "Proto Tower ",
-    "description": "",
+    "name": "Proto Tower 37",
+    "description": "Big day tomorrow... hoping to get a lot of work done including a bit more streamlining of this work flow, as well as minting and listing through proto tower 60. Seems like impossible, but I can do some shorter descriptions. I'm also finding that completing the metadata first and foremost, greatly increases the speed of creating.",
     
     "attributes": [
         {
             "trait_type": "pixels",
-            "value": "64x64"
+            "value": "32x32"
         },
 	    {
             "trait_type": "dimensions",
@@ -14,11 +14,11 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": "Default"
+            "value": "AAP-64"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "checkerboard"
         },
         {
             "trait_type": "time in minutes",
