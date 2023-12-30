@@ -38,7 +38,7 @@
         },
         {
             "trait_type": "code snippet",
-            "value": "for i in {31..35}; do cp template.json \"$i.json\"; done"
+            "value": "bulk_resize('../collections/2-proto_towers/bulkresize', 768, 768)"
         }
 	]
 }
