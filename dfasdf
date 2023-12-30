@@ -1,0 +1,27 @@
+[33md0292b0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to HEAD
+[33md0292b0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{1}: reset: moving to HEAD
+[33md0292b0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{2}: commit: update some things
+[33me648ed4[m HEAD@{3}: commit: update if needed
+[33mb8f6153[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{4}: pull: Fast-forward
+[33m50dc61f[m HEAD@{5}: commit: all the stuff
+[33m6888f26[m HEAD@{6}: commit: revise rename_generate_metadata
+[33me6c3a14[m HEAD@{7}: commit: updated ren_gen_met.py and rename.py
+[33m2afc5a2[m HEAD@{8}: commit: towers collection 1 test
+[33m981807b[m HEAD@{9}: commit: testing algo on own drawings
+[33m699ab51[m HEAD@{10}: commit: update readme with preprocessing steps.
+[33mab2443e[m HEAD@{11}: commit: clean up and commit changes
+[33m0b54667[m HEAD@{12}: commit: try to conver to svg, svgs all look weird
+[33m2f4bed7[m HEAD@{13}: commit: add a whole bunch of pictures
+[33mb74ec2c[m HEAD@{14}: commit: complete pngs_fr_towers_pattern.py
+[33m76b9619[m HEAD@{15}: commit: add a bunch of stuff
+[33mfe3adb4[m HEAD@{16}: commit: test tower svg
+[33m449f41f[m HEAD@{17}: commit: stuff w/ svg_to_png and png_to_svg
+[33m2661b49[m HEAD@{18}: commit: image processing stuff
+[33m62ba2bb[m HEAD@{19}: commit: select_towers.py is working!
+[33m689b536[m HEAD@{20}: commit: processing tower images
+[33m6a1ad0a[m HEAD@{21}: commit: more readme stuff
+[33md6a2252[m HEAD@{22}: commit: write some stuff in the readme
+[33mee0d68f[m HEAD@{23}: commit: pics
+[33me73ab1f[m HEAD@{24}: commit: try to remove numbers
+[33m5e028a7[m HEAD@{25}: commit: too much and too late stuff
+[33m07802d4[m HEAD@{26}: clone: from github.com:flarnrules/towers.git

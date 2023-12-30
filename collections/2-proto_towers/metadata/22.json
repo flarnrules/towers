@@ -1,0 +1,44 @@
+{
+	
+    "name": "Proto Tower 22",
+    "description": "I'm also going to write the descriptions before drawing the images, as this might speed up the process and have some interesting results. For example... what are people thinking when they read these descriptions? Should I include secret information in various descriptions, ala Dark Souls. What secrets will the descriptions hold? How about this one -- the Towers collection will be part of an even bigger project, the ultimate goal of creating a New York Times best selling coffee table book of towers, which will display all of the art from the 10,000 piece collection in interesting and thought provoking arrangements. All holders of Towers NFTs will be part owners in the project.",
+    
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "32x32"
+        },
+	    {
+            "trait_type": "dimensions",
+            "value": "768x768"
+	    },  
+        {
+            "trait_type": "color palette",
+            "value": "Microsoft Paint"
+        },
+        {
+            "trait_type": "background pattern",
+            "value": "Circles With Pluses"
+        },
+        {
+            "trait_type": "time in minutes",
+            "value": null
+        },
+        {
+            "trait_type": "recorded",
+            "value": false
+        },
+        {
+            "trait_type": "raster graphics editor",
+            "value": "Microsoft Paint"
+        },
+        {
+            "trait_type": "drawing instrument",
+            "value": "mouse"
+        },
+        {
+            "trait_type": "code snippet",
+            "value": "for i in {22..30}; do cp 21.json \"$i.json\"; done"
+        }
+	]
+}

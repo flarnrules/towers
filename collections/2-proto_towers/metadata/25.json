@@ -1,0 +1,44 @@
+{
+	
+    "name": "Proto Tower 25",
+    "description": "I'm crushing this metadata on this batch of 10. This particular workflow, which I'll probably deploy on several future batches of 10 is most certainly the fastest. I think I can probably crank out 10 Proto Towers in 1 hour if I really put the pedal to the metal.",
+    
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "32x32"
+        },
+	    {
+            "trait_type": "dimensions",
+            "value": "768x768"
+	    },  
+        {
+            "trait_type": "color palette",
+            "value": "Microsoft Paint"
+        },
+        {
+            "trait_type": "background pattern",
+            "value": "Diagonal Checkers"
+        },
+        {
+            "trait_type": "time in minutes",
+            "value": null
+        },
+        {
+            "trait_type": "recorded",
+            "value": false
+        },
+        {
+            "trait_type": "raster graphics editor",
+            "value": "Microsoft Paint"
+        },
+        {
+            "trait_type": "drawing instrument",
+            "value": "mouse"
+        },
+        {
+            "trait_type": "code snippet",
+            "value": "for i in {22..30}; do cp 21.json \"$i.json\"; done"
+        }
+	]
+}

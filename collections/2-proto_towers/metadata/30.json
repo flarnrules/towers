@@ -1,0 +1,44 @@
+{
+	
+    "name": "Proto Tower 30",
+    "description": "I wonder if I should create a discord, or just link to the Flarnchain Discord. For those of you unaware, this collection is linked to the Flarnchain ecosyste, which currently consists of an incomplete nft project on the Wax blockchain, a very quiet Discord server, and a weekly newsletter. Did you know that in a few weeks, the Flarnchain Flarnmap will enter a new phase? That phase is called 'implementation'.de",
+    
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "32x32"
+        },
+	    {
+            "trait_type": "dimensions",
+            "value": "768x768"
+	    },  
+        {
+            "trait_type": "color palette",
+            "value": "Microsoft Paint"
+        },
+        {
+            "trait_type": "background pattern",
+            "value": "Substrate"
+        },
+        {
+            "trait_type": "time in minutes",
+            "value": null
+        },
+        {
+            "trait_type": "recorded",
+            "value": false
+        },
+        {
+            "trait_type": "raster graphics editor",
+            "value": "Microsoft Paint"
+        },
+        {
+            "trait_type": "drawing instrument",
+            "value": "mouse"
+        },
+        {
+            "trait_type": "code snippet",
+            "value": "bulk_resize('../collections/2-proto_towers/bulkresize', 768, 768)"
+        }
+	]
+}

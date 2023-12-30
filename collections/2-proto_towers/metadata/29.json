@@ -1,0 +1,44 @@
+{
+	
+    "name": "Proto Tower 29",
+    "description": "I'm curious to know what this batch submission is going to do to the rarities. This is essentially a 'stream of conscioiusness' collection to create an interesting whitelist for another collection. Rarities will be a lot more thought out in the 10,000 piece collection called Towers.",
+    
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "32x32"
+        },
+	    {
+            "trait_type": "dimensions",
+            "value": "768x768"
+	    },  
+        {
+            "trait_type": "color palette",
+            "value": "Microsoft Paint"
+        },
+        {
+            "trait_type": "background pattern",
+            "value": "Stamp"
+        },
+        {
+            "trait_type": "time in minutes",
+            "value": null
+        },
+        {
+            "trait_type": "recorded",
+            "value": false
+        },
+        {
+            "trait_type": "raster graphics editor",
+            "value": "Microsoft Paint"
+        },
+        {
+            "trait_type": "drawing instrument",
+            "value": "mouse"
+        },
+        {
+            "trait_type": "code snippet",
+            "value": "for i in {22..30}; do cp 21.json \"$i.json\"; done"
+        }
+	]
+}

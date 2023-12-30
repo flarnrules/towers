@@ -1,0 +1,44 @@
+{
+	
+    "name": "Proto Tower 21",
+    "description": "Workflow has expanded to 10 at a time, now that I've discovered that Stargaze Studio allows one to append multiple nfts in a bulk transaction. This is not super obvious on the UI, but you can just select more than 1 image and more than 1 metadata file when appending to the 1/1 collection, and boom! Bulk minting. Also, to streamline the process I've assigned each of this next batch a background pattern prior to making the drawing. These background patterns are assigned from already existing pattern values. This one is 'Circle of Grids'.",
+    
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "32x32"
+        },
+	    {
+            "trait_type": "dimensions",
+            "value": "768x768"
+	    },  
+        {
+            "trait_type": "color palette",
+            "value": "Microsoft Paint"
+        },
+        {
+            "trait_type": "background pattern",
+            "value": "Circle Grids"
+        },
+        {
+            "trait_type": "time in minutes",
+            "value": null
+        },
+        {
+            "trait_type": "recorded",
+            "value": false
+        },
+        {
+            "trait_type": "raster graphics editor",
+            "value": "Microsoft Paint"
+        },
+        {
+            "trait_type": "drawing instrument",
+            "value": "mouse"
+        },
+        {
+            "trait_type": "code snippet",
+            "value": "for i in {22..30}; do cp 21.json \"$i.json\"; done"
+        }
+	]
+}
