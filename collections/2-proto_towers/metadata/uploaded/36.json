@@ -14,7 +14,7 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": "A64"
+            "value": "Default"
         },
         {
             "trait_type": "background pattern",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "time in minutes",
-            "value": null
+            "value": 7
         },
         {
             "trait_type": "recorded",
-            "value": false
+            "value": true
         },
         {
             "trait_type": "raster graphics editor",

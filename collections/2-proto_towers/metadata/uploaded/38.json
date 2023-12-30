@@ -38,7 +38,7 @@
         },
         {
             "trait_type": "code snippet",
-            "value": ""
+            "value": "ffmpeg -i collections/2-proto_towers/media/recordings/38_raw.mkv -filter_complex \"[0:v]setpts=PTS/12[v];[v]crop=550:550:320:180\" -an collections/2-proto_towers/media/recordings/38_timelapse.mp4"
         }
 	]
 }

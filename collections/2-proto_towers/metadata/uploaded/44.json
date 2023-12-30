@@ -1,0 +1,44 @@
+{
+	
+    "name": "Proto Tower 44",
+    "description": "Thinking about that bot, account stars1y5eqrhudwkc2uquaz3v429zuqsw4nhjmwnd4cx and if they are just going to scoop these up as soon as I list them, I'm going 'strike while the iron is hot' so to speak... unless you are actually just someone who really likes these proto towers... in which case... thank you, wait till you see the main collection, I think it's going to be pretty cool",
+    
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "16x16"
+        },
+	    {
+            "trait_type": "dimensions",
+            "value": "768x768"
+	    },  
+        {
+            "trait_type": "color palette",
+            "value": "Google UI"
+        },
+        {
+            "trait_type": "background pattern",
+            "value": "diagonal gradient"
+        },
+        {
+            "trait_type": "time in minutes",
+            "value": 8
+        },
+        {
+            "trait_type": "recorded",
+            "value": true
+        },
+        {
+            "trait_type": "raster graphics editor",
+            "value": "Aesprite"
+        },
+        {
+            "trait_type": "drawing instrument",
+            "value": "digital pen"
+        },
+        {
+            "trait_type": "code snippet",
+            "value": "ffmpeg -i collections/2-proto_towers/media/recordings/44_raw.mkv -filter_complex \"[0:v]setpts=PTS/12[v];[v]crop=400:400:460:70\" -an collections/2-proto_towers/media/recordings/timelapses/44_timelapse.mp4"
+        }
+	]
+}

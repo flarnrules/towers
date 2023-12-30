@@ -1,0 +1,44 @@
+{
+	
+    "name": "Proto Tower 45",
+    "description": "The last of this batch of 5 at 16x16, next batch we are going high resolution with 128x128. should be a good little break from these restrictions and let me just go to town on some digital paintings today. This one also took forever... checkerboard is not a great background pattern paired with the Gameboy color pallete and only with 16x16 to work with. This one is my least favorite drawing ever.",
+    
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "16x16"
+        },
+	    {
+            "trait_type": "dimensions",
+            "value": "768x768"
+	    },  
+        {
+            "trait_type": "color palette",
+            "value": "Gameboy"
+        },
+        {
+            "trait_type": "background pattern",
+            "value": "checkerboard"
+        },
+        {
+            "trait_type": "time in minutes",
+            "value": 12
+        },
+        {
+            "trait_type": "recorded",
+            "value": true
+        },
+        {
+            "trait_type": "raster graphics editor",
+            "value": "Aesprite"
+        },
+        {
+            "trait_type": "drawing instrument",
+            "value": "digital pen"
+        },
+        {
+            "trait_type": "code snippet",
+            "value": "ffmpeg -i collections/2-proto_towers/media/recordings/45_raw.mkv -filter_complex \"[0:v]setpts=PTS/12[v];[v]crop=400:400:460:70\" -an collections/2-proto_towers/media/recordings/timelapses/45_timelapse.mp4"
+        }
+	]
+}

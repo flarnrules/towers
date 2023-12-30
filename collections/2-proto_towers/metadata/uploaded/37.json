@@ -1,7 +1,7 @@
 {
 	
-    "name": "Proto Tower 39",
-    "description": "This is one of my favorite background patterns to draw. I also like the name.",
+    "name": "Proto Tower 37",
+    "description": "Big day tomorrow... hoping to get a lot of work done including a bit more streamlining of this work flow, as well as minting and listing through proto tower 60. Seems like impossible, but I can do some shorter descriptions. I'm also finding that completing the metadata first and foremost, greatly increases the speed of creating.",
     
     "attributes": [
         {
@@ -14,19 +14,19 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": "CGAO"
+            "value": "AAP-64"
         },
         {
             "trait_type": "background pattern",
-            "value": "corners"
+            "value": "checkerboard"
         },
         {
             "trait_type": "time in minutes",
-            "value": null
+            "value": 8
         },
         {
             "trait_type": "recorded",
-            "value": false
+            "value": true
         },
         {
             "trait_type": "raster graphics editor",
@@ -38,7 +38,7 @@
         },
         {
             "trait_type": "code snippet",
-            "value": ""
+            "value": "ffmpeg -i collections/2-proto_towers/media/recordings/37_raw.mkv -filter_complex \"[0:v]setpts=PTS/12[v];[v]crop=550:550:0:0\" -an collections/2-proto_towers/media/recordings/37_timelapse.mp4"
         }
 	]
 }

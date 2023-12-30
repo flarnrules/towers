@@ -1,7 +1,7 @@
 {
 	
-    "name": "Proto Tower 44",
-    "description": "",
+    "name": "Proto Tower 43",
+    "description": "Getting into some gradients, will need to be sure I use an appropriate color palette. The Aesprite 'Google UI' preset is almost perfect for gradients. Almost feels like cheating.",
     
     "attributes": [
         {
@@ -14,19 +14,19 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": "Default"
+            "value": "Google UI"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "horizontal gradient"
         },
         {
             "trait_type": "time in minutes",
-            "value": null
+            "value": 6
         },
         {
             "trait_type": "recorded",
-            "value": false
+            "value": true
         },
         {
             "trait_type": "raster graphics editor",
@@ -38,7 +38,7 @@
         },
         {
             "trait_type": "code snippet",
-            "value": ""
+            "value": "ffmpeg -i collections/2-proto_towers/media/recordings/43_raw.mkv -filter_complex \"[0:v]setpts=PTS/12[v];[v]crop=400:400:460:70\" -an collections/2-proto_towers/media/recordings/timelapses/43_timelapse.mp4"
         }
 	]
 }

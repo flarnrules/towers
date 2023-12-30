@@ -1,0 +1,44 @@
+{
+	
+    "name": "Proto Tower 40",
+    "description": "Okay in order to get to 60 proto towers by the end of tomorrow, I need to draw 36-50 and 56-60. That's 20 drawings. I can do that! I think two of those batches will be 8x8s. One of the batches will be a 32x32, another will be 64x64, another will be 128x128 and the last one will be 8x8. I think juxtaposing the 8x8 immediately after the 128x128 and should be interesting to observe how people respond to that (if at all). This collection is still so small compared to 10,000 piece collections, but I think it has the potential to become something pretty interesting, especially the way it is worked into the book, and how derivatives will be handled. Side note, the ffmpeg script below works well if you have an Aesprite image centered mid screen on a 1280x720 monitor to create a timelapse of a screen recording... ill be using this script on future timelapses.",
+    
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "32x32"
+        },
+	    {
+            "trait_type": "dimensions",
+            "value": "768x768"
+	    },  
+        {
+            "trait_type": "color palette",
+            "value": "Gameboy"
+        },
+        {
+            "trait_type": "background pattern",
+            "value": "substrate"
+        },
+        {
+            "trait_type": "time in minutes",
+            "value": 8
+        },
+        {
+            "trait_type": "recorded",
+            "value": true
+        },
+        {
+            "trait_type": "raster graphics editor",
+            "value": "Aesprite"
+        },
+        {
+            "trait_type": "drawing instrument",
+            "value": "digital pen"
+        },
+        {
+            "trait_type": "code snippet",
+            "value": "ffmpeg -i collections/2-proto_towers/media/recordings/40_raw.mkv -filter_complex \"[0:v]setpts=PTS/12[v];[v]crop=400:400:485:60\" -an collections/2-proto_towers/media/recordings/40_timelapse.mp4"
+        }
+	]
+}

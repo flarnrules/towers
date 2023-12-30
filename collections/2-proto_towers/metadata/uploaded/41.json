@@ -1,7 +1,7 @@
 {
 	
-    "name": "Proto Tower 45",
-    "description": "",
+    "name": "Proto Tower 41",
+    "description": "The thing that makes me feel the most optimistic about finishing 25 proto towers in one day is that it's a SATURDAY BABY!!! and also I'm writing out the vast majority of the metadata all at once. I'll change some values after the drawings are finished, but the vast majority of the metadata won't need to be changed much.",
     
     "attributes": [
         {
@@ -14,19 +14,19 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": "Default"
+            "value": "ARQ4"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "stars"
         },
         {
             "trait_type": "time in minutes",
-            "value": null
+            "value": 4
         },
         {
             "trait_type": "recorded",
-            "value": false
+            "value": true
         },
         {
             "trait_type": "raster graphics editor",
@@ -38,7 +38,7 @@
         },
         {
             "trait_type": "code snippet",
-            "value": ""
+            "value": "ffmpeg -i collections/2-proto_towers/media/recordings/41_raw.mkv -filter_complex \"[0:v]setpts=PTS/12[v];[v]crop=400:400:485:60\" -an collections/2-proto_towers/media/recordings/timelapses/41_timelapse.mp4"
         }
 	]
 }
