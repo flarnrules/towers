@@ -1,0 +1,44 @@
+{
+	
+    "name": "Proto Tower 32",
+    "description": "Just yesterday I was thinking that a 32x32 grid size was overly constraining. Working in a 16x16 space is... a whole lot different. Each of these is going to be a blast to remix I think.",
+    
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "16x16"
+        },
+	    {
+            "trait_type": "dimensions",
+            "value": "768x768"
+	    },  
+        {
+            "trait_type": "color palette",
+            "value": "Default"
+        },
+        {
+            "trait_type": "background pattern",
+            "value": "stamp"
+        },
+        {
+            "trait_type": "time in minutes",
+            "value": null
+        },
+        {
+            "trait_type": "recorded",
+            "value": false
+        },
+        {
+            "trait_type": "raster graphics editor",
+            "value": "Aesprite"
+        },
+        {
+            "trait_type": "drawing instrument",
+            "value": "digital pen"
+        },
+        {
+            "trait_type": "code snippet",
+            "value": "for i in {31..35}; do cp template.json \"$i.json\"; done"
+        }
+	]
+}

@@ -1,0 +1,44 @@
+{
+	
+    "name": "Proto Tower 35",
+    "description": "Another simple one, with clouds background. This one got me thinking about how a generative one of these could come together. I know I would probably need to dip my toes into some other types of creative coding, specifically will likely need to implement some sort of wave function collapse algorithm, or at least that might be an interesting approach to a set of these proto-towers.",
+    
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "16x16"
+        },
+	    {
+            "trait_type": "dimensions",
+            "value": "768x768"
+	    },  
+        {
+            "trait_type": "color palette",
+            "value": "Default"
+        },
+        {
+            "trait_type": "background pattern",
+            "value": "clouds"
+        },
+        {
+            "trait_type": "time in minutes",
+            "value": null
+        },
+        {
+            "trait_type": "recorded",
+            "value": false
+        },
+        {
+            "trait_type": "raster graphics editor",
+            "value": "Aesprite"
+        },
+        {
+            "trait_type": "drawing instrument",
+            "value": "digital pen"
+        },
+        {
+            "trait_type": "code snippet",
+            "value": "for i in {31..35}; do cp template.json \"$i.json\"; done"
+        }
+	]
+}

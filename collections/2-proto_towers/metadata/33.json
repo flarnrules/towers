@@ -1,0 +1,44 @@
+{
+	
+    "name": "Proto Tower 33",
+    "description": "This one was fun to draw, after I sorted out an enormous amount of pain associated with git and github. I learned to always make sure I commit and push my changes on one computer before hopping over to another computer and working. undoing commits and pushes to github is really complicated. I also don't quite understand how `git reverse` and `git revert` work correctly, but I think I learned some stuff. Specifically the command `git reflog` which gives the history of all commits in the repo.",
+    
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "16x16"
+        },
+	    {
+            "trait_type": "dimensions",
+            "value": "768x768"
+	    },  
+        {
+            "trait_type": "color palette",
+            "value": "Default"
+        },
+        {
+            "trait_type": "background pattern",
+            "value": "radial gradient"
+        },
+        {
+            "trait_type": "time in minutes",
+            "value": null
+        },
+        {
+            "trait_type": "recorded",
+            "value": false
+        },
+        {
+            "trait_type": "raster graphics editor",
+            "value": "Aesprite"
+        },
+        {
+            "trait_type": "drawing instrument",
+            "value": "digital pen"
+        },
+        {
+            "trait_type": "code snippet",
+            "value": "git reflog"
+        }
+	]
+}

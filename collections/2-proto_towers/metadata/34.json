@@ -1,0 +1,44 @@
+{
+	
+    "name": "Proto Tower 34",
+    "description": "This one was fun to draw, I think I'm getting (just barely) the hang of shading with such limited space and a limited color pallette - you really gotta think through what you are doing. I think this one looks a bit 'fuzzy' but sort of accomplished the effect I was going for.",
+    
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "16x16"
+        },
+	    {
+            "trait_type": "dimensions",
+            "value": "768x768"
+	    },  
+        {
+            "trait_type": "color palette",
+            "value": "Default"
+        },
+        {
+            "trait_type": "background pattern",
+            "value": "stars"
+        },
+        {
+            "trait_type": "time in minutes",
+            "value": null
+        },
+        {
+            "trait_type": "recorded",
+            "value": false
+        },
+        {
+            "trait_type": "raster graphics editor",
+            "value": "Aesprite"
+        },
+        {
+            "trait_type": "drawing instrument",
+            "value": "digital pen"
+        },
+        {
+            "trait_type": "code snippet",
+            "value": "for i in {31..35}; do cp template.json \"$i.json\"; done"
+        }
+	]
+}

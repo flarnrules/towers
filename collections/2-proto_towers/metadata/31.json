@@ -1,0 +1,44 @@
+{
+	
+    "name": "Proto Tower 31",
+    "description": "I looks like I didn't really finish the description on that last one, my bad. I'm moving on to a different format, here the next 5 will be 16x16. Something that I'm very excited about is upscale remixing some of these ver low pixel count images into bigger ones with more pixels. These 'derivatives' would be linked to their origin image in some meaningful way via smart contracts or a clever wallet configuration.",
+    
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "16x16"
+        },
+	    {
+            "trait_type": "dimensions",
+            "value": "768x768"
+	    },  
+        {
+            "trait_type": "color palette",
+            "value": "Default"
+        },
+        {
+            "trait_type": "background pattern",
+            "value": "substrate"
+        },
+        {
+            "trait_type": "time in minutes",
+            "value": null
+        },
+        {
+            "trait_type": "recorded",
+            "value": false
+        },
+        {
+            "trait_type": "raster graphics editor",
+            "value": "Aesprite"
+        },
+        {
+            "trait_type": "drawing instrument",
+            "value": "digital pen"
+        },
+        {
+            "trait_type": "code snippet",
+            "value": "for i in {31..35}; do cp template.json \"$i.json\"; done"
+        }
+	]
+}
