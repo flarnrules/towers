@@ -1,7 +1,7 @@
 {
 	
     "name": "Proto Tower 53",
-    "description": "",
+    "description": "Okay made some minor revisions to the metadata that will stick around from this point on: instead of the recorded trait_type being a boolean, I've changed it to just a string where you can put whatever you want. I thought boolean would be more efficient (true or false answers only), but actually I think it just isn't what I'm going for, I should be collecting strings because strings are just cooler to work with. I think strings might be more resource intensive though. I guess you just gotta pay up for the good stuff sometimes.",
     
     "attributes": [
         {
@@ -14,31 +14,31 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": "Default"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "sun"
         },
         {
             "trait_type": "time in minutes",
-            "value": null
+            "value": "n/a"
         },
         {
             "trait_type": "recorded",
-            "value": false
+            "value": "yes"
         },
         {
             "trait_type": "raster graphics editor",
-            "value": "Aesprite"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "drawing instrument",
-            "value": "digital pen"
+            "value": "mouse"
         },
         {
             "trait_type": "code snippet",
-            "value": ""
+            "value": "crop=1280:720:0:0"
         }
 	]
 }

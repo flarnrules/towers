@@ -1,7 +1,7 @@
 {
 	
     "name": "Proto Tower 52",
-    "description": "",
+    "description": "This is the second proto tower drawn on an 8x8 canvas, and also it was drawn using a mouse. Background patterns are kind of impossible at this scale, so this one is also another 'sun' background.",
     
     "attributes": [
         {
@@ -14,11 +14,11 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": "Default"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "sun"
         },
         {
             "trait_type": "time in minutes",
@@ -30,11 +30,11 @@
         },
         {
             "trait_type": "raster graphics editor",
-            "value": "Aesprite"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "drawing instrument",
-            "value": "digital pen"
+            "value": "mouse"
         },
         {
             "trait_type": "code snippet",

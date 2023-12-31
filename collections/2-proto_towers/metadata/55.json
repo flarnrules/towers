@@ -1,7 +1,7 @@
 {
 	
     "name": "Proto Tower 55",
-    "description": "",
+    "description": "So this is the last of the 5 in this batch, and I actually think it's the strongest design of the bunch. I could see myself remixing this as a 16x16 and again as a 32x32 in the future, there's a lot of interesting stuff you could do with this one. Also the first of the batch with a different background pattern from 'sun', in this case it's 'moon' because... i dunno what else a blue square in the sky represents.",
     
     "attributes": [
         {
@@ -14,31 +14,31 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": "Default"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "moon"
         },
         {
             "trait_type": "time in minutes",
-            "value": null
+            "value": "n/a"
         },
         {
             "trait_type": "recorded",
-            "value": false
+            "value": "yes"
         },
         {
             "trait_type": "raster graphics editor",
-            "value": "Aesprite"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "drawing instrument",
-            "value": "digital pen"
+            "value": "mouse"
         },
         {
             "trait_type": "code snippet",
-            "value": ""
+            "value": "6[v];[v]crop=1280:720:0:0"
         }
 	]
 }

@@ -1,7 +1,7 @@
 {
 	
     "name": "Proto Tower 51",
-    "description": "",
+    "description": "This is the first 8x8 prototower I drew, but not the first minted. I was also perusing the metadata on the collection earlier... and there's something I'm not doing right with these JSONS because I noticed quite a few duplicate trait values. I wonder if the order of the trait types when minting is relevant... it probably is but I just assumed that these were like a dictionary, where order was not relevant. Whoops. Now that I know I'll make sure to ONLY add trait_types to the bottom of my Jsons, and not somewhere in the middle so they are organized nicely. Also, there's not a lot of space to work with, so these were fun and tricky to draw.",
     
     "attributes": [
         {
@@ -18,7 +18,7 @@
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "sun"
         },
         {
             "trait_type": "time in minutes",

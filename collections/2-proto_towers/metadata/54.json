@@ -1,7 +1,7 @@
 {
 	
     "name": "Proto Tower 54",
-    "description": "",
+    "description": "Trying to record the process of creating the metadata for these things. I feel like I'm incredibly inefficient at completing the metadata, but also I feel like the metadata is one of the most fun parts of an nft, so I always like to spend a little time thinking about what new traits or values I can use, and of course my descriptions are rather long as well.",
     
     "attributes": [
         {
@@ -14,31 +14,31 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": "Default"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "sun"
         },
         {
             "trait_type": "time in minutes",
-            "value": null
+            "value": "n/a"
         },
         {
             "trait_type": "recorded",
-            "value": false
+            "value": "yes"
         },
         {
             "trait_type": "raster graphics editor",
-            "value": "Aesprite"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "drawing instrument",
-            "value": "digital pen"
+            "value": "mouse"
         },
         {
             "trait_type": "code snippet",
-            "value": ""
+            "value": "6[v];[v]crop=1280:720:0:0"
         }
 	]
 }
