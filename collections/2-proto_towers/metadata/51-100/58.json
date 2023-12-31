@@ -1,7 +1,7 @@
 {
 	
-    "name": "Proto Tower 57",
-    "description": "",
+    "name": "Proto Tower 58",
+    "description": "This one was fun to draw! I was going for an island with some sort of ancient glass shards, built by either an ancient civilization or perhaps an alien race.",
     
     "attributes": [
         {
@@ -18,15 +18,15 @@
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "Sun"
         },
         {
             "trait_type": "time in minutes",
-            "value": null
+            "value": 10
         },
         {
             "trait_type": "recorded",
-            "value": false
+            "value": "yes"
         },
         {
             "trait_type": "raster graphics editor",

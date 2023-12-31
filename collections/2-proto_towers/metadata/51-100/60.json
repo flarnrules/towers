@@ -1,7 +1,7 @@
 {
 	
-    "name": "Proto Tower 58",
-    "description": "",
+    "name": "Proto Tower 60",
+    "description": "This proto tower depicts little hut-towers on top of some sort of plateaus. long forgotten, you have now revived it. perhaps these huts can be occupied again some day in the future?",
     
     "attributes": [
         {
@@ -18,15 +18,15 @@
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "Clouds"
         },
         {
             "trait_type": "time in minutes",
-            "value": null
+            "value": 7
         },
         {
             "trait_type": "recorded",
-            "value": false
+            "value": "yes"
         },
         {
             "trait_type": "raster graphics editor",

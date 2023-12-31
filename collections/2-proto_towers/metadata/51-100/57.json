@@ -1,7 +1,7 @@
 {
 	
-    "name": "Proto Tower 60",
-    "description": "",
+    "name": "Proto Tower 57",
+    "description": "This is proto tower 57. Proto towers are digital paintings, and holding one gives the user whitelist access to a future collection called Towers.",
     
     "attributes": [
         {
@@ -18,15 +18,15 @@
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "Big Xs"
         },
         {
             "trait_type": "time in minutes",
-            "value": null
+            "value": 11
         },
         {
             "trait_type": "recorded",
-            "value": false
+            "value": "yes"
         },
         {
             "trait_type": "raster graphics editor",

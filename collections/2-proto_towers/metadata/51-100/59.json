@@ -1,7 +1,7 @@
 {
 	
-    "name": "Proto Tower 56",
-    "description": "",
+    "name": "Proto Tower 59",
+    "description": "I was going for an obelisk in the desert, during a sunset.",
     
     "attributes": [
         {
@@ -18,15 +18,15 @@
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "Sunset"
         },
         {
             "trait_type": "time in minutes",
-            "value": null
+            "value": 10
         },
         {
             "trait_type": "recorded",
-            "value": false
+            "value": "yes"
         },
         {
             "trait_type": "raster graphics editor",

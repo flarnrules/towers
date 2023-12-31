@@ -1,0 +1,44 @@
+{
+	
+    "name": "Proto Tower 56",
+    "description": "I tried out a bit of transparency on this one to simulate steam rising from a waterfall. I looking forward to creating some animated gifs in this collection... those will take a bit longer so I'll need to make sure the json is configured correctly to ensure high rarity scores. Oh I also refactored the bulk resize python script, which is much more efficient and eliminated two steps, the first step it eliminated was the need to move original drawings to a 'bulk_resize' folder, and the second step it eliminated was the need to rename the files once they have been resized.",
+    
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "64x64"
+        },
+	    {
+            "trait_type": "dimensions",
+            "value": "768x768"
+	    },  
+        {
+            "trait_type": "color palette",
+            "value": "Default"
+        },
+        {
+            "trait_type": "background pattern",
+            "value": "Stamp"
+        },
+        {
+            "trait_type": "time in minutes",
+            "value": 12
+        },
+        {
+            "trait_type": "recorded",
+            "value": "yes"
+        },
+        {
+            "trait_type": "raster graphics editor",
+            "value": "Aesprite"
+        },
+        {
+            "trait_type": "drawing instrument",
+            "value": "digital pen"
+        },
+        {
+            "trait_type": "code snippet",
+            "value": "bulk_resize(input_folder, output_folder, new_width, new_height)"
+        }
+	]
+}

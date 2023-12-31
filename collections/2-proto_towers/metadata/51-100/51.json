@@ -14,7 +14,7 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": "Default"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "background pattern",
@@ -30,11 +30,11 @@
         },
         {
             "trait_type": "raster graphics editor",
-            "value": "Aesprite"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "drawing instrument",
-            "value": "digital pen"
+            "value": "mouse"
         },
         {
             "trait_type": "code snippet",
