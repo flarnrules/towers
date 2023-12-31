@@ -1,7 +1,7 @@
 {
 	
     "name": "Proto Tower 47",
-    "description": "",
+    "description": "I'm going to just write the metadata, and then draw the drawings for this batch. I was making an effort to include lots of information about the project and it's goals in descriptions of previous proto towers, so just go read through those... or maybe read some later ones. Also, this is a brand new background pattern called 'hotdogs'.",
     
     "attributes": [
         {
@@ -14,11 +14,11 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": "Default"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "hotdogs"
         },
         {
             "trait_type": "time in minutes",
@@ -30,11 +30,11 @@
         },
         {
             "trait_type": "raster graphics editor",
-            "value": "Aesprite"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "drawing instrument",
-            "value": "digital pen"
+            "value": "mouse"
         },
         {
             "trait_type": "code snippet",

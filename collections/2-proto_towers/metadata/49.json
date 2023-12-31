@@ -1,7 +1,7 @@
 {
 	
     "name": "Proto Tower 49",
-    "description": "",
+    "description": "The thing I find least attractive about doing these in Microsoft Paint is that the default color scheme is less than desirable. I'd be happy to add a bunch of custom colors, but then I'd have to come up with new color palettes each time, which would make the metadata a bit more interesting, but that's just a whole other can of worms I'm not ready for yet, so I'm just stuck with the default ms paint color palette.",
     
     "attributes": [
         {
@@ -14,11 +14,11 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": "Default"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "radial gradient"
         },
         {
             "trait_type": "time in minutes",
@@ -30,11 +30,11 @@
         },
         {
             "trait_type": "raster graphics editor",
-            "value": "Aesprite"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "drawing instrument",
-            "value": "digital pen"
+            "value": "mouse"
         },
         {
             "trait_type": "code snippet",

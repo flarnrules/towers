@@ -1,7 +1,7 @@
 {
 	
     "name": "Proto Tower 46",
-    "description": "",
+    "description": "I was going to do these on my computer, but instead I'm doing them on my laptop while I watch The Hunger Games Part 3 Part 1. Binging The Hunger Games movies is a weird thing to do after the holidays, yet here I am, and I'm loving it.",
     
     "attributes": [
         {
@@ -14,11 +14,11 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": "Default"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "pluses"
         },
         {
             "trait_type": "time in minutes",
@@ -30,11 +30,11 @@
         },
         {
             "trait_type": "raster graphics editor",
-            "value": "Aesprite"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "drawing instrument",
-            "value": "digital pen"
+            "value": "mouse"
         },
         {
             "trait_type": "code snippet",

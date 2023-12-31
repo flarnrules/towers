@@ -1,7 +1,7 @@
 {
 	
     "name": "Proto Tower 48",
-    "description": "",
+    "description": "These 128x128 grids are more fun to draw with a drawing pad, rather than a mouse. That said, having all of this real estate is still liberating. Should be fun to make more of these but with a drawing pad.",
     
     "attributes": [
         {
@@ -14,11 +14,11 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": "Default"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "squares"
         },
         {
             "trait_type": "time in minutes",
@@ -30,11 +30,11 @@
         },
         {
             "trait_type": "raster graphics editor",
-            "value": "Aesprite"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "drawing instrument",
-            "value": "digital pen"
+            "value": "mouse"
         },
         {
             "trait_type": "code snippet",

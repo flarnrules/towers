@@ -1,7 +1,7 @@
 {
 	
     "name": "Proto Tower 50",
-    "description": "",
+    "description": "I don't even know what 'stacked gradients' is even supposed to be. I'm not sure the idea works as well with this color palette, and it is a bit more challenging with the limited toolset. I actually think this one turned out kind of well, excited to play around with the concept of stacked gradients in future proto towers.",
     
     "attributes": [
         {
@@ -14,11 +14,11 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": "Default"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "stacked gradients"
         },
         {
             "trait_type": "time in minutes",
@@ -30,15 +30,15 @@
         },
         {
             "trait_type": "raster graphics editor",
-            "value": "Aesprite"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "drawing instrument",
-            "value": "digital pen"
+            "value": "mouse"
         },
         {
             "trait_type": "code snippet",
-            "value": ""
+            "value": "bulk_resize('../collections/2-proto_towers/bulkresize', 768, 768)"
         }
 	]
 }
