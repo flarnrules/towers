@@ -14,11 +14,11 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": "Default"
+            "value": "AAP-Splendor128"
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "radial gradient"
         },
         {
             "trait_type": "time in minutes",
