@@ -1,12 +1,12 @@
 {
 	
-    "name": "Proto Tower ",
+    "name": "Proto Tower 80",
     "description": "This is a Standard deployment, which comes in batches of 5. Sometimes the batches have themes, other times they are just random pulled from what's in my head at the time. Standard deployments have the same dimensions for each piece in the deployment.",
     
     "attributes": [
         {
             "trait_type": "pixels",
-            "value": "8x8"
+            "value": "16x16"
         },
 	    {
             "trait_type": "dimensions",
@@ -38,7 +38,7 @@
         },
         {
             "trait_type": "code snippet",
-            "value": "./standard_setup.sh"
+            "value": "for i in {76..80}; do cp template.json \"$i.json\"; done"
         },
         {
             "trait_type": "deployment type",

@@ -37,6 +37,36 @@ I only really know what's in collections and utilities right now. I've basically
 
 Speaking of that... I should probably also use those pieces as Proto Towers, as long as I know for sure they aren't gonna be minted in the main collection, or modify them in some way. This could make it easy to mint one on a day where perhaps I'm too busy to do a bunch of art, I could just run some special command and it mints from a big pile of old concept art at random. That would be really cool.
 
+
+#################################
+# metadata naming standards
+#################################
+
+The metadata is stored in a `json` file located in the `metadata` subdirectory. The overall structure of the json is like this:
+
+```JSON
+{
+    "name":"Proto Tower <number>",
+    "description":"Any description.",
+    "attributes": [
+        {
+            "trait_type": "trait name",
+            "value": "Value" 
+        },
+        {
+            "trait_type": "other trait name",
+            "value": "Some Other Value"
+        }
+    ]
+}
+```
+Make note of two key formatting choices:
+- `trait_type`s are all lower case.
+- `value`s are all upper case, all first letters are uppercase!
+- some of the older items in this collection do not follow these standards, which I think can be rectified with a bit of effort on Stargaze Studio.
+
+
+
 #################################
 # types of deployment
 #################################

@@ -1,12 +1,12 @@
 {
 	
-    "name": "Proto Tower ",
-    "description": "This is a Standard deployment, which comes in batches of 5. Sometimes the batches have themes, other times they are just random pulled from what's in my head at the time. Standard deployments have the same dimensions for each piece in the deployment.",
+    "name": "Proto Tower 77",
+    "description": "I really need to standardize the metadata in this collection, it's getting a bit out of hand. I have a bunch of duplicate trait values because of perhaps capitalization or the order of attributes in previously minted pieces. One thing I can do moving forward is standardize the trait values -> should they be capitalized? Answer... yes. Let's Just Capitalize The First Letter Of Every Single Word In A Trait Value... like that last sentence. Also, let's make the trait_types all lowercase. Not sure why, but that's what I'm doing I guess. It's officially in the README.md file now.",
     
     "attributes": [
         {
             "trait_type": "pixels",
-            "value": "8x8"
+            "value": "16x16"
         },
 	    {
             "trait_type": "dimensions",
@@ -38,7 +38,7 @@
         },
         {
             "trait_type": "code snippet",
-            "value": "./standard_setup.sh"
+            "value": "for i in {76..80}; do cp template.json \"$i.json\"; done"
         },
         {
             "trait_type": "deployment type",
