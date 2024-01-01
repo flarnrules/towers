@@ -1,12 +1,12 @@
 {
 	
-    "name": "Proto Tower ",
-    "description": "",
+    "name": "Proto Tower 65",
+    "description": "Happy New Year 2024!!!🌃🎆",
     
     "attributes": [
         {
             "trait_type": "pixels",
-            "value": "64x64"
+            "value": "32x32"
         },
 	    {
             "trait_type": "dimensions",
@@ -18,7 +18,7 @@
         },
         {
             "trait_type": "background pattern",
-            "value": ""
+            "value": "fireworks"
         },
         {
             "trait_type": "time in minutes",
@@ -30,15 +30,15 @@
         },
         {
             "trait_type": "raster graphics editor",
-            "value": "Aesprite"
+            "value": "Pixel Studio"
         },
         {
             "trait_type": "drawing instrument",
-            "value": "digital pen"
+            "value": "fingers and thumbs"
         },
         {
             "trait_type": "code snippet",
-            "value": ""
+            "value": "python3 bulk_resize.py"
         }
 	]
 }
