@@ -1,6 +1,6 @@
 {
 	
-    "name": "Proto Tower ",
+    "name": "Proto Tower 67",
     "description": "this is a blitz, a set of 10, all 8x8 pixels and with lots of copied metadata. I'm going to test these out fromt time to time, to shake out bots and get some sweet sweet royalties payments sent to the project treasury. it's something I came up with in order to push forward with the goal of ensuring a highly decentralized ecosystem.",
     
     "attributes": [
@@ -18,15 +18,15 @@
         },
         {
             "trait_type": "background pattern",
-            "value": "Sun"
+            "value": "Moon"
         },
         {
             "trait_type": "time in minutes",
-            "value": null
+            "value": 3
         },
         {
             "trait_type": "recorded",
-            "value": "no"
+            "value": "yes"
         },
         {
             "trait_type": "raster graphics editor",
@@ -38,7 +38,7 @@
         },
         {
             "trait_type": "code snippet",
-            "value": "for i in {66..75}; do cp template.json \"$i.json\"; done"
+            "value": "ffmpeg -i collections/2-proto_towers/media/recordings/67_raw.mkv -filter_complex \"[0:v]setpts=PTS/12[v];[v]crop=400:400:460:70\" -an collections/2-proto_towers/media/recordings/timelapses/67_timelapse.mp4"
         },
         {
             "trait_type": "deployment type",

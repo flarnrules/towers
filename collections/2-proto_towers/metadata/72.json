@@ -1,6 +1,6 @@
 {
 	
-    "name": "Proto Tower ",
+    "name": "Proto Tower 72",
     "description": "this is a blitz, a set of 10, all 8x8 pixels and with lots of copied metadata. I'm going to test these out fromt time to time, to shake out bots and get some sweet sweet royalties payments sent to the project treasury. it's something I came up with in order to push forward with the goal of ensuring a highly decentralized ecosystem.",
     
     "attributes": [
@@ -18,7 +18,7 @@
         },
         {
             "trait_type": "background pattern",
-            "value": "Sun"
+            "value": "Ocean"
         },
         {
             "trait_type": "time in minutes",
@@ -26,7 +26,7 @@
         },
         {
             "trait_type": "recorded",
-            "value": "no"
+            "value": "yes"
         },
         {
             "trait_type": "raster graphics editor",

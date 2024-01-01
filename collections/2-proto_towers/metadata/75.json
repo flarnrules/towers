@@ -1,6 +1,6 @@
 {
 	
-    "name": "Proto Tower ",
+    "name": "Proto Tower 75",
     "description": "this is a blitz, a set of 10, all 8x8 pixels and with lots of copied metadata. I'm going to test these out fromt time to time, to shake out bots and get some sweet sweet royalties payments sent to the project treasury. it's something I came up with in order to push forward with the goal of ensuring a highly decentralized ecosystem.",
     
     "attributes": [
@@ -38,7 +38,7 @@
         },
         {
             "trait_type": "code snippet",
-            "value": "for i in {66..75}; do cp template.json \"$i.json\"; done"
+            "value": "cd ~/repos/towers/utilities python3 bulk_resize.py"
         },
         {
             "trait_type": "deployment type",
