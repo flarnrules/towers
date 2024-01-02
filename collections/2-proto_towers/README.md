@@ -73,6 +73,10 @@ Make note of two key formatting choices:
 
 Standard - i mint and list 5 towers, all of the same dimensions, and sometimes following similar thematic elements. the decision for what to do currently is literally whatever comes to my head first. i could eventually standardize this process a bit, like demonstrate certain holidays or special occasions result in topically significant choices in the designs. That would be really cool. (only type as of proto tower 65.)
 
+To setup a standard - run `.\standard_setup.sh` in the correct folder ( think `towers/collections/2-proto_towers/`) and follow the command line interface prompts.
+
+
+
 8x8 Blitz - i mint and list 10 towers, all of them 8x8 dimensions. the metadata is typically copied from previous blitz'z and basically there's only 64 squares to work with so it's kind of challenging to draw anything of substance. (never been done)
 
 others - to be determined

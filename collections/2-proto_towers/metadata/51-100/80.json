@@ -1,7 +1,7 @@
 {
 	
     "name": "Proto Tower 80",
-    "description": "This is a Standard deployment, which comes in batches of 5. Sometimes the batches have themes, other times they are just random pulled from what's in my head at the time. Standard deployments have the same dimensions for each piece in the deployment.",
+    "description": "This is a Standard deployment, which comes in batches of 5. Sometimes the batches have themes, other times they are just random pulled from what's in my head at the time. Standard deployments have the same dimensions for each piece in the deployment. Keep note of the recorded trait_type... if it says Yes then I screen recorded as I drew and probably made a timelapse. Might auction those off as 1/1s - maybe open edition? That would be really interesting way to use derivatives in the collection actually, since the videos are derived from the original creation of the image... actually is the nft the derivative? and the recording is the real thing? something to think about... 🕰️",
     
     "attributes": [
         {
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "time in minutes",
-            "value": null
+            "value": 5
         },
         {
             "trait_type": "recorded",
-            "value": "No"
+            "value": "Yes"
         },
         {
             "trait_type": "raster graphics editor",
@@ -38,7 +38,7 @@
         },
         {
             "trait_type": "code snippet",
-            "value": "for i in {76..80}; do cp template.json \"$i.json\"; done"
+            "value": "python3 bulk_resize.py (soon to be 'batch_resize.py' because batch is more accurate and i use it elsewhere in the code"
         },
         {
             "trait_type": "deployment type",
