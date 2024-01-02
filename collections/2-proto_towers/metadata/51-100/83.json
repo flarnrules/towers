@@ -1,6 +1,6 @@
 {
 	
-    "name": "Proto Tower ",
+    "name": "Proto Tower 83",
     "description": "This is a Standard deployment, which comes in batches of 5. Sometimes the batches have themes, other times they are just random pulled from what's in my head at the time. Standard deployments have the same dimensions for each piece in the deployment.",
     
     "attributes": [
@@ -14,11 +14,11 @@
 	    },  
         {
             "trait_type": "color palette",
-            "value": "Default"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "background pattern",
-            "value": "Sky"
+            "value": "Nite Sky"
         },
         {
             "trait_type": "time in minutes",
@@ -30,11 +30,11 @@
         },
         {
             "trait_type": "raster graphics editor",
-            "value": "Aesprite"
+            "value": "Microsoft Paint"
         },
         {
             "trait_type": "drawing instrument",
-            "value": "Digital Pen"
+            "value": "Mouse"
         },
         {
             "trait_type": "code snippet",
