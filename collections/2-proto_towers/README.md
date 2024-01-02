@@ -112,5 +112,54 @@ Anyways, after you get all of the metadata files with the correct "name" inside 
 ## collab
 mint and list 1 tower that is a collab with another artist.
 List is always as an auction starting at the tower's number + 10 stars.
-Auction length is variable, anywhere from 
+Auction length is variable, anywhere from 6 hours to several days.
+
+###############################################
+# collaborations
+###############################################
+
+All collaborations are welcome.
+
+Collaborators need to provide:
+- a pixel drawing of a tower (any dimensions, but must be a square - common dimensions are 8x8, 16x16, 32x32, 64x64, 128x128, but you can do whatever size you want!), in any suitable format (png, jpeg, gif) or even some exotic stuff like .svg (but we will need to chat how to make non simple raster graphics work)
+- a description, this will go in the metadata under "description"
+- a color palette, this will go in the metadata under "color palette"
+- a background pattern, this will go in the metadata under "background pattern"
+
+Optionally, collaborators can provide more information to enhance the nft's story:
+- additional custom meta data: trait type name + trait value.
+- preferred collab artist name.
+- preferred collab collection name.
+- preferred auction length.
+- a wallet address to receive royalties from the `proto towers master` wallet.
+
+I can do the rest.
+Reach out to me on twitter (@flarnrules1) or Discord(@flarnrules).
+
+Current collaborations include:
+1. Proto Tower 81 "Wadbot ProtoTower" - by Captain Jinxto
+2. Proto Tower 88 "Tower of Maintis ProtoTower" - by Captain Jinxto
+
+## collab royalties tracking
+proto towers master wallet:
+stars1hyhmssn4j6fxlvq58ctlpxwg5az7shg7zc77rp
+current memo: `for collab 🏙️🌆`
+
+collaborator wallets:
+stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z
+
+x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x
+1/2/2024 - wallet contents = 805 STARS
+collaborations
+Jinxto - 2 100%
+Total - 2 100%
+
+Split - 25% stake, 25% liquid, 50% to collaborators
+25% x 805 = 201.25 Staked
+25% x 805 = 201.25 Liquid
+50% x 805 = 402.5 Collaborators
+
+Next split on 1/9/2024
+memo: for collab 🏙️🌆
+x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x
 

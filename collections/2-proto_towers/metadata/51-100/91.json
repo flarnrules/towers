@@ -1,10 +1,10 @@
 {
-  "name": "Proto Tower 90",
+  "name": "Proto Tower 91",
   "description": "This is a Standard deployment, which comes in batches of 5. Sometimes the batches have themes, other times they are just random pulled from what's in my head at the time. Standard deployments have the same dimensions for each piece in the deployment.",
   "attributes": [
     {
       "trait_type": "pixels",
-      "value": "8x8"
+      "value": "32x32"
     },
     {
       "trait_type": "dimensions",
@@ -41,6 +41,18 @@
     {
       "trait_type": "deployment type",
       "value": "Standard"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Portable Network Graphics (PNG)"
     }
   ]
 }

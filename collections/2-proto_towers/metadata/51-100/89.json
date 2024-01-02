@@ -1,0 +1,54 @@
+{
+  "name": "Proto Tower 88",
+  "description": "Tower of Mantis ProtoTower",
+  "attributes": [
+      {
+          "trait_type": "pixels",
+          "value": "16x16"
+      },
+      {
+          "trait_type": "dimensions",
+          "value": "800x800"
+      },  
+      {
+          "trait_type": "color palette",
+          "value": "Macintosh-Default-16"
+      },
+      {
+          "trait_type": "background pattern",
+          "value": "Blue Clouds"
+      },
+      {
+          "trait_type": "time in minutes",
+          "value": null
+      },
+      {
+          "trait_type": "recorded",
+          "value": "No"
+      },
+      {
+          "trait_type": "raster graphics editor",
+          "value": "Aesprite"
+      },
+      {
+          "trait_type": "drawing instrument",
+          "value": "Mouse"
+      },
+      {
+          "trait_type": "code snippet",
+          "value": "collab_template.json"
+      },
+      {
+          "trait_type": "deployment type",
+          "value": "Collab"
+      },
+      {
+          "trait_type": "collab artist",
+          "value": "Jinxto"
+      },
+      {
+          "trait_type": "collab collection",
+          "value:": "Wadz"
+      }
+  ]
+}

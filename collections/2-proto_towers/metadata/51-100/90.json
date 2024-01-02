@@ -1,0 +1,58 @@
+{
+  "name": "Proto Tower 90",
+  "description": "This is another 1/1 Proto Tower so that the next standard deployment is from 91-95, getting things back on track. Also I would like to apologize for the spelling errors in Proto Tower 88... Also, this one is animated, but just a little bit. To whoever gets this one, hope you enjoy it!",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "64x64"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "768x768"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "Google UI"
+    },
+    {
+      "trait_type": "background pattern",
+      "value": "Stamp"
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": 12
+    },
+    {
+      "trait_type": "recorded",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "Aesprite"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Digital Pen"
+    },
+    {
+      "trait_type": "code snippet",
+      "value": "resize_image('../collections/2-proto_towers/media/gifs/90.gif', '../collections/2-proto_towers/images/51-100/90.gif', 768, 768)"
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "1/1"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "n/a"
+    },     
+    {
+      "trait_type": "file format",
+      "value": "Graphics Interchange Format (GIF)"
+    }
+  ]
+}
