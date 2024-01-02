@@ -1,0 +1,54 @@
+{
+    "name": "Proto Tower 81",
+    "description": "Wadbot ProtoTower",
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": "32x32"
+        },
+        {
+            "trait_type": "dimensions",
+            "value": "640x640"
+        },  
+        {
+            "trait_type": "color palette",
+            "value": "theruzikineb0i master palette"
+        },
+        {
+            "trait_type": "background pattern",
+            "value": "Dark Magenta Sky"
+        },
+        {
+            "trait_type": "time in minutes",
+            "value": null
+        },
+        {
+            "trait_type": "recorded",
+            "value": "No"
+        },
+        {
+            "trait_type": "raster graphics editor",
+            "value": "Aesprite"
+        },
+        {
+            "trait_type": "drawing instrument",
+            "value": "Mouse"
+        },
+        {
+            "trait_type": "code snippet",
+            "value": "collab_template.json"
+        },
+        {
+            "trait_type": "deployment type",
+            "value": "Collab"
+        },
+        {
+            "trait_type": "collab artist",
+            "value": "Jinxto"
+        },
+        {
+            "trait_type": "collab collection",
+            "value:": "https://www.stargaze.zone/m/wadz/tokens"
+        }
+    ]
+}
