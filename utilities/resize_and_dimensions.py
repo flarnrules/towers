@@ -19,5 +19,5 @@ def bulk_resize(folder_path, new_width, new_height):
             print(f"Resized '{input_file}' and saved to '{output_file}'")
 
 
-# resize_image("../collections/2-proto_towers/media/tower12.png", "../collections/2-proto_towers/media/12.png", 768, 768)
-bulk_resize('../collections/2-proto_towers/bulkresize', 768, 768)
+resize_image('../collections/2-proto_towers/media/original_pngs/88.png', '../collections/2-proto_towers/images/51-100/88.png', 768, 768)
+# bulk_resize('../collections/2-proto_towers/bulkresize', 768, 768)

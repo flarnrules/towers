@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import os
-from png_to_svg import png_to_svg
+from utilities.png_to_svg_bw import png_to_svg
 
 def segment_and_convert(input_path, output_dir):
     # Load the image in grayscale

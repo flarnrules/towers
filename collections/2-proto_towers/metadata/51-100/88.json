@@ -1,10 +1,10 @@
 {
   "name": "Proto Tower 88",
-  "description": "This is a Standard deployment, which comes in batches of 5. Sometimes the batches have themes, other times they are just random pulled from what's in my head at the time. Standard deployments have the same dimensions for each piece in the deployment.",
+  "description": "This is just a 1/1 that skips Proto Tower 87 to get the nft id on stargaze back in sync. Early on I had to burn one of the minted nft's because it was an improper upload... this threw the entire collection out of syn, so Proto Tower 86 has an nft id number on the stargaze marketplace of 87. Skipping the name `Proto Tower 87` should recitfy this and get the collection back in sequence. Hooray!🎆",
   "attributes": [
     {
       "trait_type": "pixels",
-      "value": "8x8"
+      "value": "16x16"
     },
     {
       "trait_type": "dimensions",
@@ -36,11 +36,11 @@
     },
     {
       "trait_type": "code snippet",
-      "value": "./standard_setup.sh"
+      "value": "resize_image('../collections/2-proto_towers/media/original_pngs/88.png', '../collections/2-proto_towers/images/51-100/88.png', 768, 768)"
     },
     {
       "trait_type": "deployment type",
-      "value": "Standard"
+      "value": "1/1"
     }
   ]
 }

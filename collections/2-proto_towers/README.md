@@ -65,7 +65,7 @@ Make note of two key formatting choices:
 - `value`s are all upper case, all first letters are uppercase!
 - some of the older items in this collection do not follow these standards, which I think can be rectified with a bit of effort on Stargaze Studio.
 
-
+A note on the name "Proto Tower <number>" -> this is not super optimal for sorting, should have probably gone with 1, 2, 3 etc. But can't change it now, so let's roll with it. One issue that came up is that I had to burn a faulty nft early on, and thus the incrementing token id on stargaze is off by 1 unit. Thus, I'm going to skip the name `Proto Tower 87` and that should sort out the sequencing issue.
 
 #################################
 # types of deployment

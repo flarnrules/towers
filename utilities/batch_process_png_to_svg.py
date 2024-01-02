@@ -1,4 +1,4 @@
-from png_to_svg import png_to_svg_invert  # Import your function
+from utilities.png_to_svg_bw import png_to_svg_invert  # Import your function
 import os
 
 # Input and output directories
