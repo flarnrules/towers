@@ -71,13 +71,15 @@ Make note of two key formatting choices:
 # types of deployment
 #################################
 
-Standard - i mint and list 5 towers, all of the same dimensions, and sometimes following similar thematic elements. the decision for what to do currently is literally whatever comes to my head first. i could eventually standardize this process a bit, like demonstrate certain holidays or special occasions result in topically significant choices in the designs. That would be really cool. (only type as of proto tower 65.)
+## Standard 
+- i mint and list 5 towers, all of the same dimensions, and sometimes following similar thematic elements. the decision for what to do currently is literally whatever comes to my head first. i could eventually standardize this process a bit, like demonstrate certain holidays or special occasions result in topically significant choices in the designs. That would be really cool. (only type as of proto tower 65.)
 
 To setup a standard - run `.\standard_setup.sh` in the correct folder ( think `towers/collections/2-proto_towers/`) and follow the command line interface prompts.
 
 
 
-8x8 Blitz - i mint and list 10 towers, all of them 8x8 dimensions. the metadata is typically copied from previous blitz'z and basically there's only 64 squares to work with so it's kind of challenging to draw anything of substance. (never been done)
+## 8x8 Blitz
+ - i mint and list 10 towers, all of them 8x8 dimensions. the metadata is typically copied from previous blitz'z and basically there's only 64 squares to work with so it's kind of challenging to draw anything of substance. (never been done)
 
 others - to be determined
 
@@ -94,7 +96,7 @@ blitz steps:
 
 I need to do some research so these docs don't suck ass.
 
-Anyways
+Anyways.
 
 5. If the command was configured correctly, you'll have 10 new metadata files, you still need to *manually* go in and change each "name" to the correct <Proto Tower Number> which is a pain. This could be fixed with a bit more automation in that script above, but at this time it feels easier to just manually go and change the names than to use my brain to figure out how to code that automation into the script. The funny Thing I find about software development is that... I don't have the basics down, so doing something as simple as adding another, slightly more complex `for` loop in the above BASH script is actually a huge and annoying task. a chore, rather than a mere inconvenience like flipping a light switch... I digress.
 
@@ -107,5 +109,8 @@ Anyways, after you get all of the metadata files with the correct "name" inside 
 6b --> I need to write a script that does this for me. Should be relatively simple to do. I'll use a crane (🏗️) emoji to indicate things that need to be built: 🏗️. If you are a new developer or just reading through this, quick tip about emojis... if you are on windows you can access the emoji menu with: `windows key + .` -> that's Windows Key and Period at the same time. It's quite remarkable, having the emoji menu right at your fingertips. Just like... hundreds of well designed tiny representations of important concepts. emojis are actually pretty cool come to think of it... anyways... 🏗️ for good measure, this would be really helpful. and save a lot of tedium.
 
 
-
+## collab
+mint and list 1 tower that is a collab with another artist.
+List is always as an auction starting at the tower's number + 10 stars.
+Auction length is variable, anywhere from 
 
