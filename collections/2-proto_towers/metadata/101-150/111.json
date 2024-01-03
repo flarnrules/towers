@@ -1,0 +1,62 @@
+{
+  "name": "Proto Tower 111",
+  "description": "This is a 1/1 deployment, because the number 111 is special. It's just a really cool number, and a palindrome. I didn't do anything special for the first palindrome (101) but that's okay, sometimes we make mistakes -- we just gotta keep moving forward. 🌇. You may have noticed that I've been using these little city emojis... there appears to be 3 good ones: cityscape 🏙️, cityscape at dusk 🌆, and sunset 🌇. Since sunset is indistinguishable from sunrise, I can use that interchangeably. I think in the next major deployment I'll have a new trait_type called 'time of deployment'. Would you look at that... I already added it.",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "16x16"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "768x768"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "Default"
+    },
+    {
+      "trait_type": "background pattern",
+      "value": "Clouds"
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": null
+    },
+    {
+      "trait_type": "recorded",
+      "value": "No"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "Aesprite"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Digital Pen"
+    },
+    {
+      "trait_type": "code snippet",
+      "value": "./1of1_setup.sh"
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "1/1"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Graphics Interchange Format (GIF)"
+    },
+    {
+      "trait_type": "time of deployment",
+      "value": "🏙️"
+    }
+  ]
+}

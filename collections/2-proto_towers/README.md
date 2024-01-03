@@ -163,3 +163,22 @@ Next split on 1/9/2024
 memo: for collab 🏙️🌆
 x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x
 
+##################################
+# technical stuff
+##################################
+upscale calculations for 768x768 dimensions
+8x8 =>
+16x16 => 4800%
+32x32 =>
+64x64 =>
+128x128 =>
+
+###################################
+# prizes
+###################################
+
+Sometimes there will be prizes for people who answer questions based on descriptions in the Proto Towers.
+Prizes can be anything I want to give at the time. Usually will be nfts from my personal collection.
+All prize winners at minimum earn a whitelist spot. I'll track the whitelist spots from prizes here (for now).
+Prizes will be limited to a number of individuals. Usually 5 or 10.
+

@@ -53,6 +53,10 @@
       {
         "trait_type": "file format",
         "value": "Portable Network Graphics (PNG)"
+      },
+      {
+        "trait_type": "time of deployment",
+        "value": "🏙️"
       }
     ]
   }
