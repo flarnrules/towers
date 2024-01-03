@@ -1,0 +1,58 @@
+{
+  "name": "Proto Tower 98",
+  "description": "This is a Standard deployment, which comes in batches of 5. Sometimes the batches have themes, other times they are just random pulled from what's in my head at the time. Standard deployments have the same dimensions for each piece in the deployment. This standard deployment's theme is plants and organic matter. I meant for it to be 64x64 but my bash script is written incorrectly and generated files for 128x128.",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "128x128"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "1536x1536"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "Default"
+    },
+    {
+      "trait_type": "background pattern",
+      "value": "Arrays of Squares"
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": null
+    },
+    {
+      "trait_type": "recorded",
+      "value": "No"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "Aesprite"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Digital Pen"
+    },
+    {
+      "trait_type": "code snippet",
+      "value": "./standard_setup.sh"
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Portable Network Graphics (PNG)"
+    }
+  ]
+}

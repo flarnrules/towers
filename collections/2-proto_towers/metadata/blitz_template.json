@@ -1,10 +1,10 @@
 {
     "name": "Proto Tower ",
-    "description": "This is a Standard deployment, which comes in batches of 5. Sometimes the batches have themes, other times they are just random pulled from what's in my head at the time. Standard deployments have the same dimensions for each piece in the deployment.",
+    "description": "This is a Blitz deployment, which comes in batches of 10. These are slightly less time consuming 8x8 grid proto towers intended to create more volume so the whitelist can grow - by washing out the whales that keep buying all of the proto-towers and not letting other people have a chance to buy. jUsT KiDdInG I💖🐋. ",
     "attributes": [
       {
         "trait_type": "pixels",
-        "value": "32x32"
+        "value": "8x8"
       },
       {
         "trait_type": "dimensions",
@@ -36,11 +36,11 @@
       },
       {
         "trait_type": "code snippet",
-        "value": "./standard_setup.sh"
+        "value": "./blitz_setup.sh"
       },
       {
         "trait_type": "deployment type",
-        "value": "Standard"
+        "value": "Blitz"
       },
       {
         "trait_type": "collab artist",

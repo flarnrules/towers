@@ -36,7 +36,7 @@ fi
 for i in $(seq $START_NUM $END_NUM); do
     # Copy and rename the metadata JSON file.
     JSON_FILE="$METADATA_DIR/$i.json"
-    cp "$METADATA_DIR/standard_template.json" "$JSON_FILE"
+    cp "$METADATA_DIR/blitz_template.json" "$JSON_FILE"
 
     # Update the "name" field in the JSON file.
     jq --arg name "Proto Tower $i" '.name = $name' "$JSON_FILE" > temp.json && mv temp.json "$JSON_FILE"
@@ -45,4 +45,4 @@ for i in $(seq $START_NUM $END_NUM); do
     cp "$ASEPRITE_DIR/$ASEPRITE_TEMPLATE" "$ASEPRITE_DIR/$i.aseprite"
 done
 
-echo "Standard deployment setup complete for IDs $START_NUM to $END_NUM using $ASEPRITE_TEMPLATE."
+echo "Blitz deployment setup complete for IDs $START_NUM to $END_NUM using $ASEPRITE_TEMPLATE."
