@@ -3,7 +3,7 @@ import os
 import re
 
 # Parameters
-input_folder = '../collections/2-proto_towers/media/original_pngs'
+input_folder = '../collections/2-proto_towers/media/original_pngs/101-150'
 output_folder = '../collections/2-proto_towers/images/51-100'
 new_width = 768
 new_height = 768
