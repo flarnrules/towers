@@ -71,6 +71,13 @@ A note on the name "Proto Tower <number>" -> this is not super optimal for sorti
 # types of deployment
 #################################
 
+Standard
+Blitz
+Series
+Collab
+1/1
+
+
 ## Standard 
 - i mint and list 5 towers, all of the same dimensions, and sometimes following similar thematic elements. the decision for what to do currently is literally whatever comes to my head first. i could eventually standardize this process a bit, like demonstrate certain holidays or special occasions result in topically significant choices in the designs. That would be really cool. (only type as of proto tower 65.)
 

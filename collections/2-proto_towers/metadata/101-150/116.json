@@ -1,0 +1,62 @@
+{
+  "name": "Proto Tower 116",
+  "description": "Just a 1/1 -> get it while it's hot. By the way, for those of you reading these descriptions, I messed up the metadata deployment on 112-114, but the game on 115 should still work fine, it's just harder to find the other parts of the series due to my mistake. I'll do better next time and make sure all of my .json files are saved and closed before deploying.",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "32x32"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "768x768"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "Google UI"
+    },
+    {
+      "trait_type": "background pattern",
+      "value": "Grid of Pluses"
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": null
+    },
+    {
+      "trait_type": "recorded",
+      "value": "No"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "Aesprite"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Digital Pen"
+    },
+    {
+      "trait_type": "code snippet",
+      "value": "./standard_setup.sh"
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "1/1"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Portable Network Graphics (PNG)"
+    },
+    {
+      "trait_type": "time of deployment",
+      "value": "🏙️"
+    }
+  ]
+}
