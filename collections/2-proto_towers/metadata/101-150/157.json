@@ -1,10 +1,10 @@
 {
   "name": "Proto Tower 157",
-  "description": "This is a Blitz deployment, which usually comes in batches of 10. These are slightly less time consuming 8x8 grid proto towers intended to create more volume so the whitelist can grow - by washing out the whales that keep buying all of the proto-towers and not letting other people have a chance to buy. jUsT KiDdInG I💖🐋. But seriously, time to strike while the iron is hot 🔥 ",
+  "description": "This is a market animal proto tower. Each and every week, I publish the Flarnchain Newsletter, where I declare a 'market animal' - the market animal can really be any animal, but it typically fluctuates between bear, bull and crab. There have been bunny markets, turkey markets, goose markets, and several others. Bear and bull are the most common. I drew this with my mouse while sitting on the couch taking a break. The drawing isn't great, but that's fine, sometimes you just gotta convey a message - this week is still a bull market because Stargaze is still crushin it.",
   "attributes": [
     {
       "trait_type": "pixels",
-      "value": "8x8"
+      "value": "128x128"
     },
     {
       "trait_type": "dimensions",
@@ -12,11 +12,11 @@
     },
     {
       "trait_type": "color palette",
-      "value": "Google UI"
+      "value": "Microsoft Paint"
     },
     {
       "trait_type": "background pattern",
-      "value": "Wildcard"
+      "value": "Clouds"
     },
     {
       "trait_type": "time in minutes",
@@ -28,19 +28,19 @@
     },
     {
       "trait_type": "raster graphics editor",
-      "value": "Aseprite"
+      "value": "Microsoft Paint"
     },
     {
       "trait_type": "drawing instrument",
-      "value": "Digital Pen"
+      "value": "Mouse"
     },
     {
       "trait_type": "code snippet",
-      "value": "./blitz_setup.sh"
+      "value": "python3 bulk_resize.py"
     },
     {
       "trait_type": "deployment type",
-      "value": "Blitz"
+      "value": "Market Animal"
     },
     {
       "trait_type": "collab artist",
