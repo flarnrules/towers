@@ -1,6 +1,6 @@
 {
-  "name": "Lumitower",
-  "description": "Was supposed to be people riding elevators, but decided to evolve it into a biotower powering up on an alien planet with purple skies.",
+  "name": "Proto Tower 173",
+  "description": "This is a Standard deployment, which comes in batches of 5. Sometimes the batches have themes, other times they are just random pulled from what's in my head at the time. Standard deployments have the same dimensions for each piece in the deployment.",
   "attributes": [
     {
       "trait_type": "pixels",
@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "dimensions",
-      "value": "800x800"
+      "value": "768x768"
     },
     {
       "trait_type": "color palette",
-      "value": "Citrink"
+      "value": "DB32"
     },
     {
       "trait_type": "background pattern",
-      "value": "Dark Purple Sky"
+      "value": "Sky"
     },
     {
       "trait_type": "time in minutes",
@@ -28,39 +28,39 @@
     },
     {
       "trait_type": "raster graphics editor",
-      "value": "Aseprite"
+      "value": "Aesprite"
     },
     {
       "trait_type": "drawing instrument",
-      "value": "Mouse"
+      "value": "Digital Pen"
     },
     {
       "trait_type": "code snippet",
-      "value": ""
+      "value": "./standard_setup.sh"
     },
     {
       "trait_type": "deployment type",
-      "value": "Collab"
+      "value": "Standard"
     },
     {
       "trait_type": "collab artist",
-      "value": "Jinxto"
+      "value": "n/a"
     },
     {
       "trait_type": "collab collection",
-      "value": "Wadz"
+      "value": "n/a"
     },
     {
       "trait_type": "file format",
-      "value": "Graphics Interchange Format (GIF)"
+      "value": "Portable Network Graphics (PNG)"
     },
     {
       "trait_type": "time of deployment",
-      "value": "🌇"
+      "value": "🏙️"
     },
     {
       "trait_type": "number of frames",
-      "value": 25
+      "value": null
     }
   ]
 }

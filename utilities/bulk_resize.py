@@ -2,7 +2,7 @@ from PIL import Image
 import os
 import re
 
-# Parameters
+# params
 input_folder = '../collections/2-proto_towers/media/original_pngs/101-150'
 output_folder = '../collections/2-proto_towers/images/101-150'
 new_width = 768
@@ -13,11 +13,11 @@ def resize_image(input_path, output_path, new_width, new_height):
         print(f"Original dimensions: {img.size}")
         resized_img = img.resize((new_width, new_height), Image.NEAREST)
 
-        # Extracting the number from the filename
+        # Extract asset id number
         base_name = os.path.basename(input_path)
         number = re.search(r'\d+', base_name)
         if number:
-            new_filename = f"{number.group(0)}.png"  # Assumes the output is always PNG
+            new_filename = f"{number.group(0)}.png"  # output has to be PNG
         else:
             new_filename = base_name
 
@@ -34,5 +34,5 @@ def bulk_resize(input_folder, output_folder, new_width, new_height):
             input_file = os.path.join(input_folder, filename)
             resize_image(input_file, output_folder, new_width, new_height)
 
-# Run the script
+# runs bulk_resize on execution
 bulk_resize(input_folder, output_folder, new_width, new_height)

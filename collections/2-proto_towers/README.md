@@ -76,6 +76,8 @@ Blitz
 Series
 Collab
 1/1
+Special 1 - Red Giant Sheds Its Outer Shell
+
 
 
 ## Standard 
@@ -145,7 +147,28 @@ Reach out to me on twitter (@flarnrules1) or Discord(@flarnrules).
 
 Current collaborations include:
 1. Proto Tower 81 "Wadbot ProtoTower" - by Captain Jinxto
-2. Proto Tower 88 "Tower of Maintis ProtoTower" - by Captain Jinxto
+2. Proto Tower 89 "Tower of Maintis ProtoTower" - by Captain Jinxto
+3. Proto Tower 159 "" - by Captain Jinxto
+4. Proto Tower 160 "" - by Captain Jinxto
+
+
+Collab copy paste:
+
+Needs to be raster drawing of a tower. Tower can be loosely applied.
+You can incorporate themes of nfts and projects you like, or nfts and projects you are involved with.
+You can promote other projects, or your own.
+Drawing needs to be a square shape.
+Preferably .png file extension, but doesnt' matter.
+Metadata:
+1. name - any name you want
+2. description - any description you want
+3. color palette - any name, but a lot of programs have preset color palettes
+4. background pattern - just describe what's in the background, can be as simple as a color.
+5. raster graphics editor - what program did you use?
+6. drawing instrument - digital pen, mouse, finger, whatever you used
+7. collab artist - what do you want to be called
+8. collab collection - what collection do you want to be associated with (if any)
+9. number of frames - if animated, how many frames is the animation
 
 ## collab royalties tracking
 proto towers master wallet:
@@ -189,9 +212,12 @@ Prizes can be anything I want to give at the time. Usually will be nfts from my 
 All prize winners at minimum earn a whitelist spot. I'll track the whitelist spots from prizes here (for now).
 Prizes will be limited to a number of individuals. Usually 5 or 10.
 
-The first one was a Gas Giant consuming the earth.
-10 winners.
+## Special 1 - Red Giant Sheds Its Outer Shell
+10 winners total
 
-1. @ajk_ajk - 
-2. 
+1. @ajk_ajk - stars13nyn5v2mxv8cs6nj0khrxy9wkmw7ry0cuzrvg3 (156) ✅
+2. @Captain_Jinxto - stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z (158) ✅
+3. @cosmochiller - stars13ml8ncuzcecwq5mxpk2n3lef8pckr588va6kkw (162)
+4. @Ijon1337 - stars168qsl9q8ltxhj48lrpwxh3q4wyue2nk8ykc4yq (163)
+5. 
 

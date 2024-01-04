@@ -1,22 +1,22 @@
 {
-  "name": "Lumitower",
-  "description": "Was supposed to be people riding elevators, but decided to evolve it into a biotower powering up on an alien planet with purple skies.",
+  "name": "Skyscraping Tower",
+  "description": "A ritualistic tower lost to time in a different realm.",
   "attributes": [
     {
       "trait_type": "pixels",
-      "value": "16x16"
+      "value": "5x5"
     },
     {
       "trait_type": "dimensions",
-      "value": "800x800"
+      "value": "500x500"
     },
     {
       "trait_type": "color palette",
-      "value": "Citrink"
+      "value": "Pico 8"
     },
     {
       "trait_type": "background pattern",
-      "value": "Dark Purple Sky"
+      "value": "Soothing Cloud"
     },
     {
       "trait_type": "time in minutes",
@@ -56,11 +56,11 @@
     },
     {
       "trait_type": "time of deployment",
-      "value": "🌇"
+      "value": ""
     },
     {
       "trait_type": "number of frames",
-      "value": 25
+      "value": 12
     }
   ]
 }

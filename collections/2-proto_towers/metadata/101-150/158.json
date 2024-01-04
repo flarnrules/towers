@@ -1,10 +1,10 @@
 {
   "name": "Proto Tower 158",
-  "description": "This is a Blitz deployment, which usually comes in batches of 10. These are slightly less time consuming 8x8 grid proto towers intended to create more volume so the whitelist can grow - by washing out the whales that keep buying all of the proto-towers and not letting other people have a chance to buy. jUsT KiDdInG I💖🐋. But seriously, time to strike while the iron is hot 🔥 ",
+  "description": "This is a special proto tower - an award for the first little 'Dark Souls' type puzzle. The puzzle terminates at Proto Tower 115. This is the second special proto tower. It will be minted, and then transferred to the second winner ~ @Captain_Jinxto on twitter. This game still has 8 winning positions. ",
   "attributes": [
     {
       "trait_type": "pixels",
-      "value": "8x8"
+      "value": "25x25"
     },
     {
       "trait_type": "dimensions",
@@ -12,11 +12,11 @@
     },
     {
       "trait_type": "color palette",
-      "value": "Google UI"
+      "value": "DB32"
     },
     {
       "trait_type": "background pattern",
-      "value": "Wildcard"
+      "value": "Stamp"
     },
     {
       "trait_type": "time in minutes",
@@ -36,11 +36,11 @@
     },
     {
       "trait_type": "code snippet",
-      "value": "./blitz_setup.sh"
+      "value": "python3 bulk_resize.py"
     },
     {
       "trait_type": "deployment type",
-      "value": "Blitz"
+      "value": "Special 1 - Red Giant Sheds Its Outer Shell"
     },
     {
       "trait_type": "collab artist",
@@ -56,7 +56,7 @@
     },
     {
       "trait_type": "time of deployment",
-      "value": "🌃"
+      "value": "🌇"
     }
   ]
 }
