@@ -1,0 +1,62 @@
+{
+  "name": "Proto Tower 149",
+  "description": "This is a Blitz deployment, which usually comes in batches of 10. These are slightly less time consuming 8x8 grid proto towers intended to create more volume so the whitelist can grow - by washing out the whales that keep buying all of the proto-towers and not letting other people have a chance to buy. jUsT KiDdInG I💖🐋. But seriously, time to strike while the iron is hot 🔥 ",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "8x8"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "768x768"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "Google UI"
+    },
+    {
+      "trait_type": "background pattern",
+      "value": "Wildcard"
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": null
+    },
+    {
+      "trait_type": "recorded",
+      "value": "No"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "Aseprite"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Digital Pen"
+    },
+    {
+      "trait_type": "code snippet",
+      "value": "./blitz_setup.sh"
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "Blitz"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Portable Network Graphics (PNG)"
+    },
+    {
+      "trait_type": "time of deployment",
+      "value": "🌃"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
     "name": "Proto Tower ",
-    "description": "This is a Blitz deployment, which comes in batches of 10. These are slightly less time consuming 8x8 grid proto towers intended to create more volume so the whitelist can grow - by washing out the whales that keep buying all of the proto-towers and not letting other people have a chance to buy. jUsT KiDdInG I💖🐋. ",
+    "description": "This is a Blitz deployment, which usually comes in batches of 10. These are slightly less time consuming 8x8 grid proto towers intended to create more volume so the whitelist can grow - by washing out the whales that keep buying all of the proto-towers and not letting other people have a chance to buy. jUsT KiDdInG I💖🐋. But seriously, time to strike while the iron is hot 🔥 ",
     "attributes": [
       {
         "trait_type": "pixels",
@@ -12,11 +12,11 @@
       },
       {
         "trait_type": "color palette",
-        "value": "Microsoft Paint"
+        "value": "Google UI"
       },
       {
         "trait_type": "background pattern",
-        "value": "Sky"
+        "value": "Wildcard"
       },
       {
         "trait_type": "time in minutes",
@@ -28,11 +28,11 @@
       },
       {
         "trait_type": "raster graphics editor",
-        "value": "Microsoft Paint"
+        "value": "Aseprite"
       },
       {
         "trait_type": "drawing instrument",
-        "value": "Mouse"
+        "value": "Digital Pen"
       },
       {
         "trait_type": "code snippet",
@@ -56,7 +56,7 @@
       },
       {
         "trait_type": "time of deployment",
-        "value": "🏙️"
+        "value": "🌃"
       }
     ]
   }
