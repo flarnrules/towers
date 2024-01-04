@@ -189,3 +189,9 @@ Prizes can be anything I want to give at the time. Usually will be nfts from my 
 All prize winners at minimum earn a whitelist spot. I'll track the whitelist spots from prizes here (for now).
 Prizes will be limited to a number of individuals. Usually 5 or 10.
 
+The first one was a Gas Giant consuming the earth.
+10 winners.
+
+1. @ajk_ajk - 
+2. 
+

@@ -1,0 +1,62 @@
+{
+  "name": "Proto Tower 123",
+  "description": "This was a standard deployment, but because my script generated 128x128 instead of what I was expecting (64x64) this group ended up taking a lot longer and I got super fatigued... Also I made a lot of mistakes with backgrounds and limited color palettes. That said... 124 is truly a banger.",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "128x128"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "768x768"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "DB32"
+    },
+    {
+      "trait_type": "background pattern",
+      "value": "Squares"
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": null
+    },
+    {
+      "trait_type": "recorded",
+      "value": "No"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "Aesprite"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Digital Pen"
+    },
+    {
+      "trait_type": "code snippet",
+      "value": "./standard_setup.sh"
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Portable Network Graphics (PNG)"
+    },
+    {
+      "trait_type": "time of deployment",
+      "value": "🌆"
+    }
+  ]
+}
