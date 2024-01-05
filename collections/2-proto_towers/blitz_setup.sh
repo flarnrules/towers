@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Configuration variables.
-METADATA_DIR="metadata/101-150"
-PNG_DIR="media/original_pngs/101-150"
+METADATA_DIR="metadata/151-200"
+PNG_DIR="media/original_pngs/151-200"
 PNG_TEMPLATES_DIR="templates/ms_paint"
 JSON_TEMPLATE_DIR="templates/jsons"
 

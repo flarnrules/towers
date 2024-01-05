@@ -1,6 +1,6 @@
 {
   "name": "Proto Tower 173",
-  "description": "This is a Standard deployment, which comes in batches of 5. Sometimes the batches have themes, other times they are just random pulled from what's in my head at the time. Standard deployments have the same dimensions for each piece in the deployment.",
+  "description": "This is a blitz deployment. Not to shake out the whales anymore, but to generate a decent number of quality pieces in a short period of time. I'm not going to take my time with these, but I will put in maximum effort. I'll be deploying 8 in this batch because I have one keyed up already for pt 180. I'll also be using my brand new Google UI template .png file (that is actually represented in pt 171) to facilitate easier access to color right when loading up the image. Also, I'll have everything set up in the .json file by running ./blitz_resize.py once the template is properly configured. All of these automations put rocketfuel on my creative process, and make it a lot easier to *just* *draw* 🧨🔥 ",
   "attributes": [
     {
       "trait_type": "pixels",
@@ -12,23 +12,23 @@
     },
     {
       "trait_type": "color palette",
-      "value": "DB32"
+      "value": "Google UI"
     },
     {
       "trait_type": "background pattern",
-      "value": "Sky"
+      "value": "Trees"
     },
     {
       "trait_type": "time in minutes",
-      "value": null
+      "value": 10
     },
     {
       "trait_type": "recorded",
-      "value": "No"
+      "value": "Yes"
     },
     {
       "trait_type": "raster graphics editor",
-      "value": "Aesprite"
+      "value": "Aseprite"
     },
     {
       "trait_type": "drawing instrument",
@@ -36,11 +36,11 @@
     },
     {
       "trait_type": "code snippet",
-      "value": "./standard_setup.sh"
+      "value": "./blitz_setup.sh"
     },
     {
       "trait_type": "deployment type",
-      "value": "Standard"
+      "value": "Blitz"
     },
     {
       "trait_type": "collab artist",
@@ -56,7 +56,7 @@
     },
     {
       "trait_type": "time of deployment",
-      "value": "🏙️"
+      "value": "🌃"
     },
     {
       "trait_type": "number of frames",

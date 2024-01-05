@@ -1,6 +1,6 @@
 {
-  "name": "Proto Tower 172",
-  "description": "This is a Standard deployment, which comes in batches of 5. Sometimes the batches have themes, other times they are just random pulled from what's in my head at the time. Standard deployments have the same dimensions for each piece in the deployment.",
+  "name": "Google UI",
+  "description": "This proto tower is a 16x16 template that displays the colors from the Google UI color Palette. It's more of a tool than anything, but it also looks cool. It also shows how much using the Google UI color Palette is such a huge advantage. The colors are so numerous and well organized, it makes it a lot easier to do gradients and bright, rich color schemes. It's not the most interesting color scheme, but most certainly (at least for me) it's the easiest to use 🟥🟧🟨🟩🟦🟪🟣⬛🔳⬜. It works well as a tool because for png files, the color *needs* to be on the canvas. You can't save the color scheme because that would require you to save the file as an .aseprite file, creating more steps in the process.",
   "attributes": [
     {
       "trait_type": "pixels",
@@ -12,11 +12,11 @@
     },
     {
       "trait_type": "color palette",
-      "value": "DB32"
+      "value": "Google UI"
     },
     {
       "trait_type": "background pattern",
-      "value": "Sky"
+      "value": "White"
     },
     {
       "trait_type": "time in minutes",
@@ -28,19 +28,19 @@
     },
     {
       "trait_type": "raster graphics editor",
-      "value": "Aesprite"
+      "value": "Aseprite"
     },
     {
       "trait_type": "drawing instrument",
-      "value": "Digital Pen"
+      "value": "Mouse"
     },
     {
       "trait_type": "code snippet",
-      "value": "./standard_setup.sh"
+      "value": "python3 bulk_resize.py"
     },
     {
       "trait_type": "deployment type",
-      "value": "Standard"
+      "value": "Template"
     },
     {
       "trait_type": "collab artist",
@@ -56,7 +56,7 @@
     },
     {
       "trait_type": "time of deployment",
-      "value": "🏙️"
+      "value": "🌃"
     },
     {
       "trait_type": "number of frames",

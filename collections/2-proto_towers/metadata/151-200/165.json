@@ -1,6 +1,6 @@
 {
-  "name": "Proto Tower 164",
-  "description": "This is a 1/1 deployment. A simple proto tower 🌇, nothing special. I like 32x32... but I also feel like",
+  "name": "Proto Tower 165",
+  "description": "This is a 1/1 deployment. A simple proto tower 🌇, nothing special. I think the meta emerging is a 32x32 with a Stamp background pattern. These are sort of like... a true standard Proto Tower. How many permutations are possible with 32x32? well CGAO High color palette is limited to 4 colors, so in this case, the number of possibilities would be 4^32*32 or 4^1024. This is an extremely large number: 32317006071311007300714876688669951960444102669715484032130345427524655138867890893197201411522913463688717960921898019494119559150490921095088152386448283120630877367300996091750197750389652106796057638384067568276792218642619756161838094338476170470581645852036305042887575891541065808607552399123930385521914333389668342420684974786564569494856176035326322058077805659331026192708460314150258592864177116725943603718461857357598351152301645904403697613233287231227125684710820209725157101726931323469678542580656697935045997268352998638215525166389437335543602135433229604645318478604952148193555853611059596230656.",
   "attributes": [
     {
       "trait_type": "pixels",
@@ -56,7 +56,7 @@
     },
     {
       "trait_type": "time of deployment",
-      "value": "🏙️"
+      "value": "🌆"
     },
     {
       "trait_type": "number of frames",

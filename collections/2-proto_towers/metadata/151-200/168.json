@@ -1,0 +1,66 @@
+{
+  "name": "Proto Tower 168",
+  "description": "This is a 1/1 deployment. A simple proto tower 🌃, nothing special. Let's see how this one turns out, I've been doing limited color palettes, but I've been trying to be more deliberate and careful, so I don't get a headache like when I drew Proto Tower 129. Stamp background pattern is most definitely becoming the thing I like to do the most. I also refactored a bit and moved bulk_resize.py into 1-proto_towers which saves some time on resizing these.",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "32x32"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "768x768"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "CGA1 High"
+    },
+    {
+      "trait_type": "background pattern",
+      "value": "Stamp"
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": null
+    },
+    {
+      "trait_type": "recorded",
+      "value": "No"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "Aseprite"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Digital Pen"
+    },
+    {
+      "trait_type": "code snippet",
+      "value": "python3 bulk_resize.py"
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "1/1"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Portable Network Graphics (PNG)"
+    },
+    {
+      "trait_type": "time of deployment",
+      "value": "🌃"
+    },
+    {
+      "trait_type": "number of frames",
+      "value": null
+    }
+  ]
+}

@@ -147,9 +147,11 @@ Reach out to me on twitter (@flarnrules1) or Discord(@flarnrules).
 
 Current collaborations include:
 1. Proto Tower 81 "Wadbot ProtoTower" - by Captain Jinxto
-2. Proto Tower 89 "Tower of Maintis ProtoTower" - by Captain Jinxto
-3. Proto Tower 159 "" - by Captain Jinxto
-4. Proto Tower 160 "" - by Captain Jinxto
+2. Proto Tower 88 "Tower of Maintis ProtoTower" - by Captain Jinxto
+3. Proto Tower 159 "Tower of Ninja" - by Captain Jinxto
+4. Proto Tower 160 "Lumitower" - by Captain Jinxto
+5. Proto Tower 170 "Forgotten Tower" - by Captain Jinxto
+6. Proto Tower 180 "
 
 
 Collab copy paste:
@@ -210,14 +212,15 @@ upscale calculations for 768x768 dimensions
 Sometimes there will be prizes for people who answer questions based on descriptions in the Proto Towers.
 Prizes can be anything I want to give at the time. Usually will be nfts from my personal collection.
 All prize winners at minimum earn a whitelist spot. I'll track the whitelist spots from prizes here (for now).
-Prizes will be limited to a number of individuals. Usually 5 or 10.
+Prizes will be limited to a number of individuals. Range of 1 through 10 winners.
 
 ## Special 1 - Red Giant Sheds Its Outer Shell
 10 winners total
+memo 'congrats on your big win 🌃🌆🌇🏙️'
 
 1. @ajk_ajk - stars13nyn5v2mxv8cs6nj0khrxy9wkmw7ry0cuzrvg3 (156) ✅
 2. @Captain_Jinxto - stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z (158) ✅
-3. @cosmochiller - stars13ml8ncuzcecwq5mxpk2n3lef8pckr588va6kkw (162)
-4. @Ijon1337 - stars168qsl9q8ltxhj48lrpwxh3q4wyue2nk8ykc4yq (163)
-5. 
+3. @cosmochiller - stars13ml8ncuzcecwq5mxpk2n3lef8pckr588va6kkw (162) ✅
+4. @Ijon1337 - stars168qsl9q8ltxhj48lrpwxh3q4wyue2nk8ykc4yq (163) ✅
+5. @votor1337 - stars13ml8ncuzcecwq5mxpk2n3lef8pckr588va6kkw (167) ✅
 

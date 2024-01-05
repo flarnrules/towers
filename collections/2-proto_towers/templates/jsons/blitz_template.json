@@ -1,10 +1,10 @@
 {
     "name": "Proto Tower ",
-    "description": "This is a Blitz deployment, which usually comes in batches of 10. These are slightly less time consuming 8x8 grid proto towers intended to create more volume so the whitelist can grow - by washing out the whales that keep buying all of the proto-towers and not letting other people have a chance to buy. jUsT KiDdInG I💖🐋. But seriously, time to strike while the iron is hot 🔥 ",
+    "description": "This is a blitz deployment. Not to shake out the whales anymore, but to generate a decent number of quality pieces in a short period of time. I'm not going to take my time with these, but I will put in maximum effort. I'll be deploying 8 in this batch because I have one keyed up already for pt 180. I'll also be using my brand new Google UI template .png file (that is actually represented in pt 171) to facilitate easier access to color right when loading up the image. Also, I'll have everything set up in the .json file by running ./blitz_resize.py once the template is properly configured. All of these automations put rocketfuel on my creative process, and make it a lot easier to *just* *draw* 🧨🔥 ",
     "attributes": [
       {
         "trait_type": "pixels",
-        "value": "8x8"
+        "value": "16x16"
       },
       {
         "trait_type": "dimensions",
@@ -57,6 +57,10 @@
       {
         "trait_type": "time of deployment",
         "value": "🌃"
+      },
+      {
+        "trait_type": "number of frames",
+        "value": null
       }
     ]
   }
