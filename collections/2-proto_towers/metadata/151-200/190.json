@@ -1,0 +1,70 @@
+{
+  "name": "Proto Tower 190",
+  "description": "In keeping with my most recent pattern, because this Proto Tower id number ends in a '0' it will be animated. Hope this turns out okay! This was a fun one, thanks to everyone that popped in to watch. I showed this to someone special in my life, and they asked 'it's really cool, but who lives in there?' - so... who lives in this proto tower? ⁉️",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "8x8"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "768x768"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "Google UI"
+    },
+    {
+      "trait_type": "background pattern",
+      "value": "Clouds"
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": null
+    },
+    {
+      "trait_type": "recorded",
+      "value": "No"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "Aseprite"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Stylus"
+    },
+    {
+      "trait_type": "code snippet",
+      "value": "python3 bulk_resize.py"
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "1/1"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Portable Network Graphics (PNG)"
+    },
+    {
+      "trait_type": "time of deployment",
+      "value": "🏙️"
+    },
+    {
+      "trait_type": "number of frames",
+      "value": 24
+    },
+    {
+      "trait_type": "live stream",
+      "value": "Yes"
+    }
+  ]
+}

@@ -56,6 +56,7 @@ Proto Tower 186. 250+800/2=525
 
 Proto Tower 187, 188 250+805/2=525
 
+Proto Tower 189. 406+697/2=552
 
 
 #################################
@@ -219,7 +220,7 @@ x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x
 # technical stuff
 ##################################
 upscale calculations for 768x768 dimensions
-8x8 =>
+8x8 => 9600%
 16x16 => 4800%
 32x32 =>
 64x64 =>
@@ -248,5 +249,6 @@ memo 'congrats on your big win 🌃🌆🌇🏙️'
 ## Special 2 - Find the Busted Metadata
 1 winner total
 
-1. @fluffhead - stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad (187)
+1. @fluffhead - stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad (235)
+2. 
 
