@@ -1,0 +1,70 @@
+{
+  "name": "Proto Tower 183",
+  "description": "Here's a little game. The first person to tweet the big mistake I made on the metadata of a previous Proto Tower, and explain the mistake will get a prize. Only 1 winner this time, and don't be thinking it's a proto tower, cause it's not. It's going to be something else.",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "32x32"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "768x768"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "EDG8"
+    },
+    {
+      "trait_type": "background pattern",
+      "value": "Big Sun Stamp"
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": null
+    },
+    {
+      "trait_type": "recorded",
+      "value": "No"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "Aseprite"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Digital Pen"
+    },
+    {
+      "trait_type": "code snippet",
+      "value": "python3 bulk_resize.py"
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "1/1"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Portable Network Graphics (PNG)"
+    },
+    {
+      "trait_type": "time of deployment",
+      "value": "🏙️"
+    },
+    {
+      "trait_type": "number of frames",
+      "value": null
+    },
+    {
+      "trait_type": "live stream",
+      "value": "Yes"
+    }
+  ]
+}

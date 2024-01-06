@@ -3,8 +3,8 @@
 # Configuration variables.
 METADATA_DIR="templates/jsons"
 ASEPRITE_DIR="templates/aseprite"
-DEST_JSON_DIR="metadata/101-150"
-DEST_ASEPRITE_DIR="media/aseprite/101-150"
+DEST_JSON_DIR="metadata/151-200"
+DEST_ASEPRITE_DIR="media/aseprite/151-200"
 ASEPRITE_TEMPLATES=("8x8.aseprite" "16x16.aseprite" "32x32.aseprite" "64x64.aseprite" "128x128.aseprite")
 
 # Prompt the user to select a template.

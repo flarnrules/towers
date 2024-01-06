@@ -147,7 +147,7 @@ Reach out to me on twitter (@flarnrules1) or Discord(@flarnrules).
 
 Current collaborations include:
 1. Proto Tower 81 "Wadbot ProtoTower" - by Captain Jinxto
-2. Proto Tower 88 "Tower of Maintis ProtoTower" - by Captain Jinxto
+2. Proto Tower 88 "Tower of Mantis ProtoTower" - by Captain Jinxto
 3. Proto Tower 159 "Tower of Ninja" - by Captain Jinxto
 4. Proto Tower 160 "Lumitower" - by Captain Jinxto
 5. Proto Tower 170 "Forgotten Tower" - by Captain Jinxto
@@ -222,5 +222,11 @@ memo 'congrats on your big win 🌃🌆🌇🏙️'
 2. @Captain_Jinxto - stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z (158) ✅
 3. @cosmochiller - stars13ml8ncuzcecwq5mxpk2n3lef8pckr588va6kkw (162) ✅
 4. @Ijon1337 - stars168qsl9q8ltxhj48lrpwxh3q4wyue2nk8ykc4yq (163) ✅
-5. @votor1337 - stars13ml8ncuzcecwq5mxpk2n3lef8pckr588va6kkw (167) ✅
+5. @votor1337 - stars1neqprx4sd0xrs4snn2q9ccchg6ksva3p0vxcfl (167) ✅
+6. 
+
+## Special 2 - Find the Busted Metadata
+1 winner total
+
+1. @fluffhead - stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad (187)
 
