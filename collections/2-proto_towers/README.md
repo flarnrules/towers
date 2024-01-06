@@ -37,6 +37,22 @@ I only really know what's in collections and utilities right now. I've basically
 
 Speaking of that... I should probably also use those pieces as Proto Towers, as long as I know for sure they aren't gonna be minted in the main collection, or modify them in some way. This could make it easy to mint one on a day where perhaps I'm too busy to do a bunch of art, I could just run some special command and it mints from a big pile of old concept art at random. That would be really cool.
 
+#################################
+# LISTING RULES
+#################################
+
+1. If auction, list at id number + 10 STARS
+2. If listing for sale, list at highest bid price.
+3. Unless bid price has been going down, then list at the midway point between bid and floor.
+
+Example:
+Proto Tower 183. The highest bid is 355. The bid has been going down for a day or so from a peak of 800 now to 355.
+The floor price right now is 800. The midpoint is 800+355/2=577.5
+I think this will stabilize the bid price in these scenarios. Let's track that tonight and see how it goes.
+
+Proto Tower 184,185. 355+800/2=577.5
+
+
 
 #################################
 # metadata naming standards

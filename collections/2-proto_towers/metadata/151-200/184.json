@@ -1,6 +1,6 @@
 {
   "name": "Proto Tower 184",
-  "description": "I used ./standard_deployment.sh.",
+  "description": "I used ./standard_deployment.sh. to set this and the next one up. Since there's two, I've made them a sort of pair of images. The first is kind of loosely drawn, the second is more rigidly. Same composition, different drawings. 🌇🌆🏙️🌃",
   "attributes": [
     {
       "trait_type": "pixels",
@@ -12,11 +12,11 @@
     },
     {
       "trait_type": "color palette",
-      "value": "DB32"
+      "value": "Microsoft Paint"
     },
     {
       "trait_type": "background pattern",
-      "value": "Sky"
+      "value": "Stamp"
     },
     {
       "trait_type": "time in minutes",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "raster graphics editor",
-      "value": "Aseprite"
+      "value": "Microsoft Paint"
     },
     {
       "trait_type": "drawing instrument",
-      "value": "Digital Pen"
+      "value": "Mouse"
     },
     {
       "trait_type": "code snippet",
@@ -40,7 +40,7 @@
     },
     {
       "trait_type": "deployment type",
-      "value": "Standard"
+      "value": "Pair"
     },
     {
       "trait_type": "collab artist",
@@ -56,7 +56,7 @@
     },
     {
       "trait_type": "time of deployment",
-      "value": "🏙️"
+      "value": "🌃"
     },
     {
       "trait_type": "number of frames",
@@ -64,7 +64,7 @@
     },
     {
       "trait_type": "live stream",
-      "value": "Yes"
+      "value": "No"
     }
   ]
 }
