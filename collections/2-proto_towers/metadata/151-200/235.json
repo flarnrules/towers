@@ -1,10 +1,10 @@
 {
-  "name": "Proto Tower 186",
-  "description": "I drew this while setting up the Proto Towers Discord community. There was an option to add a custom graphic that was at minimum 72x72 pixels, so I drew this tower as the custom graphic. Then the image failed to upload during the preliminary community setup so I'll need to go back to that and figure out what went wrong. btw, consider hopping over on the discord. This invite link is good for the next 7 days, hope to see you around! https://discord.gg/DqzrYC6J",
+  "name": "Proto Tower 187",
+  "description": "This is a special proto tower - an award for the second little 'Dark Souls' type puzzle (dark souls because the story is in the item descriptions) The puzzle terminates at Proto Tower 183.  It will be minted, and then transferred to the only winner ~ @GolbiApp on twitter. That was quick 🌇🏙️🌆🌃",
   "attributes": [
     {
       "trait_type": "pixels",
-      "value": "72x72"
+      "value": "25x25"
     },
     {
       "trait_type": "dimensions",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "color palette",
-      "value": "DB32"
+      "value": "Pastels"
     },
     {
       "trait_type": "background pattern",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "recorded",
-      "value": "No"
+      "value": "Yes"
     },
     {
       "trait_type": "raster graphics editor",
@@ -36,19 +36,19 @@
     },
     {
       "trait_type": "code snippet",
-      "value": "./standard_setup.sh"
+      "value": "python3 bulk_resize.py"
     },
     {
       "trait_type": "deployment type",
-      "value": "Discord Asset"
+      "value": "Standard"
     },
     {
       "trait_type": "collab artist",
-      "value": "n/a"
+      "value": "fluffhead"
     },
     {
       "trait_type": "collab collection",
-      "value": "n/a"
+      "value": "Stargaze Punks"
     },
     {
       "trait_type": "file format",
@@ -60,7 +60,7 @@
     },
     {
       "trait_type": "number of frames",
-      "value": null
+      "value": 12
     },
     {
       "trait_type": "live stream",

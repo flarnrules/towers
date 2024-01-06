@@ -52,6 +52,10 @@ I think this will stabilize the bid price in these scenarios. Let's track that t
 
 Proto Tower 184,185. 355+800/2=577.5
 
+Proto Tower 186. 250+800/2=525
+
+Proto Tower 187, 188 250+805/2=525
+
 
 
 #################################
