@@ -1,10 +1,10 @@
 {
     "name": "Proto Tower ",
-    "description": "This is a Standard deployment, which comes in batches of 5. Sometimes the batches have themes, other times they are just random pulled from what's in my head at the time. Standard deployments have the same dimensions for each piece in the deployment.",
+    "description": "This is a Standard deployment, which comes in batches of 5. Sometimes the batches have themes, other times they are just random pulled from what's in my head at the time. Standard deployments have the same dimensions for each piece in the deployment. We will be doing 64x64 for this deployment. No specific theme, background pattern will be Stamp. And some clouds. And I drew this more like a 'digital painting' where I didn't erase, i just painted over stuff I didn't like. ",
     "attributes": [
       {
         "trait_type": "pixels",
-        "value": "16x16"
+        "value": "64x64"
       },
       {
         "trait_type": "dimensions",
@@ -16,7 +16,7 @@
       },
       {
         "trait_type": "background pattern",
-        "value": "Sky"
+        "value": "Stamp and Clouds"
       },
       {
         "trait_type": "time in minutes",
@@ -36,7 +36,7 @@
       },
       {
         "trait_type": "code snippet",
-        "value": "./standard_setup.sh"
+        "value": "./standard_setup.sh + python3 bulk_resize.py"
       },
       {
         "trait_type": "deployment type",
@@ -56,7 +56,7 @@
       },
       {
         "trait_type": "time of deployment",
-        "value": "🏙️"
+        "value": "🌃"
       },
       {
         "trait_type": "number of frames",
@@ -64,7 +64,7 @@
       },
       {
         "trait_type": "live stream",
-        "value": "Yes"
+        "value": "No"
       }
     ]
   }

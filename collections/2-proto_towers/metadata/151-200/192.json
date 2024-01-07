@@ -1,0 +1,70 @@
+{
+  "name": "Proto Tower 192",
+  "description": "This is a Standard deployment, which comes in batches of 5. Sometimes the batches have themes, other times they are just random pulled from what's in my head at the time. Standard deployments have the same dimensions for each piece in the deployment. We will be doing 64x64 for this deployment. No specific theme, background pattern will be Stamp. Again this one was more like a digital painting, but I was a lot less precise and just kind of... went to town. A bit rushed but tried my best given the circumstances. ",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "64x64"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "768x768"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "DB32"
+    },
+    {
+      "trait_type": "background pattern",
+      "value": "Stamp"
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": null
+    },
+    {
+      "trait_type": "recorded",
+      "value": "No"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "Aseprite"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Digital Pen"
+    },
+    {
+      "trait_type": "code snippet",
+      "value": "./standard_setup.sh + python3 bulk_resize.py"
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Portable Network Graphics (PNG)"
+    },
+    {
+      "trait_type": "time of deployment",
+      "value": "🌃"
+    },
+    {
+      "trait_type": "number of frames",
+      "value": null
+    },
+    {
+      "trait_type": "live stream",
+      "value": "No"
+    }
+  ]
+}
