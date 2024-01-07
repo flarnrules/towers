@@ -58,6 +58,8 @@ Proto Tower 187, 188 250+805/2=525
 
 Proto Tower 189. 406+697/2=552
 
+Proto Tower 193. 407+990/2=699
+
 
 #################################
 # metadata naming standards

@@ -1,6 +1,6 @@
 {
   "name": "Proto Tower 194",
-  "description": "This is a Standard deployment, which comes in batches of 5. Sometimes the batches have themes, other times they are just random pulled from what's in my head at the time. Standard deployments have the same dimensions for each piece in the deployment. We will be doing 64x64 for this deployment. No specific theme, background pattern will be Stamp. ",
+  "description": "",
   "attributes": [
     {
       "trait_type": "pixels",
@@ -12,11 +12,11 @@
     },
     {
       "trait_type": "color palette",
-      "value": "DB32"
+      "value": "Microsoft Paint"
     },
     {
       "trait_type": "background pattern",
-      "value": "Stamp"
+      "value": "Circles With Pluses"
     },
     {
       "trait_type": "time in minutes",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "raster graphics editor",
-      "value": "Aseprite"
+      "value": "Microsoft Paint"
     },
     {
       "trait_type": "drawing instrument",
-      "value": "Digital Pen"
+      "value": "Mouse"
     },
     {
       "trait_type": "code snippet",
@@ -56,7 +56,7 @@
     },
     {
       "trait_type": "time of deployment",
-      "value": "🏙️"
+      "value": "🌃"
     },
     {
       "trait_type": "number of frames",
@@ -68,3 +68,4 @@
     }
   ]
 }
+
