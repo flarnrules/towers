@@ -40,7 +40,7 @@
     },
     {
       "trait_type": "deployment type",
-      "value": "Standard"
+      "value": "1/1"
     },
     {
       "trait_type": "collab artist",

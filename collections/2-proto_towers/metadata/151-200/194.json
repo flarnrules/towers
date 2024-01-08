@@ -1,6 +1,6 @@
 {
   "name": "Proto Tower 194",
-  "description": "",
+  "description": "The more efficient I get with Aseprite and all of it's features, the more challenging it becomes to go back to MS Paint when I'm working with my laptop. Biggest reason for using MS Paint on my laptop is RAM and computing power on my laptop is suboptimal, and I think Aseprite chews up a lot of ram. MS Paint seemingly is deeply embedded in the windows operating system, so it runs like a charm even on this old hunk of junk.💾",
   "attributes": [
     {
       "trait_type": "pixels",
@@ -16,7 +16,7 @@
     },
     {
       "trait_type": "background pattern",
-      "value": "Circles With Pluses"
+      "value": "Fractal Squares"
     },
     {
       "trait_type": "time in minutes",
@@ -40,7 +40,7 @@
     },
     {
       "trait_type": "deployment type",
-      "value": "Standard"
+      "value": "1/1"
     },
     {
       "trait_type": "collab artist",
