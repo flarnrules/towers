@@ -1,10 +1,10 @@
 {
-  "name": "Proto Tower 195",
-  "description": "Can't really do the Circles With Pluses background pattern on MS Paint, it would take way too long, because the largest brush size MS Paint offers for the pencil (where you can draw individual pixels without shading) is a double pixel plus, which is not the right configuration to fit a plus inside. I've had to make a rendition on that pattern called Circles With Pluses. Hope you enjoyed. Not my favorite piece, but gotta trudge forward to Megazord. 🤖🦾🦿🦖🐆🦏",
+  "name": "Proto Tower 198",
+  "description": "This is a Standard deployment, with an exciting build-up. Immediately following this deployment, I'll be creating an animated peice, and then I'll be attempting something pretty interesting. I hope I can be efficient enough with 196,197,198, and 199 to get to the good stuff quickly. I'll be going with 16x16 for this deployment with the following backgrounds. Sky, Substrate, Sun, Stamp ~ all traits start with S.",
   "attributes": [
     {
       "trait_type": "pixels",
-      "value": "64x64"
+      "value": "16x16"
     },
     {
       "trait_type": "dimensions",
@@ -16,7 +16,7 @@
     },
     {
       "trait_type": "background pattern",
-      "value": "Pluses With Squares"
+      "value": ""
     },
     {
       "trait_type": "time in minutes",
@@ -36,11 +36,11 @@
     },
     {
       "trait_type": "code snippet",
-      "value": "./standard_setup.sh"
+      "value": "./standard_setup.sh + python3 bulk_resize.py"
     },
     {
       "trait_type": "deployment type",
-      "value": "1/1"
+      "value": "Standard"
     },
     {
       "trait_type": "collab artist",

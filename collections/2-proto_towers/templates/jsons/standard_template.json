@@ -1,10 +1,10 @@
 {
     "name": "Proto Tower ",
-    "description": "This is a Standard deployment, which comes in batches of 5. Sometimes the batches have themes, other times they are just random pulled from what's in my head at the time. Standard deployments have the same dimensions for each piece in the deployment. We will be doing 64x64 for this deployment. No specific theme, background pattern will be Stamp. And some clouds. And I drew this more like a 'digital painting' where I didn't erase, i just painted over stuff I didn't like. ",
+    "description": "This is a Standard deployment, with an exciting build-up. Immediately following this deployment, I'll be creating an animated peice, and then I'll be attempting something pretty interesting. I hope I can be efficient enough with 196,197,198, and 199 to get to the good stuff quickly. I'll be going with 16x16 for this deployment with the following backgrounds. Sky, Substrate, Sun, Stamp ~ all traits start with S.",
     "attributes": [
       {
         "trait_type": "pixels",
-        "value": "64x64"
+        "value": "16x16"
       },
       {
         "trait_type": "dimensions",
@@ -12,11 +12,11 @@
       },
       {
         "trait_type": "color palette",
-        "value": "DB32"
+        "value": "Microsoft Paint"
       },
       {
         "trait_type": "background pattern",
-        "value": "Stamp and Clouds"
+        "value": ""
       },
       {
         "trait_type": "time in minutes",
@@ -28,11 +28,11 @@
       },
       {
         "trait_type": "raster graphics editor",
-        "value": "Aseprite"
+        "value": "Microsoft Paint"
       },
       {
         "trait_type": "drawing instrument",
-        "value": "Digital Pen"
+        "value": "Mouse"
       },
       {
         "trait_type": "code snippet",
