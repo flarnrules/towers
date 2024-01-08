@@ -16,7 +16,7 @@
     },
     {
       "trait_type": "background pattern",
-      "value": ""
+      "value": "Substrate"
     },
     {
       "trait_type": "time in minutes",
@@ -65,6 +65,10 @@
     {
       "trait_type": "live stream",
       "value": "No"
+    },
+    {
+      "trait_type": "vibe",
+      "value": "Neon Tower Space"
     }
   ]
 }

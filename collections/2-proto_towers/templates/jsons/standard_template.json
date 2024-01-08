@@ -65,6 +65,10 @@
       {
         "trait_type": "live stream",
         "value": "No"
+      },
+      {
+        "trait_type": "vibe",
+        "value": "Tower"
       }
     ]
   }
