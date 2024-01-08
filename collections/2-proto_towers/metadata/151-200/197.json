@@ -1,6 +1,6 @@
 {
   "name": "Proto Tower 197",
-  "description": "This is a Standard deployment, with an exciting build-up. Immediately following this deployment, I'll be creating an animated peice, and then I'll be attempting something pretty interesting. I hope I can be efficient enough with 196,197,198, and 199 to get to the good stuff quickly. I'll be going with 16x16 for this deployment with the following backgrounds. Sky, Substrate, Sun, Stamp ~ all traits start with S.",
+  "description": "This is a Standard deployment, with an exciting build-up. Immediately following this deployment, I'll be creating an animated peice, and then I'll be attempting something pretty interesting. I hope I can be efficient enough with 196,197,198, and 199 to get to the good stuff quickly. I'll be going with 16x16 for this deployment with the following backgrounds. Sky, Substrate, Sun, Stamp ~ all traits start with S. Except not. substrate didn't really work for the towers in 197, so I scrapped that and went with a cool magenta vertical gradient because i think it looked a lot cooler. 🟩🟥🟪",
   "attributes": [
     {
       "trait_type": "pixels",
@@ -16,7 +16,7 @@
     },
     {
       "trait_type": "background pattern",
-      "value": "Substrate"
+      "value": "Vertical Gradient"
     },
     {
       "trait_type": "time in minutes",

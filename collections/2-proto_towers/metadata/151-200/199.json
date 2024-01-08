@@ -1,6 +1,6 @@
 {
   "name": "Proto Tower 199",
-  "description": "This is a Standard deployment, with an exciting build-up. Immediately following this deployment, I'll be creating an animated peice, and then I'll be attempting something pretty interesting. I hope I can be efficient enough with 196,197,198, and 199 to get to the good stuff quickly. I'll be going with 16x16 for this deployment with the following backgrounds. Sky, Substrate, Sun, Stamp ~ all traits start with S. Here's the third special darksouls style game ⚔️🛡️🗡️. Tweet @flarnrules1 the newest trait and rationale for said addition. Only 1 Big Winner.",
+  "description": "This is a Standard deployment, with an exciting build-up. Immediately following this deployment, I'll be creating an animated peice, and then I'll be attempting something pretty interesting. I hope I can be efficient enough with 196,197,198, and 199 to get to the good stuff quickly. I'll be going with 16x16 for this deployment with the following backgrounds. Sky, Vertical Gradient, Sun, Stamp. Also, if you've really been paying attention,here's the third special darksouls style game ⚔️🛡️🗡️. Tweet @flarnrules1 the newest trait and rationale for said addition. Only 1 Big Winner.",
   "attributes": [
     {
       "trait_type": "pixels",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "color palette",
-      "value": "Microsoft Paint"
+      "value": "AAP-Splendor128"
     },
     {
       "trait_type": "background pattern",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "raster graphics editor",
-      "value": "Microsoft Paint"
+      "value": "Aseprite"
     },
     {
       "trait_type": "drawing instrument",
-      "value": "Mouse"
+      "value": "Huion Graphics Tablet"
     },
     {
       "trait_type": "code snippet",
@@ -64,7 +64,7 @@
     },
     {
       "trait_type": "live stream",
-      "value": "No"
+      "value": "Yes"
     },
     {
       "trait_type": "vibe",

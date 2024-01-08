@@ -38,21 +38,32 @@ I only really know what's in collections and utilities right now. I've basically
 Speaking of that... I should probably also use those pieces as Proto Towers, as long as I know for sure they aren't gonna be minted in the main collection, or modify them in some way. This could make it easy to mint one on a day where perhaps I'm too busy to do a bunch of art, I could just run some special command and it mints from a big pile of old concept art at random. That would be really cool.
 
 #################################
-# LISTING RULES
+# GENESIS LISTING MODEL
 #################################
+**Goal** *to meet the market where it is at, while still being mindful of expecations about where the market is headed*
 
+**General rules and motivations of the pricing model**
 1. If auction, list at id number + 10 STARS
 2. If listing for sale, list at highest bid price.
 3. Unless bid price has been going down, then list at the midway point between bid and floor.
+4. If this results in the list price decreasing two times in a row, begin listing at the floor price.
+5. If that results in the listings to decrease, introduce more frequent auctions.
+6. Ultimately the lowest list price from a newly minted piece will always be the id number + 10 stars. 
+7. In the event of no sales of Genesis Mint listings for over 24 hours, then new listings will set a new floor price, which will be calculated as floor price - 10 Stars
+
+This will be reassessed based on reasonableness and observations about the market. My goal is to meet the market where it's at to cultivate a highly desirable, but highly liquid collection. This is where the tech shines the most - the ability for creators to find a market and tailor their product to meet the market where it's at, while simultaneous cultivating an environment that's tailored to their specific strengths and proclivities.
+
+> Proclivity: a tendency to choose or do something regularly; an inclination or predisposition toward a particular thing. "a proclivity for hard work"
+
 
 Example:
 Proto Tower 183. The highest bid is 355. The bid has been going down for a day or so from a peak of 800 now to 355.
 The floor price right now is 800. The midpoint is 800+355/2=577.5
-I think this will stabilize the bid price in these scenarios. Let's track that tonight and see how it goes.
+I think this will stabilize the bid price in these scenarios. Let's track that.
 
 Proto Tower 184,185. 355+800/2=577.5
 
-Proto Tower 186. 250+800/2=525
+Proto Tower 186. 250+800/2=525 (decrease 1)
 
 Proto Tower 187, 188 250+805/2=525
 
@@ -60,7 +71,17 @@ Proto Tower 189. 406+697/2=552
 
 Proto Tower 193. 407+990/2=699
 
-Proto Tower 194. 407+699/2=553
+Proto Tower 194. 407+699/2=553 (decrease 1)
+
+Proto Tower 195. ???
+
+Proto Tower 196. 407+699/2=553 
+
+Proto Tower 197. 407+553/2=480 (decrease 2)
+
+Proto tower 198. floor price of 553
+
+Proto Tower 199. floor price of 553 <- this of course stabilizes the floor, but runs the risk of a whole bunch of floor pieces that aren't moving. I think in the event of no sales of Gensis Mint listings for over 24 hours, then new listings will set a new floor price, which will be calculated as floor price - 10 Stars.
 
 
 #################################
@@ -102,6 +123,7 @@ Series
 Collab
 1/1
 Special 1 - Red Giant Sheds Its Outer Shell
+
 
 
 
@@ -153,6 +175,15 @@ Auction length is variable, anywhere from 6 hours to several days.
 ###############################################
 
 All collaborations are welcome.
+A collaboration is where someone else does the art and comes up with the metadata. We can exchange ideas and suggestions, and do brainstorming, but ultimately the piece itself is created by the collaborator, and I am just facilitating it getting minted.
+
+The mint proceeds are split 3 ways:
+1. 93% goes into my wallet.
+2. 2% is required fairburn by the Stargaze protocol.
+3. 5% goes into the royalties wallet.
+>⚠️5% of all transactions go into the royalties wallet
+
+The royalties wallet pays 50% of ALL of it's contents to collaborators once per week. This is an important distiction I'm not sure everyon is grasping just yet, but will hopefully start to make sense in time. As more artists participate, there will be more awesome and diverse art from all across the stargaze community, bringing in more interested people. This will create a more robust community, and a more active and liquid market for Proto Towers.
 
 Collaborators need to provide:
 - a pixel drawing of a tower (any dimensions, but must be a square - common dimensions are 8x8, 16x16, 32x32, 64x64, 128x128, but you can do whatever size you want!), in any suitable format (png, jpeg, gif) or even some exotic stuff like .svg (but we will need to chat how to make non simple raster graphics work)
@@ -179,8 +210,8 @@ Current collaborations include:
 6. Proto Tower 180 "
 
 
-Collab copy paste:
-
+*Prospective collaborator copy paste:*
+*I need to turn this into a form that auto populates the metadata*
 Needs to be raster drawing of a tower. Tower can be loosely applied.
 You can incorporate themes of nfts and projects you like, or nfts and projects you are involved with.
 You can promote other projects, or your own.
@@ -252,7 +283,12 @@ memo 'congrats on your big win 🌃🌆🌇🏙️'
 
 ## Special 2 - Find the Busted Metadata
 1 winner total
+goal was to figure out what was really wrong with the metadata on on id number 181.
 
 1. @fluffhead - stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad (235)
-2. 
+fluffhead wanted their prize to be proto tower 235, because that's their stargaze punk number. Pretty cool ~ we worked on this together and it's the same colors as his nft.
+
+## Special 3 - Good Vibes
+1 winner total
+goal is for someone to figure out the new trait_type that emerged during the 195-199 standard deployment.
 
