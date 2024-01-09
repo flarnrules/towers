@@ -1,10 +1,10 @@
 {
     "name": "Proto Tower ",
-    "description": "This is a Standard deployment, with an exciting build-up. Immediately following this deployment, I'll be creating an animated peice, and then I'll be attempting something pretty interesting. I hope I can be efficient enough with 196,197,198, and 199 to get to the good stuff quickly. I'll be going with 16x16 for this deployment with the following backgrounds. Sky, Substrate, Sun, Stamp ~ all traits start with S.",
+    "description": "",
     "attributes": [
       {
         "trait_type": "pixels",
-        "value": "16x16"
+        "value": "32x32"
       },
       {
         "trait_type": "dimensions",
@@ -12,11 +12,11 @@
       },
       {
         "trait_type": "color palette",
-        "value": "Microsoft Paint"
+        "value": "DB32"
       },
       {
         "trait_type": "background pattern",
-        "value": ""
+        "value": "Stamp"
       },
       {
         "trait_type": "time in minutes",
@@ -28,11 +28,11 @@
       },
       {
         "trait_type": "raster graphics editor",
-        "value": "Microsoft Paint"
+        "value": "Aseprite"
       },
       {
         "trait_type": "drawing instrument",
-        "value": "Mouse"
+        "value": "Huion Graphics Tablet"
       },
       {
         "trait_type": "code snippet",
@@ -68,7 +68,7 @@
       },
       {
         "trait_type": "vibe",
-        "value": "Tower"
+        "value": "Meta"
       }
     ]
   }

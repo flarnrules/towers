@@ -1,0 +1,74 @@
+{
+  "name": "Proto Tower 209",
+  "description": "This may not look like much, but it's actually a really cool Proto Tower. This is 9 of 9 pieces that fit together to form a mega proto tower. Holding one of these is extra special, because they are just the start of this concept, and these pieces can be used in future Wave Function Collapse deployments in unique and interesting ways. Note, this is the third dark souls (⚔️🛡️🗡️) style game, where the story is in the descriptions.  First person to assemble a drawing of all 9 wins a very, very big prize! *Must hold at least one in your wallet, and then you can just copy and paste the pictures from the other 8*",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "3x3"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "768x768"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "Putty"
+    },
+    {
+      "trait_type": "background pattern",
+      "value": "Cloud"
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": null
+    },
+    {
+      "trait_type": "recorded",
+      "value": "No"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "Aseprite"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Digital Pen"
+    },
+    {
+      "trait_type": "code snippet",
+      "value": "python3 bulk_resize.py"
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "Series"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Portable Network Graphics (PNG)"
+    },
+    {
+      "trait_type": "time of deployment",
+      "value": "🌃"
+    },
+    {
+      "trait_type": "number of frames",
+      "value": null
+    },
+    {
+      "trait_type": "live stream",
+      "value": "No"
+    },
+    {
+      "trait_type": "vibe",
+      "value": "Wave Function Collapse"
+    }
+  ]
+}

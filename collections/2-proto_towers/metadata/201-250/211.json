@@ -1,0 +1,74 @@
+{
+  "name": "Proto Tower 211",
+  "description": "This is the winning piece assembled from Proto Towers 201-209. Fluffhead has now won 2 of the 4 games (🗡️🛡️⚔️) Impressive. He must have been reading my github repo or something. Anyways, there's still a couple more prizes lurking out there.",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "9x9"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "768x768"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "Power Rangers"
+    },
+    {
+      "trait_type": "background pattern",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": null
+    },
+    {
+      "trait_type": "recorded",
+      "value": "No"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "Aseprite"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Digital Pen"
+    },
+    {
+      "trait_type": "code snippet",
+      "value": "python3 bulk_resize.py"
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "Special 4 - Megazord"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "Fluffhead"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Portable Network Graphics (PNG)"
+    },
+    {
+      "trait_type": "time of deployment",
+      "value": "🌃"
+    },
+    {
+      "trait_type": "number of frames",
+      "value": null
+    },
+    {
+      "trait_type": "live stream",
+      "value": "No"
+    },
+    {
+      "trait_type": "vibe",
+      "value": "Megazord"
+    }
+  ]
+}

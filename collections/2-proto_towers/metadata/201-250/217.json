@@ -1,0 +1,74 @@
+{
+  "name": "PROTO TOWER 217",
+  "description": "Created on the fire of inspiration so didn't even done layers or whatsoever. Feeling rules.",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "64x64"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "512x512"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "Warm"
+    },
+    {
+      "trait_type": "background pattern",
+      "value": "Desert Red"
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": null
+    },
+    {
+      "trait_type": "recorded",
+      "value": "No"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "Aseprite"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "code snippet",
+      "value": "python3 bulk_resize.py"
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "Collab"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "Randomkid"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "Bit Kids"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Portable Network Graphics (PNG)"
+    },
+    {
+      "trait_type": "time of deployment",
+      "value": "🌃"
+    },
+    {
+      "trait_type": "number of frames",
+      "value": null
+    },
+    {
+      "trait_type": "live stream",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "vibe",
+      "value": "Arrakeen"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Proto Tower 210",
+  "description": "I just realized I left out how to claim your prize from the game (🗡️🛡️⚔️) in proto towers 201-209. You need to assemble the pieces, and tweet the image @flarnrules1. You also need proof that you hold one of the pieces.Holding one of these might also allow future participation in other games. Kind of like holding a tetris piece. *will need some assistance probably to make this a reality in the future*",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "32x32"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "768x768"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "DB32"
+    },
+    {
+      "trait_type": "background pattern",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": null
+    },
+    {
+      "trait_type": "recorded",
+      "value": "No"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "Aseprite"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Digital Pen"
+    },
+    {
+      "trait_type": "code snippet",
+      "value": "ctrl+c ctrl+v"
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "1/1"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Graphics Interchange Format (GIF)"
+    },
+    {
+      "trait_type": "time of deployment",
+      "value": "🌃"
+    },
+    {
+      "trait_type": "number of frames",
+      "value": 12
+    },
+    {
+      "trait_type": "live stream",
+      "value": "No"
+    },
+    {
+      "trait_type": "vibe",
+      "value": "Frigid Heights"
+    }
+  ]
+}

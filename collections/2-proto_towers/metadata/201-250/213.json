@@ -1,0 +1,74 @@
+{
+  "name": "Proto Tower 213",
+  "description": "This is another BIG WIN by Fluffhead... on a roll tonite (⚔️🛡️🗡️) in these little games I've been making. Great job posting about the Gas Giant Shedding It's Outermost layers, obliterating all life as we know it. I got a recommendation to do something witha  white dwarf next. I'm going to call it something like 'Heat Death of the Universe' and I think 5 winners makes sense for that one.",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "32x32"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "768x768"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "CPC"
+    },
+    {
+      "trait_type": "background pattern",
+      "value": "Substrate"
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": null
+    },
+    {
+      "trait_type": "recorded",
+      "value": "No"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "Aseprite"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Huion Graphics Tablet"
+    },
+    {
+      "trait_type": "code snippet",
+      "value": "./standard_setup.sh + python3 bulk_resize.py"
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "Special 1 - Red Giant Sheds Its Outer Shell"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Portable Network Graphics (PNG)"
+    },
+    {
+      "trait_type": "time of deployment",
+      "value": "🌃"
+    },
+    {
+      "trait_type": "number of frames",
+      "value": null
+    },
+    {
+      "trait_type": "live stream",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "vibe",
+      "value": "Neon"
+    }
+  ]
+}

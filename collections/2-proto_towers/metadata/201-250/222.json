@@ -1,0 +1,74 @@
+{
+  "name": "Proto Tower 222 (or give it a name)",
+  "description": "Insert description here",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "16x16"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "infinite"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "Need a color palette "
+    },
+    {
+      "trait_type": "background pattern",
+      "value": " "
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": null
+    },
+    {
+      "trait_type": "recorded",
+      "value": "No"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "What drawing software did you use?"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Digital pen? Mouse? "
+    },
+    {
+      "trait_type": "code snippet",
+      "value": "Want to put a snippet of code, or a command used to build the thing? "
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "Collab"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "Berny"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "Pixel Wizards"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Scalable Vector Graphic (SVG)"
+    },
+    {
+      "trait_type": "time of deployment",
+      "value": "🏙️🌃🌆🌇"
+    },
+    {
+      "trait_type": "number of frames",
+      "value": null
+    },
+    {
+      "trait_type": "live stream",
+      "value": "No"
+    },
+    {
+      "trait_type": "vibe",
+      "value": "Whimsical"
+    }
+  ]
+}

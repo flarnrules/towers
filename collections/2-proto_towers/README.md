@@ -83,6 +83,11 @@ Proto tower 198. floor price of 553
 
 Proto Tower 199. floor price of 553 <- this of course stabilizes the floor, but runs the risk of a whole bunch of floor pieces that aren't moving. I think in the event of no sales of Gensis Mint listings for over 24 hours, then new listings will set a new floor price, which will be calculated as floor price - 10 Stars.
 
+Proto Tower 201-209. 404+880/2=642
+
+Proto Tower 214-215. 404+642/2=523 (decrease 1)
+
+
 
 #################################
 # metadata naming standards
@@ -123,6 +128,9 @@ Series
 Collab
 1/1
 Special 1 - Red Giant Sheds Its Outer Shell
+Special 2 - Find the Busted Metadata
+Special 3 - Good Vibes
+Special 4 - Megazord
 
 
 
@@ -207,7 +215,10 @@ Current collaborations include:
 3. Proto Tower 159 "Tower of Ninja" - by Captain Jinxto
 4. Proto Tower 160 "Lumitower" - by Captain Jinxto
 5. Proto Tower 170 "Forgotten Tower" - by Captain Jinxto
-6. Proto Tower 180 "
+6. Proto Tower 180 "Skyscraping Tower" - by Captain Jinxto
+7. Proto Tower 216 " " - by Ajk
+8. Proto Tower 217 " " - by Randomkid
+9. Proto Tower 218 " " - by Ajk
 
 
 *Prospective collaborator copy paste:*
@@ -232,9 +243,17 @@ Metadata:
 proto towers master wallet:
 stars1hyhmssn4j6fxlvq58ctlpxwg5az7shg7zc77rp
 current memo: `for collab 🏙️🌆`
+run `royalties.py` to generate the data needed.
+
+todo:
+- automate retrieval of liquid balance
+- automate creation of transaction with multiple recipients
+- automate everything where wallet just does this each week with no input (multiple steps)
 
 collaborator wallets:
-stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z
+stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z - Jinxto
+stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad - Fluffhead
+
 
 x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x
 1/2/2024 - wallet contents = 805 STARS
@@ -251,13 +270,32 @@ Next split on 1/9/2024
 memo: for collab 🏙️🌆
 x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x
 
+x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x
+1/9/2024 - wallet liquid contents = 3729 STARS
+collaborations
+Jinxto - 6 - 100%
+Total - 6 - 100%
+
+Split - 25% stake, 25% liquid, 50% to collaborators
+25% x 3729 = 932.25 Staked
+25% x 3729 = 932.25 Liquid
+50% x 3729 = 1864.5 Collaborators
+
+Breakdown
+Jinxto - 100% x 1864.5 = 1864.5
+
+Next split on 1/16/2024
+memo: for collab 🏙️🌆
+x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x
+
+
 ##################################
 # technical stuff
 ##################################
 upscale calculations for 768x768 dimensions
 8x8 => 9600%
 16x16 => 4800%
-32x32 =>
+32x32 => 2300%
 64x64 =>
 128x128 =>
 
@@ -279,16 +317,23 @@ memo 'congrats on your big win 🌃🌆🌇🏙️'
 3. @cosmochiller - stars13ml8ncuzcecwq5mxpk2n3lef8pckr588va6kkw (162) ✅
 4. @Ijon1337 - stars168qsl9q8ltxhj48lrpwxh3q4wyue2nk8ykc4yq (163) ✅
 5. @votor1337 - stars1neqprx4sd0xrs4snn2q9ccchg6ksva3p0vxcfl (167) ✅
-6. 
+6. @GolbiApp (fluffhead) - stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad (213) ✅
 
 ## Special 2 - Find the Busted Metadata
 1 winner total
 goal was to figure out what was really wrong with the metadata on on id number 181.
 
-1. @fluffhead - stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad (235)
+1. @GolbiApp (fluffhead) - stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad (235) 
 fluffhead wanted their prize to be proto tower 235, because that's their stargaze punk number. Pretty cool ~ we worked on this together and it's the same colors as his nft.
 
 ## Special 3 - Good Vibes
 1 winner total
 goal is for someone to figure out the new trait_type that emerged during the 195-199 standard deployment.
 
+1. @GolbiApp (fluffhead) - stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad (212) ✅
+
+# Special 4 - Megazord
+1 winner total
+goal was to assemble megazord tower
+fluffhead won super fast.
+@fluffhead - stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad (211) ✅

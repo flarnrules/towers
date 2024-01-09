@@ -1,22 +1,22 @@
 {
-    "name": "Proto Tower # (or give it a name)",
-    "description": "Insert description here",
+    "name": "Proto Tower ",
+    "description": "This is 1 of 9 pieces that fit together to form a mega proto tower. Holding one of these is extra special.",
     "attributes": [
       {
         "trait_type": "pixels",
-        "value": "16x16"
+        "value": "3x3"
       },
       {
         "trait_type": "dimensions",
-        "value": "infinite"
+        "value": "768x768"
       },
       {
         "trait_type": "color palette",
-        "value": "Need a color palette "
+        "value": "Custom"
       },
       {
         "trait_type": "background pattern",
-        "value": " "
+        "value": ""
       },
       {
         "trait_type": "time in minutes",
@@ -28,35 +28,35 @@
       },
       {
         "trait_type": "raster graphics editor",
-        "value": "What drawing software did you use?"
+        "value": "Aseprite"
       },
       {
         "trait_type": "drawing instrument",
-        "value": "Digital pen? Mouse? "
+        "value": "Digital Pen"
       },
       {
         "trait_type": "code snippet",
-        "value": "Want to put a snippet of code, or a command used to build the thing? "
+        "value": "./megazord.sh"
       },
       {
         "trait_type": "deployment type",
-        "value": "Collab"
+        "value": "Series"
       },
       {
         "trait_type": "collab artist",
-        "value": "Berny"
+        "value": "n/a"
       },
       {
         "trait_type": "collab collection",
-        "value": "Pixel Wizards"
-      },
+        "value": "n/a"
+      },     
       {
         "trait_type": "file format",
-        "value": "Scalable Vector Graphic (SVG)"
+        "value": "Portable Network Graphics (PNG)"
       },
       {
         "trait_type": "time of deployment",
-        "value": "🏙️🌃🌆🌇"
+        "value": "🌃"
       },
       {
         "trait_type": "number of frames",
@@ -68,8 +68,7 @@
       },
       {
         "trait_type": "vibe",
-        "value": "Tower"
+        "value": "Wave Function Collapse"
       }
     ]
   }
-  

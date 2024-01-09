@@ -3,8 +3,8 @@ import os
 import re
 
 # params
-input_folder = 'media/original_pngs/151-200'
-output_folder = 'images/151-200'
+input_folder = 'media/original_pngs/201-250'
+output_folder = 'images/201-250'
 new_width = 768
 new_height = 768
 

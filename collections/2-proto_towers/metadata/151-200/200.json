@@ -1,0 +1,74 @@
+{
+  "name": "Proto Tower 200",
+  "description": "Quick little animation for number 200. Can't believe we are already at 200 Proto Towers! Here's to the next 200.🗼🏭🏗️🏢. In this tower I made the smoke stack of a factory the 'tower' and created a little system where there's a wastewater filtration pond that releases the water, and concides with the smokstack producing smoke, or perhaps some steam. This was a lot of fun, and I'm looking forward to seeing how far I can take this concept, especially for when I really get into my next book 'Networks, Monoliths, Megaliths and Modular Systems' which will hopefully be completed before the end of 2026.",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "32x32"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "768x768"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "ARNE32"
+    },
+    {
+      "trait_type": "background pattern",
+      "value": "Sun Stamp"
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": null
+    },
+    {
+      "trait_type": "recorded",
+      "value": "No"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "Aseprite"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Huion Graphics Tablet"
+    },
+    {
+      "trait_type": "code snippet",
+      "value": "python3 calculate_resize.py"
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "1/1"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Graphics Interchange Format (GIF)"
+    },
+    {
+      "trait_type": "time of deployment",
+      "value": "🏙️"
+    },
+    {
+      "trait_type": "number of frames",
+      "value": 36
+    },
+    {
+      "trait_type": "live stream",
+      "value": "No"
+    },
+    {
+      "trait_type": "vibe",
+      "value": "Factory"
+    }
+  ]
+}

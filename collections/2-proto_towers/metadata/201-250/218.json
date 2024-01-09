@@ -1,0 +1,74 @@
+{
+  "name": "Cliff 2",
+  "description": "The artist did not provide a description for this one, but asked 'you dig this one?'",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "32x32"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "768x768"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "background pattern",
+      "value": "Magenta Sunset"
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": null
+    },
+    {
+      "trait_type": "recorded",
+      "value": "No"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Mouse"
+    },
+    {
+      "trait_type": "code snippet",
+      "value": ""
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "Collab"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "ajk"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "Starty"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Portable Network Graphics (PNG)"
+    },
+    {
+      "trait_type": "time of deployment",
+      "value": "🌃"
+    },
+    {
+      "trait_type": "number of frames",
+      "value": null
+    },
+    {
+      "trait_type": "live stream",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "vibe",
+      "value": "Blue Shard"
+    }
+  ]
+}

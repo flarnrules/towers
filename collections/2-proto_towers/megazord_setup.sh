@@ -5,7 +5,7 @@ METADATA_DIR="templates/jsons"
 ASEPRITE_DIR="templates/aseprite"
 DEST_JSON_DIR="metadata/201-250"
 DEST_ASEPRITE_DIR="media/aseprite/201-250"
-ASEPRITE_TEMPLATES=("8x8.aseprite" "16x16.aseprite" "32x32.aseprite" "64x64.aseprite" "128x128.aseprite")
+ASEPRITE_TEMPLATES=("3x3.aseprite")
 
 # Prompt the user to select a template.
 echo "Available Aseprite templates:"
@@ -43,7 +43,7 @@ mkdir -p "$DEST_ASEPRITE_DIR"
 for i in $(seq $START_NUM $END_NUM); do
     # Copy and rename the metadata JSON file.
     JSON_FILE="$DEST_JSON_DIR/$i.json"
-    cp "$METADATA_DIR/standard_template.json" "$JSON_FILE"
+    cp "$METADATA_DIR/megazord.json" "$JSON_FILE"
 
     # Update the "name" and "pixels" field in the JSON file.
     jq --arg name "Proto Tower $i" --arg pixels "$PIXEL_DIMENSION" \
