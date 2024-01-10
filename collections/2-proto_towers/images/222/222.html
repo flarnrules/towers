@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Wizard's Tower</title>
+    
+</head>
+<body>
+    <div id="svg-container">
+       
+        <svg id="wiztower" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" viewBox="0 0 16 16">
+    <style>
+      html, body, #svg-container {
+        margin: 0;
+        padding: 0;
+        overflow: hidden; /* Hide scrollbars */
+        height: 100%; /* Full viewport height */
+    }
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #4141FF; /* Set background color */
+    }
+    
+    #svg-container {
+        width: 100vmin; /* Responsive square size */
+        height: 100vmin; /* Responsive square size */
+    }
+    
+    #wiztower {
+        display: block; /* Remove inline-block spacing */
+        width: 100%; /* Full container width */
+        height: 100%; /* Full container height */
+    }      
+    
+    *:focus {
+        outline: none;
+        box-shadow: none;
+      }
+      .enchantment {
+        opacity: 0;
+        transition: opacity 1s ease;
+        pointer-events: none;
+      }
+      .enchanting .enchantment {
+        opacity: 1;
+      }
+      .pw-x {
+        animation: pw-anim-x 1s steps(1) -0.8364s infinite;
+        transform-origin: center;
+        transform-box: fill-box;
+      }
+      @keyframes pw-anim-x {
+        0% {
+          transform: scaleX(1);
+        }
+    
+        50% {
+          transform: scaleX(-1);
+        }
+    
+        100% {
+          transform: scaleX(1);
+        }
+      }
+      .pw-ml {
+        animation: pw-anim-ml 1s steps(1) -0.1364s infinite;
+        transform-origin: center;
+        transform-box: fill-box;
+      }
+      @keyframes pw-anim-ml {
+        0% {
+          transform: translateX(0);
+        }
+    
+        50% {
+          transform: translateX(-1px);
+        }
+    
+        100% {
+          transform: translateX(0);
+        }
+      }
+      .pw-mr {
+        animation: pw-anim-mr 1s steps(1) 0.6364s infinite;
+        transform-origin: center;
+        transform-box: fill-box;
+      }
+      @keyframes pw-anim-mr {
+        0% {
+          transform: translateX(0);
+        }
+    
+        50% {
+          transform: translateX(1px);
+        }
+    
+        100% {
+          transform: translateX(0);
+        }
+      }
+      .pw-glow-66 {
+        animation: pw-anim-glow-66 4s -0.1364s infinite;
+      }
+      @keyframes pw-anim-glow-66 {
+        0% {
+          opacity: 0.33;
+        }
+    
+        50% {
+          opacity: 0.66;
+        }
+    
+        100% {
+          opacity: 0.33;
+        }
+      }
+      .pw-glow-33 {
+        animation: pw-anim-glow-33 4s -0.6364s infinite;
+      }
+      @keyframes pw-anim-glow-33 {
+        0% {
+          opacity: 0.15;
+        }
+    
+        50% {
+          opacity: 0.33;
+        }
+    
+        100% {
+          opacity: 0.15;
+        }
+      }
+      .enchanting .pw-flicker {
+          animation: pw-anim-flicker 2s steps(1) -0.8364s infinite;
+      }
+      @keyframes pw-anim-flicker {
+          0% {
+          fill: #fff;
+          }
+    
+          10% {
+          fill: #61D3E3;
+          }
+    
+          20% {
+          fill: #fff;
+          }
+    
+          50% {
+          fill: #61D3E3;
+          }
+          60% {
+          fill: #fff;
+          }
+    
+          80% {
+          fill: #61D3E3;
+          }
+    
+          100% {
+          fill: #fff;
+          }
+      }
+    </style>
+      <g class="wizard-tower-1">
+        <g class="tower">
+          <path fill="#4141FF" d="M16 0v16H0V0h16Z" />
+          <path fill="#A23000" d="M14 5v1H2V5h1V4h2V3h1V2h1V1h2v1h1v1h1v1h2v1h1Z" />
+          <path fill="#EBD320" d="M9 14v1H8v-1h1Z" />
+          <path fill="#71F341" d="M1 14h1v1H1v-1Zm13 0v1h1v-1h-1Z" />
+          <path fill="#794100" d="M8 8H7V7h1v1ZM6 8v1h1V8H6Zm2 0v1h1V8H8Zm-1 2h1V9H7v1Zm0 3v3h2v-1H8v-1h1v-1H7Z" />
+          <path fill="#B2B2B2" d="M12 6H3v1h2v9h2v-3h2v3h2V7h2V6h-1ZM8 7v1h1v1H8v1H7V9H6V8h1V7h1Z" />
+          <path fill="#49A269" d="M2 15h1v1H0v-1h2Zm11 0h-2v1h3v-1h-1Z" />
+          <path fill="#306141" d="M4 15h1v1H3v-1h1Zm11 0h-1v1h2v-1h-1Z" />
+          <path fill="#A2A2A2" d="M5 6v1H3V6h2Zm0 2v8h1V7H5v1Zm4 5v3h1v-3H9Z" />
+          <path fill="#E35100" d="M8 1v1H7V1h1ZM6 3h1V2H6v1ZM5 4h1V3H5v1ZM3 4v1h2V4H3ZM2 6h1V5H2v1Z" />
+          <path fill="#DB41C3" d="M15 13v1h-1v-1h1Z" class="pw-ml"/>
+          <path fill="#FFBAEB" d="M2 13v1H1v-1h1Z" class="pw-mr"/>
+          <path fill="#61D3E3" d="M8 8v1H7V8h1Z" class="pw-flicker" />
+        </g>
+        <g class="enchantment">
+          <path fill="#A2FFF3" d="M9 0v1H7V0h2ZM6 2h1V1H6v1Zm3-1v1h1V1H9ZM5 3h1V2H5v1Zm5-1v1h1V2h-1ZM3 3v1h2V3H3Zm9 0h-1v1h2V3h-1ZM2 5h1V4H2v1Zm11-1v1h1V4h-1ZM1 6h1V5H1v1Zm13-1v1h1V5h-1ZM3 7V6H2v1h1Zm10 0h1V6h-1v1ZM4 8v8h1V7H3v1h1Zm7-1v9h1V8h1V7h-2Z" class="pw-glow-66" opacity=".66"/>
+          <path fill="#A2FFF3" d="M6 0h1v1H6V0Zm3 0v1h1V0H9ZM5 2h1V1H5v1Zm5-1v1h1V1h-1ZM3 2v1h2V2H3Zm9 1V2h-1v1h1ZM2 4h1V3H2v1Zm11-1v1h1V3h-1ZM1 5h1V4H1v1Zm13-1v1h1V4h-1ZM0 6h1V5H0v1Zm15-1v1h1V5h-1ZM2 7V6H1v1h1Zm12 0h1V6h-1v1ZM3 8V7H2v1h1Zm10 0h1V7h-1v1Zm-1 1v7h1V8h-1v1Zm-9 1v6h1V8H3v2Z" class="pw-glow-33" opacity=".33"/>
+          <path fill="#A2FFF3" d="M8 0h1v1H8V0ZM4 3h1V2H4v1Zm8-1v1h1V2h-1ZM4 9H3V8h1v1Zm0 2v1h1v-1H4Zm-1 4h1v-1H3v1Zm9-5h-1V9h1v1Zm0 1v1h1v-1h-1Zm0 4h1v-1h-1v1Z" class="pw-x" />
+        </g>
+      </g>
+
+    </svg>
+    </div>
+
+    <script type="text/javascript">
+      document.addEventListener('DOMContentLoaded', (event) => {
+          let root = document.getElementById('wiztower');
+          if (root) {
+           
+              let pwRoot = root;
+              let pwTower = pwRoot.querySelector('.tower');
+  
+              pwTower.addEventListener('click', () => {
+                  magic();
+              });
+  
+              function magic() {
+                  pwRoot.classList.toggle('enchanting');
+              }
+          }
+      });
+  </script>
+  
+</body>
+</html>

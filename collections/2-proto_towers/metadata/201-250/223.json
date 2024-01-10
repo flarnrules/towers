@@ -1,5 +1,5 @@
 {
-  "name": "Proto Tower 223",
+  "name": "Witch's Shack",
   "description": "In the heart of a desolate forest, the Haunting Witch's Shack materializes beneath the flickering light of a full moon. Its timeworn facade, entangled with twisted vines, reveals an ominous silhouette. As night falls, the shack's interior comes alive with the eerie glow of lights, and within, the witch's murmurs resonate, casting a mysterious spell over the enchanted surroundings. - Click to Activiate Lights().",
   "attributes": [
     {
@@ -71,5 +71,6 @@
       "value": "Spooky"
     }
   ],
-  "animation_url": "ipfs://bafkreihs6775ntwrzr77jtigwoyevbmluqnewnoosprqjcjdckf44d466q"
+  "image": "ipfs://bafybeic4oxtqbjonswlcnzm3tissoa2peaknf62a73fsll6txyqjnk7zra/223.svg",
+  "animation_url": "https://ipfs-gw.stargaze-apis.com/ipfs/bafybeic4oxtqbjonswlcnzm3tissoa2peaknf62a73fsll6txyqjnk7zra/223.html"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Proto Tower 222",
+  "name": "Wizard's Tower",
   "description": "Amidst a mystical landscape, the Wizard's Tower stands tall, emanating an enchanting aura that bathes the surroundings in a warm, friendly glow. Its spiraling spires reach towards the stars, adorned with whimsical symbols that seem to dance with joy. As day turns to night, the tower's magical lights twinkle like friendly stars, inviting visitors to discover the benevolent secrets within. - Click to activate Magic()",
   "attributes": [
     {
@@ -71,5 +71,6 @@
       "value": "Whimsical"
     }
   ],
-  "animation_url": "https://ipfs.io/ipfs/bafkreigio6nckebi54tzcwbe2zigsejp6mbvntzfblot2itgrbqv4v2rca/222.svg"
+  "image": "ipfs://bafybeiarpcperyxnnrvjoox4io66nsb5mbwkelfcowppqnxffjum2a4eru/222.svg",
+  "animation_url": "https://ipfs-gw.stargaze-apis.com/ipfs/bafybeiarpcperyxnnrvjoox4io66nsb5mbwkelfcowppqnxffjum2a4eru/222.html"
 }

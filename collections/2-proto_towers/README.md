@@ -253,7 +253,10 @@ todo:
 collaborator wallets:
 stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z - Jinxto
 stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad - Fluffhead
+stars13nyn5v2mxv8cs6nj0khrxy9wkmw7ry0cuzrvg3 - Ajk
+stars1apx87m4378vpnncglx8m6gklafhtnjhhr96027 - Randomkid
 
+for collab week2 🏙️🌆
 
 x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x
 1/2/2024 - wallet contents = 805 STARS
