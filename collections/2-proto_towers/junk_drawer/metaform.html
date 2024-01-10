@@ -11,7 +11,6 @@
   }
 </style>
 <form id=tower-meta><div></div><input type=submit value='get json'></form>
-<p><a id=dl hidden><button>download JSON file</button></a></p>
 <textarea id=out hidden></textarea>
 <script>
 let fields = [
@@ -51,8 +50,6 @@ form.onsubmit = e=>{
   e.preventDefault();
   let data = new FormData(e.target);
   let json = {name:'', description:'', 'attributes': []};
-
-  
   for (const [key, value] of data) {
     if ( key == 'name' || key == 'description' ) {
         json[ key ] = value;
@@ -60,17 +57,9 @@ form.onsubmit = e=>{
        json.attributes.push( {'trait_type': key, 'value': value } )
     }
   }
-  json = JSON.stringify(json, null, "\t");
-  out.value=json;
+  out.value = JSON.stringify(json, null, "\t");
   out.hidden=false;
   out.focus();
   out.select();
-
-  blob = new Blob([json], { type: 'application/json;charset=utf-8;' }),
-  url = URL.createObjectURL(blob),
-  pom = document.querySelector('#dl');
-  pom.href = url;
-  pom.setAttribute('download', 'prototower.json');
-  pom.hidden=false;
 }
 </script>
