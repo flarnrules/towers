@@ -4,7 +4,7 @@
     "attributes": [
       {
         "trait_type": "pixels",
-        "value": "32x32"
+        "value": "64x64"
       },
       {
         "trait_type": "dimensions",
@@ -28,15 +28,15 @@
       },
       {
         "trait_type": "raster graphics editor",
-        "value": "Aseprite"
+        "value": "Microsoft Paint"
       },
       {
         "trait_type": "drawing instrument",
-        "value": "Huion Graphics Tablet"
+        "value": "Mouse"
       },
       {
         "trait_type": "code snippet",
-        "value": "./standard_setup.sh + python3 bulk_resize.py"
+        "value": "./standard_setup.sh"
       },
       {
         "trait_type": "deployment type",
@@ -56,7 +56,7 @@
       },
       {
         "trait_type": "time of deployment",
-        "value": "🏙️"
+        "value": "🌃"
       },
       {
         "trait_type": "number of frames",
