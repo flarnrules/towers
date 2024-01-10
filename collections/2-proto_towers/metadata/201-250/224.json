@@ -1,6 +1,6 @@
 {
   "name": "Proto Tower 224",
-  "description": "",
+  "description": "A bit of stress releiver while trying to figure out svg files, CARs, and all sorts of other complex stuff related to the wizard tower and witch hut. just drew this and the next two in a chaotic and loose manner with a mouse.",
   "attributes": [
     {
       "trait_type": "pixels",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "color palette",
-      "value": "DB32"
+      "value": "MS Paint - Blues, Greys and Greens"
     },
     {
       "trait_type": "background pattern",
@@ -68,7 +68,7 @@
     },
     {
       "trait_type": "vibe",
-      "value": "Meta"
+      "value": "Scribbles"
     }
   ]
 }

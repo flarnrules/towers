@@ -1,6 +1,6 @@
 {
   "name": "Proto Tower 225",
-  "description": "",
+  "description": "Another chaotic one, just letting off some steam while trying to figure out something way outside my skillset.",
   "attributes": [
     {
       "trait_type": "pixels",
@@ -12,11 +12,11 @@
     },
     {
       "trait_type": "color palette",
-      "value": "DB32"
+      "value": "MS Paint - Lavenders and Blues"
     },
     {
       "trait_type": "background pattern",
-      "value": "Stamp"
+      "value": "Diagonals"
     },
     {
       "trait_type": "time in minutes",
@@ -68,7 +68,7 @@
     },
     {
       "trait_type": "vibe",
-      "value": "Meta"
+      "value": "Scribbles"
     }
   ]
 }
