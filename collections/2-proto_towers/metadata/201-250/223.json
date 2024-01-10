@@ -1,10 +1,10 @@
 {
-  "name": "Proto Tower 222",
-  "description": "Amidst a mystical landscape, the Wizard's Tower stands tall, emanating an enchanting aura that bathes the surroundings in a warm, friendly glow. Its spiraling spires reach towards the stars, adorned with whimsical symbols that seem to dance with joy. As day turns to night, the tower's magical lights twinkle like friendly stars, inviting visitors to discover the benevolent secrets within. - Click to activate Magic()",
+  "name": "Proto Tower 223",
+  "description": "In the heart of a desolate forest, the Haunting Witch's Shack materializes beneath the flickering light of a full moon. Its timeworn facade, entangled with twisted vines, reveals an ominous silhouette. As night falls, the shack's interior comes alive with the eerie glow of lights, and within, the witch's murmurs resonate, casting a mysterious spell over the enchanted surroundings. - Click to Activiate Lights().",
   "attributes": [
     {
       "trait_type": "pixels",
-      "value": "16x16"
+      "value": "32x32"
     },
     {
       "trait_type": "dimensions",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "color palette",
-      "value": "NES"
+      "value": "AAP-Slendor128"
     },
     {
       "trait_type": "background pattern",
@@ -20,7 +20,7 @@
     },
     {
       "trait_type": "time in minutes",
-      "value": "55"
+      "value": "35"
     },
     {
       "trait_type": "recorded",
@@ -36,7 +36,7 @@
     },
     {
       "trait_type": "code snippet",
-      "value": "Magic()"
+      "value": "Lights()"
     },
     {
       "trait_type": "deployment type",
@@ -68,8 +68,8 @@
     },
     {
       "trait_type": "vibe",
-      "value": "Whimsical"
+      "value": "Spooky"
     }
   ],
-  "animation_url": "https://ipfs.io/ipfs/bafkreigio6nckebi54tzcwbe2zigsejp6mbvntzfblot2itgrbqv4v2rca/222.svg"
+  "animation_url": "ipfs://bafkreihs6775ntwrzr77jtigwoyevbmluqnewnoosprqjcjdckf44d466q"
 }
