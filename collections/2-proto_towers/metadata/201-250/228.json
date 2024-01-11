@@ -1,0 +1,74 @@
+{
+	"name": "Desert Monolith",
+	"description": "I use hue 42 a lot in my designs... using the HSL color model, leaving Hue at 42 and varying the Saturation and Luminosity.  So I wanted to try a tower using 42 exclusively.  This naturally leads to desert scenes, which I love anyway.",
+	"attributes": [
+		{
+			"trait_type": "pixels",
+			"value": "32"
+		},
+		{
+			"trait_type": "dimensions",
+			"value": "768"
+		},
+		{
+			"trait_type": "color palette",
+			"value": "Hue 42"
+		},
+		{
+			"trait_type": "background pattern",
+			"value": "Hazy Clouds"
+		},
+		{
+			"trait_type": "time in minutes",
+			"value": null
+		},
+		{
+			"trait_type": "recorded",
+			"value": "No"
+		},
+		{
+			"trait_type": "raster graphics editor",
+			"value": "Affinity Photo"
+		},
+		{
+			"trait_type": "drawing instrument",
+			"value": "Finger"
+		},
+		{
+			"trait_type": "code snippet",
+			"value": ""
+		},
+		{
+			"trait_type": "deployment type",
+			"value": "Collab"
+		},
+		{
+			"trait_type": "collab artist",
+			"value": "ajk"
+		},
+		{
+			"trait_type": "collab collection",
+			"value": "Hue42"
+		},
+		{
+			"trait_type": "file format",
+			"value": "Portable Network Graphics (PNG)"
+		},
+		{
+			"trait_type": "time of deployment",
+			"value": "🏙️"
+		},
+		{
+			"trait_type": "number of frames",
+			"value": null
+		},
+		{
+			"trait_type": "live stream",
+			"value": "No"
+		},
+		{
+			"trait_type": "vibe",
+			"value": "Parched"
+		}
+	]
+}

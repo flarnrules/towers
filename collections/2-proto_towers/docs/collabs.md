@@ -13,9 +13,9 @@
 12. Proto Tower 223 "Witch's Shack" - by Berny
 13. Proto Tower 227 "Tower Van" - by Votor
 14. Proto Tower 228 "Desert Monolith" - by Ajk
-15. Proto Tower 229 "Lonely Tower" - by Jinxto
-16. Proto Tower 231 "Jekyll or Hyde 1" - by Quasimosis
-17. Proto Tower 232 "Jekyll or Hyde 2" - by Quasimosis
+15. Proto Tower 231 "Lonely Tower" - by Jinxto
+16. Proto Tower 232 "Jekyll or Hyde 1" - by Quasimosis
+17. Proto Tower 233 "Jekyll or Hyde 2" - by Quasimosis
 18. Proto Tower 234 "Dark Tower" - by Ijon
 
 
@@ -23,7 +23,7 @@ stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z - Jinxto
 stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad - Fluffhead
 stars13nyn5v2mxv8cs6nj0khrxy9wkmw7ry0cuzrvg3 - Ajk
 stars1apx87m4378vpnncglx8m6gklafhtnjhhr96027 - Randomkid
-- Berny
-- Votor
+stars1d74f6c7rgyyym57530rc2tt88fnl6wpdcpz6ta - Berny
+stars1neqprx4sd0xrs4snn2q9ccchg6ksva3p0vxcfl - Votor
 - Quasimosis
 - Ijon

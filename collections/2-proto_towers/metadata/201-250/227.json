@@ -1,0 +1,74 @@
+{
+  "name": "Van With Tower",
+  "description": "A van on it's evening journey, with a tower and the setting sun in the background.",
+  "attributes": [
+  {
+  "trait_type": "pixels",
+  "value": "48x48"
+  },
+  {
+  "trait_type": "dimensions",
+  "value": "720x720"
+  },
+  {
+  "trait_type": "color palette",
+  "value": "Very Pretty"
+  },
+  {
+  "trait_type": "background pattern",
+  "value": "Setting Sun"
+  },
+  {
+  "trait_type": "time in minutes",
+  "value": 69
+  },
+  {
+  "trait_type": "recorded",
+  "value": "No"
+  },
+  {
+  "trait_type": "raster graphics editor",
+  "value": "Pixel Studio pro on phone"
+  },
+  {
+  "trait_type": "drawing instrument",
+  "value": "Thumb"
+  },
+  {
+  "trait_type": "code snippet",
+  "value": "while(1){be_awesome(true)};"
+  },
+  {
+  "trait_type": "deployment type",
+  "value": "Collab"
+  },
+  {
+  "trait_type": "collab artist",
+  "value": "Votor"
+  },
+  {
+  "trait_type": "collab collection",
+  "value": "Pixel Vans"
+  },
+  {
+  "trait_type": "file format",
+  "value": "Portable Network Graphics (PNG)"
+  },
+  {
+  "trait_type": "time of deployment",
+  "value": "🏙️"
+  },
+  {
+  "trait_type": "number of frames",
+  "value": null
+  },
+  {
+  "trait_type": "live stream",
+  "value": "No"
+  },
+  {
+  "trait_type": "vibe",
+  "value": "Nostalgic"
+  }
+  ]
+  }
