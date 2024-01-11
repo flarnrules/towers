@@ -1,0 +1,74 @@
+{
+	"name": "The Dark Proto Tower",
+	"description": "There he is, set in a field of roses  at the center of everything, at the origin of the coordinates. The Dark Proto Tower. And something just doesnt seem right.",
+	"attributes": [
+		{
+			"trait_type": "pixels",
+			"value": "32x32"
+		},
+		{
+			"trait_type": "dimensions",
+			"value": "1024x1024"
+		},
+		{
+			"trait_type": "color palette",
+			"value": "Minecraft 1.0"
+		},
+		{
+			"trait_type": "background pattern",
+			"value": "Streams of clouds crossing over the tower"
+		},
+		{
+			"trait_type": "time in minutes",
+			"value": "Time is glitching"
+		},
+		{
+			"trait_type": "recorded",
+			"value": "No"
+		},
+		{
+			"trait_type": "raster graphics editor",
+			"value": "Piskel"
+		},
+		{
+			"trait_type": "drawing instrument",
+			"value": "Mouse"
+		},
+		{
+			"trait_type": "code snippet",
+			"value": "0110111001101111"
+		},
+		{
+			"trait_type": "deployment type",
+			"value": "Collab"
+		},
+		{
+			"trait_type": "collab artist",
+			"value": "Pajon"
+		},
+		{
+			"trait_type": "collab collection",
+			"value": "Rum Diaries"
+		},
+		{
+			"trait_type": "file format",
+			"value": "Graphics Interchange Format (GIF)"
+		},
+		{
+			"trait_type": "time of deployment",
+			"value": "🌃"
+		},
+		{
+			"trait_type": "number of frames",
+			"value": 12
+		},
+		{
+			"trait_type": "live stream",
+			"value": "No"
+		},
+		{
+			"trait_type": "vibe",
+			"value": "Analog"
+		}
+	]
+}
