@@ -1,10 +1,10 @@
 {
-  "name": "Proto Tower 235",
-  "description": "This is a special proto tower - an award for the second little 'Dark Souls' type puzzle ⚔️🛡️🗡️ (dark souls because the story is in the item descriptions) The puzzle terminates at Proto Tower 183.  It will be minted, and then transferred to the only winner ~ @GolbiApp on twitter. That was quick (but actually took some time because this proto tower number coincides with the winner's PFP, Stargaze Punk #235) 🌇🏙️🌆🌃",
+  "name": "Proto Tower 238",
+  "description": "Last two of the night, still need to work on cerberus puppy, that can wait for another day.",
   "attributes": [
     {
       "trait_type": "pixels",
-      "value": "25x25"
+      "value": "16x16"
     },
     {
       "trait_type": "dimensions",
@@ -12,11 +12,11 @@
     },
     {
       "trait_type": "color palette",
-      "value": "Pastels"
+      "value": "DB32"
     },
     {
       "trait_type": "background pattern",
-      "value": "Stamp"
+      "value": "Sun and Blue Gradient"
     },
     {
       "trait_type": "time in minutes",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "recorded",
-      "value": "Yes"
+      "value": "No"
     },
     {
       "trait_type": "raster graphics editor",
@@ -32,27 +32,27 @@
     },
     {
       "trait_type": "drawing instrument",
-      "value": "Digital Pen"
+      "value": "Huion Graphics Tablet"
     },
     {
       "trait_type": "code snippet",
-      "value": "python3 bulk_resize.py"
+      "value": "./standard_setup.sh"
     },
     {
       "trait_type": "deployment type",
-      "value": "Special 2 - Find the Busted Metadata"
+      "value": "Standard"
     },
     {
       "trait_type": "collab artist",
-      "value": "fluffhead"
+      "value": "n/a"
     },
     {
       "trait_type": "collab collection",
-      "value": "Stargaze Punks"
+      "value": "n/a"
     },
     {
       "trait_type": "file format",
-      "value": "Graphics Interchange Format (GIF)"
+      "value": "Portable Network Graphics (PNG)"
     },
     {
       "trait_type": "time of deployment",
@@ -60,11 +60,15 @@
     },
     {
       "trait_type": "number of frames",
-      "value": 31
+      "value": null
     },
     {
       "trait_type": "live stream",
-      "value": "Yes"
+      "value": "No"
+    },
+    {
+      "trait_type": "vibe",
+      "value": "Minimalist"
     }
   ]
 }

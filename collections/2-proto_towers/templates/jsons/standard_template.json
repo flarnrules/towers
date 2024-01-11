@@ -4,7 +4,7 @@
     "attributes": [
       {
         "trait_type": "pixels",
-        "value": "64x64"
+        "value": "16x16"
       },
       {
         "trait_type": "dimensions",
@@ -28,11 +28,11 @@
       },
       {
         "trait_type": "raster graphics editor",
-        "value": "Microsoft Paint"
+        "value": "Aseprite"
       },
       {
         "trait_type": "drawing instrument",
-        "value": "Mouse"
+        "value": "Huion Graphics Tablet"
       },
       {
         "trait_type": "code snippet",

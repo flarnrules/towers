@@ -93,6 +93,7 @@ Proto Tower 230. 357+650/2=503.5
 
 Proto Tower 234. 358+650/2=504
 
+Proto Tower 238-239. 358+650/2=504
 
 #################################
 # metadata naming standards
@@ -332,7 +333,7 @@ memo 'congrats on your big win 🌃🌆🌇🏙️'
 1 winner total
 goal was to figure out what was really wrong with the metadata on on id number 181.
 
-1. @GolbiApp (fluffhead) - stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad (235) 
+1. @GolbiApp (fluffhead) - stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad (235) ✅
 fluffhead wanted their prize to be proto tower 235, because that's their stargaze punk number. Pretty cool ~ we worked on this together and it's the same colors as his nft.
 
 ## Special 3 - Good Vibes
