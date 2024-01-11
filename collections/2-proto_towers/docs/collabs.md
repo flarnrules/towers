@@ -27,3 +27,4 @@ stars1d74f6c7rgyyym57530rc2tt88fnl6wpdcpz6ta - Berny
 stars1neqprx4sd0xrs4snn2q9ccchg6ksva3p0vxcfl - Votor
 - Quasimosis
 - Ijon
+cosmos1xdw60n3m2hve7rhyujxv8pyzju7uzk8ffhcn87 - Pixlgeist
