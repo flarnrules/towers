@@ -95,6 +95,8 @@ Proto Tower 234. 358+650/2=504
 
 Proto Tower 238-239. 358+650/2=504
 
+Proto Tower 240. 361+504/2=433 (decrease 1)
+
 #################################
 # metadata naming standards
 #################################

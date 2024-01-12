@@ -17,6 +17,7 @@
 16. Proto Tower 232 "Jekyll or Hyde 1" - by Quasimosis
 17. Proto Tower 233 "Jekyll or Hyde 2" - by Quasimosis
 18. Proto Tower 234 "Dark Tower" - by Ijon
+19. Proto Tower 241 "" - by Pixlgeist
 
 
 stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z - Jinxto
@@ -27,4 +28,5 @@ stars1d74f6c7rgyyym57530rc2tt88fnl6wpdcpz6ta - Berny
 stars1neqprx4sd0xrs4snn2q9ccchg6ksva3p0vxcfl - Votor
 - Quasimosis
 - Ijon
-cosmos1xdw60n3m2hve7rhyujxv8pyzju7uzk8ffhcn87 - Pixlgeist
+stars1xdw60n3m2hve7rhyujxv8pyzju7uzk8fat0wv0 - Pixlgeist
+- SiA
