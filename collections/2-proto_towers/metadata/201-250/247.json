@@ -1,0 +1,74 @@
+{
+  "name": "Proto Tower 247",
+  "description": "I really crushed it on the shading and linework for the sky. It almost doesn't even look like I drew it, but rather a very very low res photo or 3d render. I'm incredibly proud of that sky. The foreground.... eh not so much. Anyways, I'm going to keep doing grayscale ones until the Jekyll or Hyde project mints out. These are fun, and that project is really interesting. Have you seen how many fields are in the metadata? There's one for every pixel. Can you imagine?",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "64x64"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "768x768"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "Grayscale"
+    },
+    {
+      "trait_type": "background pattern",
+      "value": "Really Good Sky"
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": null
+    },
+    {
+      "trait_type": "recorded",
+      "value": "No"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "Aseprite"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Huion Graphics Tablet"
+    },
+    {
+      "trait_type": "code snippet",
+      "value": "python3 bulk_resize.py"
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "Jekyll or Hyde"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Portable Network Graphic"
+    },
+    {
+      "trait_type": "time of deployment",
+      "value": "🌃"
+    },
+    {
+      "trait_type": "number of frames",
+      "value": 1
+    },
+    {
+      "trait_type": "live stream",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "vibe",
+      "value": "Good Background, So So Foreground"
+    }
+  ]
+}

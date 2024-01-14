@@ -1,0 +1,74 @@
+{
+  "name": "Proto Tower 245",
+  "description": "I feel strange. Must resist this urge... to do things... things I don't want to do.",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "245x245"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "768x768"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "Black and White"
+    },
+    {
+      "trait_type": "background pattern",
+      "value": "Black"
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": null
+    },
+    {
+      "trait_type": "recorded",
+      "value": "No"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "Twitter and Emojis"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "code snippet",
+      "value": "python3 bulk_resize.py"
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "Promo - Jekyll or Hyde"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Portable Network Graphics (PNG)"
+    },
+    {
+      "trait_type": "time of deployment",
+      "value": "🏙️"
+    },
+    {
+      "trait_type": "number of frames",
+      "value": null
+    },
+    {
+      "trait_type": "live stream",
+      "value": "No"
+    },
+    {
+      "trait_type": "vibe",
+      "value": "Silly"
+    }
+  ]
+}

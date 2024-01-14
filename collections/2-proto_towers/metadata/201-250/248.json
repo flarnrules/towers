@@ -1,0 +1,74 @@
+{
+  "name": "Proto Tower 248",
+  "description": "That last one had a huge mistake. I saved the png original in the images folder, so when I ran bulk_resize.py, the script didn't run on 247. So 247 has been deployed in it's original size of 64x64, which probably looks terrible on stargaze because the the front end probably stretches the pixels out instead of using nearest neigbor algorithm due to the cost of that algo. haha too bad because I basically spent the whole metadata file praising the background. I'll remake that one in color... maybe. I keep saying I'm going to remake stuff, but then I just endup making originals because it's more fun to just kick stuff from my head.",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "64x64"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "768x768"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "Grayscale"
+    },
+    {
+      "trait_type": "background pattern",
+      "value": "Grid"
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": null
+    },
+    {
+      "trait_type": "recorded",
+      "value": "No"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "Aseprite"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Huion Graphics Tablet"
+    },
+    {
+      "trait_type": "code snippet",
+      "value": "python3 bulk_resize.py"
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "Jekyll or Hyde"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Portable Network Graphic"
+    },
+    {
+      "trait_type": "time of deployment",
+      "value": "🌃"
+    },
+    {
+      "trait_type": "number of frames",
+      "value": 1
+    },
+    {
+      "trait_type": "live stream",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "vibe",
+      "value": "More Realistic and Close Up Than Previous Ones"
+    }
+  ]
+}

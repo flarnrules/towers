@@ -1,0 +1,75 @@
+{
+    "name": "Proto Tower 248",
+    "description": "Last one tonight. I think that last one also had an error. There's some unfilled pixels in there I think. Whoops. That one was fun to draw and there were at least one or two people on the livestream watching. It definitely is a bit different with an audience, like I feel the pressure is on which is both helful and somewhat nerve wracking. Hopefully my drawing was interesting to watch get made.... In this one I was trying to create little animations as the stars, and then figure out how to manipulate those animations like copy/paste the animations themselves. I figured it out a bit, but it's still pretty clunky and I still don't have a super firm grasp on those features. I need to watch some tutorials and read the Aseprite docs some more to get a bit more proficient with Asprite.",
+    "attributes": [
+      {
+        "trait_type": "pixels",
+        "value": "64x64"
+      },
+      {
+        "trait_type": "dimensions",
+        "value": "768x768"
+      },
+      {
+        "trait_type": "color palette",
+        "value": "Grayscale"
+      },
+      {
+        "trait_type": "background pattern",
+        "value": "Twinkling Stars"
+      },
+      {
+        "trait_type": "time in minutes",
+        "value": null
+      },
+      {
+        "trait_type": "recorded",
+        "value": "No"
+      },
+      {
+        "trait_type": "raster graphics editor",
+        "value": "Aseprite"
+      },
+      {
+        "trait_type": "drawing instrument",
+        "value": "Huion Graphics Tablet"
+      },
+      {
+        "trait_type": "code snippet",
+        "value": "python3 bulk_resize.py"
+      },
+      {
+        "trait_type": "deployment type",
+        "value": "Jekyll or Hyde"
+      },
+      {
+        "trait_type": "collab artist",
+        "value": "n/a"
+      },
+      {
+        "trait_type": "collab collection",
+        "value": "n/a"
+      },
+      {
+        "trait_type": "file format",
+        "value": "Graphics Interchange Format"
+      },
+      {
+        "trait_type": "time of deployment",
+        "value": "🌃"
+      },
+      {
+        "trait_type": "number of frames",
+        "value": 24
+      },
+      {
+        "trait_type": "live stream",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "vibe",
+        "value": "Trancelike"
+      }
+    ]
+  }
+  

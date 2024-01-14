@@ -1,0 +1,75 @@
+{
+    "name": "Proto Tower 251",
+    "description": "If you found the discord invite on tower 186, it's probably expired by now. Here's a freshie: https://discord.gg/vv4PZgEM. This invite is only good for 7 days... but I'll probably put up a new one next week. The color palette is grayscale because the Jekyll or Hyde collection has yet to mint out, and I try my best to follow my own rules... in this case I'll be doing only grayscale until Jekyll or Hyde mints out.",
+    "attributes": [
+      {
+        "trait_type": "pixels",
+        "value": "72x72"
+      },
+      {
+        "trait_type": "dimensions",
+        "value": "768x768"
+      },
+      {
+        "trait_type": "color palette",
+        "value": "Grayscale"
+      },
+      {
+        "trait_type": "background pattern",
+        "value": "Stamp"
+      },
+      {
+        "trait_type": "time in minutes",
+        "value": null
+      },
+      {
+        "trait_type": "recorded",
+        "value": "No"
+      },
+      {
+        "trait_type": "raster graphics editor",
+        "value": "Aseprite"
+      },
+      {
+        "trait_type": "drawing instrument",
+        "value": "Digital Pen"
+      },
+      {
+        "trait_type": "code snippet",
+        "value": "python3 bulk_resize.py"
+      },
+      {
+        "trait_type": "deployment type",
+        "value": "Discord Asset"
+      },
+      {
+        "trait_type": "collab artist",
+        "value": "n/a"
+      },
+      {
+        "trait_type": "collab collection",
+        "value": "n/a"
+      },
+      {
+        "trait_type": "file format",
+        "value": "Portable Network Graphics (PNG)"
+      },
+      {
+        "trait_type": "time of deployment",
+        "value": "🏙️"
+      },
+      {
+        "trait_type": "number of frames",
+        "value": 1
+      },
+      {
+        "trait_type": "live stream",
+        "value": "No"
+    },
+    {
+    "trait_type": "vibe",
+    "value": "Meta"
+    }
+    ]
+  }
+  
