@@ -1,0 +1,74 @@
+{
+    "name": "Proto Tower 252",
+    "description": "A couple of OG collaborators came up with a pretty interesting approach to an unexplored aspect of proto towers. a sort of 'proto' proto tower, that is essentially an atomic unit of the proto towers universe. Basically the idea of a pixel",
+    "attributes": [
+      {
+        "trait_type": "pixels",
+        "value": "64x64"
+      },
+      {
+        "trait_type": "dimensions",
+        "value": "768x768"
+      },
+      {
+        "trait_type": "color palette",
+        "value": "Grayscale"
+      },
+      {
+        "trait_type": "background pattern",
+        "value": "Stamp"
+      },
+      {
+        "trait_type": "time in minutes",
+        "value": null
+      },
+      {
+        "trait_type": "recorded",
+        "value": "No"
+      },
+      {
+        "trait_type": "raster graphics editor",
+        "value": "MS Paint"
+      },
+      {
+        "trait_type": "drawing instrument",
+        "value": "Mouse"
+      },
+      {
+        "trait_type": "code snippet",
+        "value": "python3 bulk_resize.py"
+      },
+      {
+        "trait_type": "deployment type",
+        "value": "Jekyll or Hyde"
+      },
+      {
+        "trait_type": "collab artist",
+        "value": "n/a"
+      },
+      {
+        "trait_type": "collab collection",
+        "value": "n/a"
+      },
+      {
+        "trait_type": "file format",
+        "value": "Portable Network Graphic"
+      },
+      {
+        "trait_type": "time of deployment",
+        "value": "🌃"
+      },
+      {
+        "trait_type": "number of frames",
+        "value": 1
+      },
+      {
+        "trait_type": "live stream",
+        "value": "No"
+    },
+    {
+    "trait_type": "vibe",
+    "value": "Meta"
+    }
+    ]
+  }
