@@ -1,10 +1,10 @@
 {
-    "name": "Proto Tower 252",
-    "description": "A couple of OG collaborators came up with a pretty interesting approach to an unexplored aspect of proto towers. a sort of 'proto' proto tower, that is essentially an atomic unit of the proto towers universe. Basically the idea of a single pixel of color. The first three will just be a black, white and transition from black to white 1x1 proto drawing. Anyways, I like how this one turned out. I started with a very loose drawing style for the initial silhouette and linework, and then followed a more rigid set of rules to fill in the pattern. Topped it off with a modified version of what I call a 'stamp' where it's less of a square, and a single color. I'm calling this a 'sigil' kind of like Urbit if you know what that is.",
+    "name": "Proto Tower 254",
+    "description": "Another sigil - playing around with some of the visual cues I get when thinking about how urbit and other decentralized operating systems are architected. The idea of sort of building something over the top of a consistent substrate - but instead of software it's little societies. Anyways, this one was livestreamed, thanks for watching madcat. Also this was grayscale again because I told myself that I would use grayscale or B&W until Jekyll or Hyde is minted out. This is the importance of having collabs, because without collab deployments, this collection is would be be very monochrome for the forseeable future ⬛⬜",
     "attributes": [
       {
         "trait_type": "pixels",
-        "value": "32x32"
+        "value": "64x64"
       },
       {
         "trait_type": "dimensions",
@@ -12,7 +12,7 @@
       },
       {
         "trait_type": "color palette",
-        "value": "B&W"
+        "value": "Grayscale"
       },
       {
         "trait_type": "background pattern",
@@ -20,7 +20,7 @@
       },
       {
         "trait_type": "time in minutes",
-        "value": null
+        "value": 30
       },
       {
         "trait_type": "recorded",
@@ -28,11 +28,11 @@
       },
       {
         "trait_type": "raster graphics editor",
-        "value": "MS Paint, Aseprite"
+        "value": "Aseprite"
       },
       {
         "trait_type": "drawing instrument",
-        "value": "Mouse, Digital Pen"
+        "value": "Digital Pen, Huion Graphics Tablet"
       },
       {
         "trait_type": "code snippet",
@@ -56,7 +56,7 @@
       },
       {
         "trait_type": "time of deployment",
-        "value": "🏙️"
+        "value": "🌃"
       },
       {
         "trait_type": "number of frames",
@@ -64,11 +64,11 @@
       },
       {
         "trait_type": "live stream",
-        "value": "No"
+        "value": "Yes"
     },
     {
     "trait_type": "vibe",
-    "value": "Robots"
+    "value": "Substrate"
     }
     ]
   }

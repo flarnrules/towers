@@ -17,7 +17,10 @@
 16. Proto Tower 232 "Jekyll or Hyde 1" - by Quasimosis
 17. Proto Tower 233 "Jekyll or Hyde 2" - by Quasimosis
 18. Proto Tower 234 "Dark Tower" - by Ijon
-19. Proto Tower 241 "" - by Pixlgeist
+19. Proto Tower 241 "Tower of Storms" - by Pixlgeist
+20. Proto Tower 253 "Sia Tower" - by Sia
+21. Proto Tower 255 "Crystal Tower" - by Graphein
+22. 
 
 
 stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z - Jinxto
@@ -29,4 +32,6 @@ stars1neqprx4sd0xrs4snn2q9ccchg6ksva3p0vxcfl - Votor
 - Quasimosis
 - Ijon
 stars1xdw60n3m2hve7rhyujxv8pyzju7uzk8fat0wv0 - Pixlgeist
-- SiA
+- Sia
+- Graphene
+stars1mta69chjr6fkryyn2ur7c847hgvz5uyx9tgymw - Reggie
