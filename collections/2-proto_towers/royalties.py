@@ -8,10 +8,18 @@ MEMO = "for collab 🏙️🌆"
 
 # Collaborators' contributions
 contributions = {
-    'Jinxto': 6,
+    'Jinxto': 7,
     'Fluffhead': 1, #megazord assembly
-    'Ajk': 2,
+    'Ajk': 3,
     'Randomkid': 1,
+    'Berny': 2,
+    'Votor': 1,
+    'Quasimosos': 2,
+    'Ijon': 1,
+    'Pixlgeist': 1,
+    'Sia': 0, #tentative apprentice, not holding proto tower
+    'Graphein': 1,
+
     # Add more collaborators here
 }
 

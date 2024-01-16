@@ -16,7 +16,7 @@
 		},
 		{
 			"trait_type": "background pattern",
-			"value": "Blue hazy sky"
+			"value": "Blue Hazy Sky"
 		},
 		{
 			"trait_type": "time in minutes",
@@ -56,11 +56,11 @@
 		},
 		{
 			"trait_type": "time of deployment",
-			"value": "🌃"
+			"value": "🏙️"
 		},
 		{
 			"trait_type": "number of frames",
-			"value": ""
+			"value": 30
 		},
 		{
 			"trait_type": "live stream",
@@ -69,6 +69,10 @@
 		{
 			"trait_type": "vibe",
 			"value": "Pharos Babel myth"
+		},
+		{
+			"trait_type": "discovered a 🪲",
+			"value": "Yes"
 		}
 	]
 }
