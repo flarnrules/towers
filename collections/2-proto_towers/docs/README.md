@@ -320,7 +320,7 @@ Prizes can be anything I want to give at the time. Usually will be nfts from my 
 All prize winners at minimum earn a whitelist spot. I'll track the whitelist spots from prizes here (for now).
 Prizes will be limited to a number of individuals. Range of 1 through 10 winners.
 
-## Special 1 - Red Giant Sheds Its Outer Shell
+### Special 1 - Red Giant Sheds Its Outer Shell
 10 winners total
 memo 'congrats on your big win 🌃🌆🌇🏙️'
 
@@ -331,21 +331,22 @@ memo 'congrats on your big win 🌃🌆🌇🏙️'
 5. @votor1337 - stars1neqprx4sd0xrs4snn2q9ccchg6ksva3p0vxcfl (167) ✅
 6. @GolbiApp (fluffhead) - stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad (213) ✅
 
-## Special 2 - Find the Busted Metadata
+### Special 2 - Find the Busted Metadata
 1 winner total
 goal was to figure out what was really wrong with the metadata on on id number 181.
 
 1. @GolbiApp (fluffhead) - stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad (235) ✅
 fluffhead wanted their prize to be proto tower 235, because that's their stargaze punk number. Pretty cool ~ we worked on this together and it's the same colors as his nft.
 
-## Special 3 - Good Vibes
+### Special 3 - Good Vibes
 1 winner total
 goal is for someone to figure out the new trait_type that emerged during the 195-199 standard deployment.
 
 1. @GolbiApp (fluffhead) - stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad (212) ✅
 
-# Special 4 - Megazord
+### Special 4 - Megazord
 1 winner total
 goal was to assemble megazord tower
 fluffhead won super fast.
 @fluffhead - stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad (211) ✅
+
