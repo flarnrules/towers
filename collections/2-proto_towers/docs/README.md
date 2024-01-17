@@ -47,7 +47,7 @@ Speaking of that... I should probably also use those pieces as Proto Towers, as 
 2. If listing for sale, list at highest bid price.
 3. Unless bid price has been going down, then list at the midway point between bid and floor.
 4. If this results in the list price decreasing two times in a row, begin listing at the floor price.
-5. If that results in the listings to decrease, introduce more frequent auctions.
+5. If that results in the floor price to decrease, introduce more frequent auctions.
 6. Ultimately the lowest list price from a newly minted piece will always be the id number + 10 stars. 
 7. In the event of no sales of Genesis Mint listings for over 24 hours, then new listings will set a new floor price, which will be calculated as floor price - 10 Stars
 

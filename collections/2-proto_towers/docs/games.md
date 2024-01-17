@@ -42,4 +42,9 @@ goal was to explain mistakes made in 3 consectuve proto towers (247, 248, 249)
 ajk won super fast
 he really likes the desert monolith proto tower 59
 
-1. @ajk_ajk - stars13nyn5v2mxv8cs6nj0khrxy9wkmw7ry0cuzrvg3 (2xx)
+1. @ajk_ajk - stars13nyn5v2mxv8cs6nj0khrxy9wkmw7ry0cuzrvg3 (2xx) ✅
+
+### Special 6 - Penaptych
+1 winner total
+if someone collects all 5 of Pajon's panaptych (264-268) I'll make an animated one and send it to that person. They gotta tweet proof @flarnrules1
+

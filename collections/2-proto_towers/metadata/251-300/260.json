@@ -1,10 +1,10 @@
 {
-    "name": "Proto Proto Tower 2",
-    "description": "We followed this trail towards the more reduced, more basic Towers and discovered specimens that had very basic, rudimentary shapes and coloring like PT 202 and others that were not colored, just grayscale. And then we found these. PT 261, 262, and 263.  (2/3)",
+    "name": "Proto Tower 260",
+    "description": "✨It's a shooting star, make a wish!✨\n \n \n I wish for Jekyll or Hyde to mint out soon, so I can start using colors again.",
     "attributes": [
       {
         "trait_type": "pixels",
-        "value": "1x1"
+        "value": "64x64"
       },
       {
         "trait_type": "dimensions",
@@ -12,19 +12,19 @@
       },
       {
         "trait_type": "color palette",
-        "value": "#FFFFFF"
+        "value": "Grayscale"
       },
       {
         "trait_type": "background pattern",
-        "value": "Solid"
+        "value": "Shooting Star"
       },
       {
         "trait_type": "time in minutes",
-        "value": 0
+        "value": 45
       },
       {
         "trait_type": "recorded",
-        "value": "Not Worthwhile"
+        "value": "No"
       },
       {
         "trait_type": "raster graphics editor",
@@ -32,43 +32,47 @@
       },
       {
         "trait_type": "drawing instrument",
-        "value": "Paint Bucket"
+        "value": "Digital Pen, Huion Graphics Tablet"
       },
       {
         "trait_type": "code snippet",
-        "value": "python3 bulk_resize.py"
+        "value": "1200%"
       },
       {
         "trait_type": "deployment type",
-        "value": "Proto Proto"
+        "value": "Jekyll or Hyde"
       },
       {
         "trait_type": "collab artist",
-        "value": "Pajon, Ajk"
+        "value": "n/a"
       },
       {
         "trait_type": "collab collection",
-        "value": "Pajon x AJK x Flarn"
+        "value": "n/a"
       },
       {
         "trait_type": "file format",
-        "value": "Portable Network Graphic"
+        "value": "Graphics Interchange Format"
       },
       {
         "trait_type": "time of deployment",
-        "value": "🌇"
+        "value": "🌃"
       },
       {
         "trait_type": "number of frames",
-        "value": 1
+        "value": 23
       },
       {
         "trait_type": "live stream",
         "value": "No"
       },
       {
-      "trait_type": "vibe",
-      "value": "Proto Proto"
+        "trait_type": "vibe",
+        "value": "Monochromatic"
+      },
+      {
+        "trait_type": "mood",
+        "value": "Sleepy"
       }
-      ]
+    ]
   }

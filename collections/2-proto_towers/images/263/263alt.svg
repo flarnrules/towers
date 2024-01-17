@@ -1,0 +1,10 @@
+<svg width="702" height="702" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<style>
+		@keyframes colors {
+			0% { fill: #000 }
+			100% { fill: #fff }
+		}
+		rect { animation: colors 9s linear infinite alternate }
+	</style>
+	<rect x="234" y="234" width="234" height="234"/>
+</svg>

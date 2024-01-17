@@ -1,0 +1,74 @@
+{
+	"name": "Proto Tower 269",
+	"description": "If you collect all of Pajon's pentaptych (that's 5 related pieces that work together as a single coherent piece), then I'll create an animated version of those 5 and send them to your wallet. You need to tweet @flarnrules1 with proof to win your prize. ⚔️🛡️🗡️.",
+	"attributes": [
+		{
+			"trait_type": "pixels",
+			"value": "64x64"
+		},
+		{
+			"trait_type": "dimensions",
+			"value": "768x768"
+		},
+		{
+			"trait_type": "color palette",
+			"value": "Minecraft 1.12, With Shading"
+		},
+		{
+			"trait_type": "background pattern",
+			"value": "The Sky and the Sea"
+		},
+		{
+			"trait_type": "time in minutes",
+			"value": 25
+		},
+		{
+			"trait_type": "recorded",
+			"value": "No"
+		},
+		{
+			"trait_type": "raster graphics editor",
+			"value": "Aseprite"
+		},
+		{
+			"trait_type": "drawing instrument",
+			"value": "Mouse"
+		},
+		{
+			"trait_type": "code snippet",
+			"value": "python3 bulk_resize.py"
+		},
+		{
+			"trait_type": "deployment type",
+			"value": "⚔️🛡️🗡️"
+		},
+		{
+			"trait_type": "collab artist",
+			"value": "Pajon"
+		},
+		{
+			"trait_type": "collab collection",
+			"value": "Starty Plushart"
+		},
+		{
+			"trait_type": "file format",
+			"value": "Portable Network Graphic"
+		},
+		{
+			"trait_type": "time of deployment",
+			"value": "🌇"
+		},
+		{
+			"trait_type": "number of frames",
+			"value": 1
+		},
+		{
+			"trait_type": "live stream",
+			"value": "No"
+		},
+		{
+			"trait_type": "vibe",
+			"value": "High Definition"
+		}
+	]
+}

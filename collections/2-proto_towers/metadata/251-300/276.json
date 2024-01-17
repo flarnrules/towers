@@ -1,10 +1,10 @@
 {
-    "name": "Proto Proto Tower 3",
-    "description": "We believe these are among the first and oldest Proto Towers. The ones that originated the concept. The Building blocks of all the Proto Towers that came afterwards. They are astonishing, the simplicity and beauty. One is black. One is white. And one, this one, is both of that and everything in between.(3/3)",
+    "name": "Proto Tower 276",
+    "description": "Proto Proto Tower 2 lives inside this world",
     "attributes": [
       {
         "trait_type": "pixels",
-        "value": "1x1"
+        "value": "100x100"
       },
       {
         "trait_type": "dimensions",
@@ -12,7 +12,7 @@
       },
       {
         "trait_type": "color palette",
-        "value": "Pure Contrast"
+        "value": "Black and White"
       },
       {
         "trait_type": "background pattern",
@@ -20,11 +20,11 @@
       },
       {
         "trait_type": "time in minutes",
-        "value": 0
+        "value": 120
       },
       {
         "trait_type": "recorded",
-        "value": "Not Worthwhile"
+        "value": "Too Much Going On To Record"
       },
       {
         "trait_type": "raster graphics editor",
@@ -32,31 +32,31 @@
       },
       {
         "trait_type": "drawing instrument",
-        "value": "Keyboard"
+        "value": "Digital Pen, Keyboard"
       },
       {
         "trait_type": "code snippet",
-        "value": "rect { animation: colors 9s linear infinite alternate }"
+        "value": "const pixel = document.getElementById('movable-pixel')"
       },
       {
         "trait_type": "deployment type",
-        "value": "Proto Proto"
+        "value": "Interactive"
       },
       {
         "trait_type": "collab artist",
-        "value": "Pajon, Ajk"
+        "value": "n/a"
       },
       {
         "trait_type": "collab collection",
-        "value": "Pajon x AJK x Flarn"
+        "value": "n/a"
       },
       {
         "trait_type": "file format",
-        "value": "Portable Network Graphic"
+        "value": "Scalable Vector Graphic"
       },
       {
         "trait_type": "time of deployment",
-        "value": "🌇"
+        "value": "🌃"
       },
       {
         "trait_type": "number of frames",
@@ -68,9 +68,9 @@
       },
       {
       "trait_type": "vibe",
-      "value": "Proto Proto"
+      "value": "Very Exciting"
       }
     ],
-    "image": "ipfs://bafybeidb36nlpvyhbst54t3wjxajtlxykemetluolvtpx33cgp5yovhzpu/263.svg",
-    "animation_url": "https://ipfs-gw.stargaze-apis.com/ipfs/bafybeidb36nlpvyhbst54t3wjxajtlxykemetluolvtpx33cgp5yovhzpu/263.html"
+    "image": "ipfs://bafybeid6vvgkqzqa223koplcapvfbb5f5la6tof4ictctuyyjtxnxg7ytm/273.svg",
+    "animation_url": "https://ipfs-gw.stargaze-apis.com/ipfs/bafybeid6vvgkqzqa223koplcapvfbb5f5la6tof4ictctuyyjtxnxg7ytm/273.html"
   }

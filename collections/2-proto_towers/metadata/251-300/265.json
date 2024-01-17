@@ -1,0 +1,74 @@
+{
+	"name": "Mossy Tower on  Tiny Island II",
+	"description": "Somewhere on the Grandline there is a tiny island with a tower on it that is covered in moss. Nobody has been there for decades and there is no written proof of it actually existing.",
+	"attributes": [
+		{
+			"trait_type": "pixels",
+			"value": "8x8"
+		},
+		{
+			"trait_type": "dimensions",
+			"value": "768x768"
+		},
+		{
+			"trait_type": "color palette",
+			"value": "Minecraft 1.12"
+		},
+		{
+			"trait_type": "background pattern",
+			"value": "The Sky And The Sea"
+		},
+		{
+			"trait_type": "time in minutes",
+			"value": "Didn't Check"
+		},
+		{
+			"trait_type": "recorded",
+			"value": "No"
+		},
+		{
+			"trait_type": "raster graphics editor",
+			"value": "Piskel"
+		},
+		{
+			"trait_type": "drawing instrument",
+			"value": "Mouse"
+		},
+		{
+			"trait_type": "code snippet",
+			"value": "0110111001101111"
+		},
+		{
+			"trait_type": "deployment type",
+			"value": "Collab"
+		},
+		{
+			"trait_type": "collab artist",
+			"value": "Pajon"
+		},
+		{
+			"trait_type": "collab collection",
+			"value": "Starty Plushart"
+		},
+		{
+			"trait_type": "file format",
+			"value": "Portable Network Graphic"
+		},
+		{
+			"trait_type": "time of deployment",
+			"value": "🌇"
+		},
+		{
+			"trait_type": "number of frames",
+			"value": 1
+		},
+		{
+			"trait_type": "live stream",
+			"value": "No"
+		},
+		{
+			"trait_type": "vibe",
+			"value": "Happy"
+		}
+	]
+}

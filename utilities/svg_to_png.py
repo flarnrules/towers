@@ -8,7 +8,7 @@ def svg_to_png(svg_file, png_file):
         print(f"An error occurred: {e}")
 
 # Example usage
-svg_file = '../collections/2-proto_towers/images/223/223.svg'  # Replace with your SVG file path
-png_file = '../collections/2-proto_towers/images/223/223.png'  # Replace with your desired output PNG file path
+svg_file = '../collections/2-proto_towers/images/273/273.svg'  # Replace with your SVG file path
+png_file = '../collections/2-proto_towers/images/273/273.png'  # Replace with your desired output PNG file path
 
 svg_to_png(svg_file, png_file)
