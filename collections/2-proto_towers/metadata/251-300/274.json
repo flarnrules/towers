@@ -1,0 +1,74 @@
+{
+    "name": "Proto Tower 274",
+    "description": "Feels good to just make a drawing of some towers... little skylines like this are sort of my comfort zone. Single layer digital painting style, I didn't want to over do it so I cut it quits after 4 'colors' even though still all shades of gray, I'm figuring out a bit how the grayscale setting works in Aseprite. You can actually pick colors, they just appear in their grayscale version when drawing, which is a pretty cool feature! Also... this is a cry for help, please mint some Jekyll or Hydes so I can use color again. I'll probably find ways to get around this rule (like smokers club items coming up, and perhaps some other little tricks). I guess it is just a self imposed rule so I don't techincally *have* to follow it, but that's no fun right?. ⬛⬜",
+    "attributes": [
+      {
+        "trait_type": "pixels",
+        "value": "32x32"
+      },
+      {
+        "trait_type": "dimensions",
+        "value": "768x768"
+      },
+      {
+        "trait_type": "color palette",
+        "value": "Grayscale"
+      },
+      {
+        "trait_type": "background pattern",
+        "value": "Swirl"
+      },
+      {
+        "trait_type": "time in minutes",
+        "value": 15
+      },
+      {
+        "trait_type": "recorded",
+        "value": "No"
+      },
+      {
+        "trait_type": "raster graphics editor",
+        "value": "Aseprite"
+      },
+      {
+        "trait_type": "drawing instrument",
+        "value": "Digital Pen, Huion Graphics Tablet"
+      },
+      {
+        "trait_type": "code snippet",
+        "value": "python3 bulk_resize.py"
+      },
+      {
+        "trait_type": "deployment type",
+        "value": "Jekyll or Hyde"
+      },
+      {
+        "trait_type": "collab artist",
+        "value": "n/a"
+      },
+      {
+        "trait_type": "collab collection",
+        "value": "n/a"
+      },
+      {
+        "trait_type": "file format",
+        "value": "Portable Network Graphic"
+      },
+      {
+        "trait_type": "time of deployment",
+        "value": "🌃"
+      },
+      {
+        "trait_type": "number of frames",
+        "value": 1
+      },
+      {
+        "trait_type": "live stream",
+        "value": "No"
+      },
+      {
+        "trait_type": "vibe",
+        "value": "Cityscape"
+      }
+    ]
+  }

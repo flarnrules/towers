@@ -15,7 +15,7 @@ contributions = {
     'Berny': 2,
     'Votor': 1,
     'Quasimosos': 2,
-    'Ijon': 1,
+    'Ijon': 6,
     'Pixlgeist': 1,
     'Sia': 0, #tentative apprentice, not holding proto tower
     'Graphein': 1,

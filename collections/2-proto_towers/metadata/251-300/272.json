@@ -1,6 +1,6 @@
 {
-    "name": "Proto Proto Tower 3",
-    "description": "We believe these are among the first and oldest Proto Towers. The ones that originated the concept. The Building blocks of all the Proto Towers that came afterwards. They are astonishing, the simplicity and beauty. One is black. One is white. And one, this one, is both of that and everything in between.(3/3)",
+    "name": "Proto Proto Tower 2",
+    "description": "We followed this trail towards the more reduced, more basic Towers and discovered specimens that had very basic, rudimentary shapes and coloring like PT 202 and others that were not colored, just grayscale. And then we found these. PT 261, 262, and 263.  (2/3)",
     "attributes": [
       {
         "trait_type": "pixels",
@@ -8,11 +8,11 @@
       },
       {
         "trait_type": "dimensions",
-        "value": "Infinite"
+        "value": "768x768"
       },
       {
         "trait_type": "color palette",
-        "value": "Pure Contrast"
+        "value": "#FFFFFF"
       },
       {
         "trait_type": "background pattern",
@@ -20,7 +20,7 @@
       },
       {
         "trait_type": "time in minutes",
-        "value": "Far Too Many"
+        "value": 0
       },
       {
         "trait_type": "recorded",
@@ -32,15 +32,15 @@
       },
       {
         "trait_type": "drawing instrument",
-        "value": "Keyboard"
+        "value": "Paint Bucket"
       },
       {
         "trait_type": "code snippet",
-        "value": "rect { animation: colors 10s cubic-bezier(0, 0, 0.66, 1) infinite alternate }"
+        "value": "python3 bulk_resize.py"
       },
       {
         "trait_type": "deployment type",
-        "value": "Proto Proto"
+        "value": "Proto Proto Towers"
       },
       {
         "trait_type": "collab artist",
@@ -48,7 +48,7 @@
       },
       {
         "trait_type": "collab collection",
-        "value": "Proto Proto Towers"
+        "value": "Pajon x AJK x Flarn"
       },
       {
         "trait_type": "file format",
@@ -60,7 +60,7 @@
       },
       {
         "trait_type": "number of frames",
-        "value": "Infinite"
+        "value": 1
       },
       {
         "trait_type": "live stream",
@@ -70,7 +70,5 @@
       "trait_type": "vibe",
       "value": "Proto Proto"
       }
-    ],
-    "image": "ipfs://bafybeifpfj342ylqchonnq52vr3r6onx7s4ebq7mzubhfkf5vcxn73wcue/273.svg",
-    "animation_url": "https://ipfs-gw.stargaze-apis.com/ipfs/bafybeifpfj342ylqchonnq52vr3r6onx7s4ebq7mzubhfkf5vcxn73wcue/273.html"
+      ]
   }
