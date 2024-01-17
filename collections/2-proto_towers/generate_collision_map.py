@@ -1,3 +1,4 @@
+import json
 import cv2
 import numpy as np
 
@@ -26,9 +27,22 @@ def create_collision_map(image_path, output_path):
     return collision_map
 
 # Usage
-image_path = 'path/to/your/image.png'  # Replace with your image path
-output_path = 'path/to/your/output_image.png'  # Replace with the desired output image path
+image_path = 'media/wip/276/276.png'  # Replace with your image path
+output_path = 'media/wip/276/276_map.png'  # Replace with the desired output image path
 collision_map = create_collision_map(image_path, output_path)
 
 # Now, collision_map is a 2D boolean array where True represents walkable areas
 # And a visual map has been saved to output_path
+# Convert the collision map to a 2D array of 0s and 1s
+collision_map_numeric = [[1 if cell else 0 for cell in row] for row in collision_map]
+
+# Manually format the JSON string
+formatted_json_lines = ["[" + ", ".join(map(str, row)) + "]" for row in collision_map_numeric]
+formatted_json = "[\n" + ",\n".join(formatted_json_lines) + "\n]"
+
+# Write to file
+json_output_path = 'media/wip/276/collisionMap.json'  # Set the path for the JSON file
+with open(json_output_path, 'w') as json_file:
+    json_file.write(formatted_json)
+
+print(f"Collision map JSON file has been created at {json_output_path}")
