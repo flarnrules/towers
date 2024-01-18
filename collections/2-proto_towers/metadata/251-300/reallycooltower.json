@@ -1,0 +1,76 @@
+{
+    "name": "Proto Tower 276",
+    "description": "Proto Proto Tower 2 lives inside this world",
+    "attributes": [
+      {
+        "trait_type": "pixels",
+        "value": "100x100"
+      },
+      {
+        "trait_type": "dimensions",
+        "value": "Infinite"
+      },
+      {
+        "trait_type": "color palette",
+        "value": "Black and White"
+      },
+      {
+        "trait_type": "background pattern",
+        "value": "Solid"
+      },
+      {
+        "trait_type": "time in minutes",
+        "value": 120
+      },
+      {
+        "trait_type": "recorded",
+        "value": "Too Much Going On To Record"
+      },
+      {
+        "trait_type": "raster graphics editor",
+        "value": "Aseprite"
+      },
+      {
+        "trait_type": "drawing instrument",
+        "value": "Digital Pen, Keyboard"
+      },
+      {
+        "trait_type": "code snippet",
+        "value": "const pixel = document.getElementById('movable-pixel')"
+      },
+      {
+        "trait_type": "deployment type",
+        "value": "Interactive"
+      },
+      {
+        "trait_type": "collab artist",
+        "value": "n/a"
+      },
+      {
+        "trait_type": "collab collection",
+        "value": "n/a"
+      },
+      {
+        "trait_type": "file format",
+        "value": "Scalable Vector Graphic"
+      },
+      {
+        "trait_type": "time of deployment",
+        "value": "🌃"
+      },
+      {
+        "trait_type": "number of frames",
+        "value": "Infinite"
+      },
+      {
+        "trait_type": "live stream",
+        "value": "No"
+      },
+      {
+      "trait_type": "vibe",
+      "value": "Very Exciting"
+      }
+    ],
+    "image": "ipfs://bafybeid6vvgkqzqa223koplcapvfbb5f5la6tof4ictctuyyjtxnxg7ytm/273.svg",
+    "animation_url": "https://ipfs-gw.stargaze-apis.com/ipfs/bafybeid6vvgkqzqa223koplcapvfbb5f5la6tof4ictctuyyjtxnxg7ytm/273.html"
+  }

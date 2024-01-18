@@ -1,0 +1,74 @@
+{
+    "name": "Proto Tower 275",
+    "description": "I was curious to see how an island scene with a tall proto tower would play out in grayscale. It's a bit challenging to get the shades right, with the sky and sun both being similar brightness in my typical drawings with color. Interesting little experiment to say the least. Plz let me use colors, mint some Jekyll or Hydes! ⬛⬜",
+    "attributes": [
+      {
+        "trait_type": "pixels",
+        "value": "32x32"
+      },
+      {
+        "trait_type": "dimensions",
+        "value": "768x768"
+      },
+      {
+        "trait_type": "color palette",
+        "value": "Grayscale"
+      },
+      {
+        "trait_type": "background pattern",
+        "value": "Sun"
+      },
+      {
+        "trait_type": "time in minutes",
+        "value": 25
+      },
+      {
+        "trait_type": "recorded",
+        "value": "No"
+      },
+      {
+        "trait_type": "raster graphics editor",
+        "value": "Aseprite"
+      },
+      {
+        "trait_type": "drawing instrument",
+        "value": "Digital Pen, Huion Graphics Tablet"
+      },
+      {
+        "trait_type": "code snippet",
+        "value": "python3 bulk_resize.py"
+      },
+      {
+        "trait_type": "deployment type",
+        "value": "Jekyll or Hyde"
+      },
+      {
+        "trait_type": "collab artist",
+        "value": "n/a"
+      },
+      {
+        "trait_type": "collab collection",
+        "value": "n/a"
+      },
+      {
+        "trait_type": "file format",
+        "value": "Portable Network Graphic"
+      },
+      {
+        "trait_type": "time of deployment",
+        "value": "🌃"
+      },
+      {
+        "trait_type": "number of frames",
+        "value": 1
+      },
+      {
+        "trait_type": "live stream",
+        "value": "No"
+      },
+      {
+        "trait_type": "vibe",
+        "value": "Island"
+      }
+    ]
+  }
