@@ -1,10 +1,10 @@
 {
     "name": "Unicorn Proto Tower 6",
-    "description": "I missed the Unicorn mint, so I figured I would make my own. Since the current floor price of Unicorns is now over 1k stars, maybe I can make a few of these to give people a chance to enjoy the fun of having a unicorn without dropping 1k stars on one? I'm also self-waiving the requirement to that I make black and white / grayscale images for the time being while unicorn mania strikes Stargaze. This should be good for holders, non-holders and collaborators alike. I also just want to draw some daggone unicorns! 🦄",
+    "description": "Just a little unicorn in the city. 🏙️🦄",
     "attributes": [
       {
         "trait_type": "pixels",
-        "value": "32x32"
+        "value": "64x64"
       },
       {
         "trait_type": "dimensions",
@@ -12,15 +12,15 @@
       },
       {
         "trait_type": "color palette",
-        "value": "DB32"
+        "value": "Microsoft Paint"
       },
       {
         "trait_type": "background pattern",
-        "value": "Proto Towers and Heart"
+        "value": "Proto Towers, Rainbow Stripe, and Clouds"
       },
       {
         "trait_type": "time in minutes",
-        "value": 37
+        "value": 30
       },
       {
         "trait_type": "recorded",
@@ -28,11 +28,11 @@
       },
       {
         "trait_type": "raster graphics editor",
-        "value": "Aseprite"
+        "value": "Microsoft Paint"
       },
       {
         "trait_type": "drawing instrument",
-        "value": "Digital Pen, Huion Graphics Tablet"
+        "value": "Mouse"
       },
       {
         "trait_type": "code snippet",
@@ -68,7 +68,7 @@
       },
       {
         "trait_type": "vibe",
-        "value": "Love ❤️"
+        "value": "City Unicorn 🏙️🦄"
       }
     ]
   }
