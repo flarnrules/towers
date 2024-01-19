@@ -1,10 +1,10 @@
 {
-    "name": "Unicorn Proto Tower 8",
-    "description": "Here's another unicorn experiment, I first started with a 32x32 canvas so I could have some bigger pixels, and then took the unicorn from 281 which was a 64x64 pixel image, upscaled the 32x32 canvas to 128x128 so that the same sized pixels from 64x64 would be a smaller unicorn in the main image. I am not sure if this makes any sense, but it was fun to play around with different pixel sizes. 🦄",
+    "name": "Unicorn Proto Tower 10",
+    "description": "A pegasus unicorn, hopping about the rooftops in a city of glass. 🦄🪽🏙️☁️ ",
     "attributes": [
       {
         "trait_type": "pixels",
-        "value": "32x32 + 128x128"
+        "value": "128x128"
       },
       {
         "trait_type": "dimensions",
@@ -12,19 +12,19 @@
       },
       {
         "trait_type": "color palette",
-        "value": "DB32 + AAP-64"
+        "value": "DB32"
       },
       {
         "trait_type": "background pattern",
-        "value": "Rotated Square Sun"
+        "value": "City of Glass and Clouds"
       },
       {
         "trait_type": "time in minutes",
-        "value": 47
+        "value": 75
       },
       {
         "trait_type": "recorded",
-        "value": "No"
+        "value": "Yes"
       },
       {
         "trait_type": "raster graphics editor",
@@ -36,7 +36,7 @@
       },
       {
         "trait_type": "code snippet",
-        "value": "python3 bulk_resize.py"
+        "value": "600%"
       },
       {
         "trait_type": "deployment type",
@@ -52,15 +52,15 @@
       },
       {
         "trait_type": "file format",
-        "value": "Portable Network Graphic"
+        "value": "Graphics Interchange Format"
       },
       {
         "trait_type": "time of deployment",
-        "value": "🏙️"
+        "value": "🌆"
       },
       {
         "trait_type": "number of frames",
-        "value": 1
+        "value": 51
       },
       {
         "trait_type": "live stream",
@@ -68,7 +68,7 @@
       },
       {
         "trait_type": "vibe",
-        "value": "Sunny ☀️"
+        "value": "The Glass City 🦄🪽🏙️☁️"
       }
     ]
   }

@@ -1,10 +1,10 @@
 {
-    "name": "Unicorn Proto Tower 1",
-    "description": "I missed the Unicorn mint, so I figured I would make my own. Since the current floor price of Unicorns is now over 1k stars, maybe I can make a few of these to give people a chance to enjoy the fun of having a unicorn without dropping 1k stars on one? I'm also self-waiving the requirement to that I make black and white / grayscale images for the time being while unicorn mania strikes Stargaze. This should be good for holders, non-holders and collaborators alike. I also just want to draw some daggone unicorns! 🦄",
+    "name": "Unicorn Proto Tower 9",
+    "description": "This is an improved version of one of the animated unicorns from unicorn proto tower 4 (Proto Tower 280). This time I'll do an auction. 🦄🏙️☁️ ",
     "attributes": [
       {
         "trait_type": "pixels",
-        "value": "32x32"
+        "value": "128x128"
       },
       {
         "trait_type": "dimensions",
@@ -16,11 +16,11 @@
       },
       {
         "trait_type": "background pattern",
-        "value": "Proto Towers and Heart"
+        "value": "Proto Towers and Clouds"
       },
       {
         "trait_type": "time in minutes",
-        "value": 37
+        "value": 65
       },
       {
         "trait_type": "recorded",
@@ -36,7 +36,7 @@
       },
       {
         "trait_type": "code snippet",
-        "value": "python3 bulk_resize.py"
+        "value": "600%"
       },
       {
         "trait_type": "deployment type",
@@ -52,15 +52,15 @@
       },
       {
         "trait_type": "file format",
-        "value": "Portable Network Graphic"
+        "value": "Graphics Interchange Format"
       },
       {
         "trait_type": "time of deployment",
-        "value": "🌃"
+        "value": "🏙️"
       },
       {
         "trait_type": "number of frames",
-        "value": 1
+        "value": 31
       },
       {
         "trait_type": "live stream",
@@ -68,7 +68,7 @@
       },
       {
         "trait_type": "vibe",
-        "value": "Love ❤️"
+        "value": "City and Clouds 🦄🏙️☁️"
       }
     ]
   }
