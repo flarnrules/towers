@@ -1,6 +1,6 @@
 {
-    "name": "Unicorn Proto Tower 1",
-    "description": "I missed the Unicorn mint, so I figured I would make my own. Since the current floor price of Unicorns is now over 1k stars, maybe I can make a few of these to give people a chance to enjoy the fun of having a unicorn without dropping 1k stars on one? I'm also self-waiving the requirement to that I make black and white / grayscale images for the time being while unicorn mania strikes Stargaze. This should be good for holders, non-holders and collaborators alike. I also just want to draw some daggone unicorns! 🦄",
+    "name": "Unicorn Proto Tower 7",
+    "description": "Allow me to be completely honest. Drawing this low resolution of a unicorn took me an absurdly long amount of time. I wanted to draw a unicorn in a tower on a 32x32 pixel canvas. Figured that would be nice and easy. Except, working with a 10x8 pixel grid was really complex. with super constrained canvas sizes, it feels more like 'discovering' how to portray an image rather than actual drawing something... definitely a concept I'd like to dwell on a bit, this idea of 'discovering' the smallest set of pixels to represent something meaningful, like a unicorn pegasus. 🦄🪽",
     "attributes": [
       {
         "trait_type": "pixels",
@@ -12,15 +12,15 @@
       },
       {
         "trait_type": "color palette",
-        "value": "DB32"
+        "value": "Microsoft Paint"
       },
       {
         "trait_type": "background pattern",
-        "value": "Proto Towers and Heart"
+        "value": "Cloud and Rainbow"
       },
       {
         "trait_type": "time in minutes",
-        "value": 37
+        "value": 65
       },
       {
         "trait_type": "recorded",
@@ -28,11 +28,11 @@
       },
       {
         "trait_type": "raster graphics editor",
-        "value": "Aseprite"
+        "value": "Microsoft Paint"
       },
       {
         "trait_type": "drawing instrument",
-        "value": "Digital Pen, Huion Graphics Tablet"
+        "value": "Mouse"
       },
       {
         "trait_type": "code snippet",
@@ -68,7 +68,7 @@
       },
       {
         "trait_type": "vibe",
-        "value": "Love ❤️"
+        "value": "Unicorn Pegasus 🦄🪽"
       }
     ]
   }
