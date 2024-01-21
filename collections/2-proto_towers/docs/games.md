@@ -48,3 +48,6 @@ he really likes the desert monolith proto tower 59
 1 winner total
 if someone collects all 5 of Pajon's panaptych (264-268) I'll make an animated one and send it to that person. They gotta tweet proof @flarnrules1
 
+1. @madcatattack1 - stars1chlpr5rzmk99ctx082ekeh4zscvjjeca0pm0e5
+
+### Special 7 - 

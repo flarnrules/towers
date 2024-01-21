@@ -1,0 +1,74 @@
+{
+  "name": "Proto Tower 295",
+  "description": "This is a blitz deployment. Not to shake out the whales anymore, but to generate a decent number of quality pieces in a short period of time to push forward the primary goal of this collection: obtain enough whitelist addresses for a 10,000 piece multimedia art collection deployment. \nI'm not going to take my time with these, but I will put in maximum effort. I'll be deploying 10 in this batch. I'll have everything set up in the .json file by running ./blitz_resize.py once the template is properly configured. All of these automations put rocketfuel on my creative process, and make it a lot easier to *just* *draw* 🧨🔥. Also I can only use black, white and various shades of gray because Jekyll and Hyde has not minted out yet! 🔲⬛. ",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "16x16"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "768x768"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "⬛🔲"
+    },
+    {
+      "trait_type": "background pattern",
+      "value": "Clouds"
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": null
+    },
+    {
+      "trait_type": "recorded",
+      "value": "No"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "Microsoft Paint"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Mouse"
+    },
+    {
+      "trait_type": "code snippet",
+      "value": "./blitz_setup.sh"
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "Blitz"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Portable Network Graphic"
+    },
+    {
+      "trait_type": "time of deployment",
+      "value": "🌇"
+    },
+    {
+      "trait_type": "number of frames",
+      "value": 1
+    },
+    {
+      "trait_type": "live stream",
+      "value": "No"
+    },
+    {
+      "trait_type": "vibe",
+      "value": "Monolith"
+    }
+  ]
+}

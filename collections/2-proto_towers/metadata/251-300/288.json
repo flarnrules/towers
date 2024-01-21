@@ -1,10 +1,10 @@
 {
-    "name": "Proto Tower ",
-    "description": "This is a blitz deployment. Not to shake out the whales anymore, but to generate a decent number of quality pieces in a short period of time to push forward the primary goal of this collection: obtain enough whitelist addresses for a 10,000 piece multimedia art collection deployment. \nI'm not going to take my time with these, but I will put in maximum effort. I'll be deploying 10 in this batch. I'll have everything set up in the .json file by running ./blitz_resize.py once the template is properly configured. All of these automations put rocketfuel on my creative process, and make it a lot easier to *just* *draw* 🧨🔥 ",
+    "name": "Proto Tower 288",
+    "description": "",
     "attributes": [
       {
         "trait_type": "pixels",
-        "value": "16x16"
+        "value": "32x32"
       },
       {
         "trait_type": "dimensions",
@@ -16,11 +16,11 @@
       },
       {
         "trait_type": "background pattern",
-        "value": "Wildcard"
+        "value": "Sun Cross"
       },
       {
         "trait_type": "time in minutes",
-        "value": null
+        "value": 35
       },
       {
         "trait_type": "recorded",
@@ -28,19 +28,19 @@
       },
       {
         "trait_type": "raster graphics editor",
-        "value": "Aseprite"
+        "value": "Microsoft Paint"
       },
       {
         "trait_type": "drawing instrument",
-        "value": "Digital Pen"
+        "value": "Mouse"
       },
       {
         "trait_type": "code snippet",
-        "value": "./blitz_setup.sh"
+        "value": "python3 bulk_resize.py"
       },
       {
         "trait_type": "deployment type",
-        "value": "Blitz"
+        "value": "Smoker's Club"
       },
       {
         "trait_type": "collab artist",
@@ -49,14 +49,14 @@
       {
         "trait_type": "collab collection",
         "value": "n/a"
-      },     
+      },
       {
         "trait_type": "file format",
         "value": "Portable Network Graphic"
       },
       {
         "trait_type": "time of deployment",
-        "value": "🏙️"
+        "value": "🌅"
       },
       {
         "trait_type": "number of frames",
@@ -68,7 +68,7 @@
       },
       {
         "trait_type": "vibe",
-        "value": "Tower"
+        "value": "Glowing Sentries"
       }
     ]
   }

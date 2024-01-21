@@ -21,8 +21,10 @@
 20. Proto Tower 253 "Sia Tower" - by Sia ⏳
 21. Proto Tower 255 "Crystal Tower" - by Graphein ✅
 22. Proto Tower 264-268 "Monkey Island Pentaptych" - by Pajon ✅
-23. Proto Tower "Floating Tower" - by Reggie
-
+23. Proto Tower "Floating Tower" - by Reggie ✅``
+24. BUG TOWER
+25. B&W Tower by Ajk
+26. 
 
 stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z - Jinxto
 stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad - Fluffhead
@@ -37,7 +39,8 @@ stars1xdw60n3m2hve7rhyujxv8pyzju7uzk8fat0wv0 - Pixlgeist
 stars1sezunc9x6zwqldypxnn26r9mkqvvlr95fx9zsg - Graphein (she/her)
 stars1mta69chjr6fkryyn2ur7c847hgvz5uyx9tgymw - Reggie
 
-
+Collectors (1% of Royalties = .01 x .05 = .0005)
+stars1mlxynkqd9js8tkdnkk0e27lgz7x9lt866n5r44 - Smoker's Club (smokers.stars)
 
 ========================================
 17/1/2024 - wallet liquid contents = 3323.0 STARS
