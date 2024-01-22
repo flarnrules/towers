@@ -8,15 +8,17 @@
         html, body {
             margin: 0;
             padding: 0;
-            width: 100%;
             height: 100%;
-            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: lightgray; /* Background color */
         }
 
         #svg-container {
-            width: 100%;
-            height: 100%;
-            background-color: lightgray; /* Just for visibility */
+            max-width: 100%;
+            max-height: 100%;
+            aspect-ratio: 1 / 1; /* Ensures the SVG remains a square */
         }
     </style>
 </head>
@@ -419,36 +421,54 @@
         <rect id="movable-pixel" width="1%" height="1%" x="0" y="0"></rect>
     </svg>
     <script>
-        document.addEventListener('DOMContentLoaded', () => {
+        document.addEventListener('DOMContentLoaded', async () => {
+            const response = await fetch('collisionMap.json');
+            const collisionMap = await response.json();
+        
             const pixel = document.getElementById('movable-pixel');
-            let x = 0;
-            let y = 0;
-
+            const pixelSize = 1; // Size of the pixel as a percentage of the viewBox
+        
+            // Hardcoded starting position
+            let xIndex = 10; // Replace with your chosen starting X index
+            let yIndex = 82;  // Replace with your chosen starting Y index
+        
+            function updatePixelPosition() {
+                const xPercent = (xIndex / collisionMap[0].length) * 100;
+                const yPercent = (yIndex / collisionMap.length) * 100;
+                pixel.setAttribute('x', `${xPercent}%`);
+                pixel.setAttribute('y', `${yPercent}%`);
+                pixel.setAttribute('width', `${pixelSize}%`);  // Maintain the size of the pixel
+                pixel.setAttribute('height', `${pixelSize}%`);
+            }
+        
+            function canMove(newXIndex, newYIndex) {
+                // Check if the new position is within the bounds and walkable
+                return newYIndex >= 0 && newYIndex < collisionMap.length &&
+                       newXIndex >= 0 && newXIndex < collisionMap[0].length &&
+                       collisionMap[newYIndex][newXIndex] === 1;
+            }
+        
             document.addEventListener('keydown', (e) => {
-                const svgSize = document.getElementById('svg-container').getBoundingClientRect();
-                const step = svgSize.width / 100; // 1% of the SVG's width
-
+                let newXIndex = xIndex, newYIndex = yIndex;
+        
                 switch (e.key) {
-                    case 'ArrowUp':    y = Math.max(0, y - step); break;
-                    case 'ArrowDown':  y = Math.min(svgSize.height - step, y + step); break;
-                    case 'ArrowLeft':  x = Math.max(0, x - step); break;
-                    case 'ArrowRight': x = Math.min(svgSize.width - step, x + step); break;
+                    case 'ArrowUp':    newYIndex = Math.max(0, yIndex - 1); break;
+                    case 'ArrowDown':  newYIndex = Math.min(collisionMap.length - 1, yIndex + 1); break;
+                    case 'ArrowLeft':  newXIndex = Math.max(0, xIndex - 1); break;
+                    case 'ArrowRight': newXIndex = Math.min(collisionMap[0].length - 1, xIndex + 1); break;
                 }
-
-                pixel.setAttribute('x', x);
-                pixel.setAttribute('y', y);
+        
+                if (canMove(newXIndex, newYIndex)) {
+                    xIndex = newXIndex;
+                    yIndex = newYIndex;
+                    updatePixelPosition();
+                }
             });
-
-            document.addEventListener('touchstart', (e) => {
-                const touch = e.touches[0];
-                const svgRect = document.getElementById('svg-container').getBoundingClientRect();
-                x = Math.max(0, Math.min(svgRect.width - svgRect.width / 100, touch.clientX - svgRect.left));
-                y = Math.max(0, Math.min(svgRect.height - svgRect.height / 100, touch.clientY - svgRect.top));
-                pixel.setAttribute('x', x);
-                pixel.setAttribute('y', y);
-            });
-});
-</script>
+        
+            updatePixelPosition(); // Set initial position
+        });
+    </script>
+    
 
 </body>
 </html>
