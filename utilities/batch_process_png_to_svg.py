@@ -2,8 +2,8 @@ from utilities.png_to_svg_bw import png_to_svg_invert  # Import your function
 import os
 
 # Input and output directories
-input_dir = "../media/test_images/towers_png6"
-output_dir = "../media/towers_svg"
+input_dir = "../media/wip/300/batch"
+output_dir = "../media/wip/300/svg"
 
 # Create output directory if it doesn't exist
 if not os.path.exists(output_dir):

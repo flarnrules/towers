@@ -114,7 +114,7 @@ m540 40 l0 -155 -40 0 -40 0 0 -40 0 -40 -40 0 -40 0 0 195 0 195 80 0 80 0 0
 
         document.addEventListener('keydown', (e) => {
             if (e.key === 'ArrowRight') {
-                currentSequenceNumber = Math.min(currentSequenceNumber + 1, 69);
+                currentSequenceNumber = Math.min(currentSequenceNumber + 1, 69); // Assuming 69 is the last sequence number
             } else if (e.key === 'ArrowLeft') {
                 currentSequenceNumber = Math.max(currentSequenceNumber - 1, 1);
             }

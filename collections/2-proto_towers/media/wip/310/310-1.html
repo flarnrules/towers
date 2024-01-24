@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proto Tower 310</title>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: lightgray; /* Background color */
+        }
+
+        #svg-container {
+            position: relative;
+            width: 100%;
+            max-height: 100%;
+            aspect-ratio: 1 / 1;
+        }
+
+        #left-arrow, #right-arrow {
+        position: absolute; /* Absolute positioning relative to the nearest positioned ancestor */
+        top: 50%;
+        transform: translateY(-50%); /* Vertically center the arrows */
+        font-size: 2em;
+        color: black;
+        opacity: 0;
+        transition: opacity 2s;
+        }   
+
+        #left-arrow { left: 10%; }
+        #right-arrow { right: 10%; }
+    
+    </style>
+</head>
+<body>
+    <div id="left-arrow">&#8592;</div>
+    <div id="right-arrow">&#8594;</div>
+
+    <svg id="svg-container" width="100%" height="100%" viewBox="0 0 100 100">
+<g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M849 714 c-1 -5 -1 -12 0 -16 0 -5 -10 -8 -24 -8 -18 0 -25 -5 -25
+-20 0 -15 7 -20 25 -20 20 0 25 -5 25 -26 0 -21 -4 -25 -20 -21 -16 4 -20 0
+-20 -18 0 -13 -4 -27 -10 -30 -6 -4 -9 -72 -8 -178 2 -143 3 -152 5 -54 l4
+117 34 0 c34 0 35 -1 35 -40 0 -22 5 -40 10 -40 6 0 10 -16 10 -35 0 -33 14
+-73 43 -120 8 -14 20 -19 40 -17 35 4 36 18 1 17 -37 0 -66 42 -72 104 -2 28
+-9 54 -13 57 -5 3 -9 24 -9 47 0 38 5 47 45 80 25 21 45 43 45 50 0 7 -4 6
+-10 -3 -9 -13 -10 -13 -10 0 0 13 -1 13 -10 0 -6 -10 -10 -11 -10 -2 0 6 -7
+12 -15 12 -8 0 -15 -4 -15 -10 0 -5 -14 -10 -32 -10 -17 0 -40 -7 -50 -17 -17
+-15 -18 -15 -18 3 0 64 64 105 73 47 4 -26 4 -26 6 5 0 17 -4 32 -10 32 -6 0
+-9 21 -8 55 1 30 0 58 -4 62 -4 3 -8 2 -8 -3z m1 -44 c0 -5 -9 -10 -20 -10
+-11 0 -20 5 -20 10 0 6 9 10 20 10 11 0 20 -4 20 -10z m20 -160 c0 -5 -12 -10
+-26 -10 -14 0 -23 4 -19 10 3 6 15 10 26 10 10 0 19 -4 19 -10z m17 -27 c-3
+-10 -5 -4 -5 12 0 17 2 24 5 18 2 -7 2 -21 0 -30z m20 15 c-3 -8 -6 -5 -6 6
+-1 11 2 17 5 13 3 -3 4 -12 1 -19z m33 18 c0 -3 -4 -8 -10 -11 -5 -3 -10 -1
+-10 4 0 6 5 11 10 11 6 0 10 -2 10 -4z m-70 -46 c0 -25 -17 -26 -44 -2 -20 16
+-20 16 -7 0 12 -16 11 -18 -3 -18 -16 0 -22 21 -9 33 3 4 19 7 35 7 21 0 28
+-5 28 -20z"/>
+<path d="M820 405 c0 -8 9 -15 20 -15 11 0 20 7 20 15 0 8 -9 15 -20 15 -11 0
+-20 -7 -20 -15z"/>
+<path d="M472 378 c-7 -7 -11 -26 -11 -42 2 -31 2 -31 8 4 5 31 10 35 36 35
+29 0 30 -2 37 -55 3 -30 7 -86 9 -125 l3 -70 5 85 c6 78 8 85 28 88 17 3 22
+-3 26 -25 l4 -28 2 28 c1 32 -22 46 -50 28 -17 -10 -19 -8 -19 27 0 43 -14 62
+-45 62 -12 0 -26 -5 -33 -12z"/>
+<path d="M810 355 c0 -8 9 -15 20 -15 11 0 20 7 20 15 0 8 -9 15 -20 15 -11 0
+-20 -7 -20 -15z"/>
+<path d="M490 308 c0 -8 -36 -9 -132 -5 -129 6 -134 6 -173 -18 -22 -14 -54
+-25 -71 -25 -17 0 -38 -7 -45 -17 -8 -9 -27 -22 -44 -29 -28 -13 -26 -13 27
+-8 53 6 56 5 61 -17 3 -16 5 -11 6 16 2 38 5 41 59 68 35 17 73 27 100 27 l42
+0 1 -47 c1 -27 3 -40 6 -30 6 22 20 22 32 -2 6 -10 28 -23 50 -28 38 -10 39
+-10 45 20 3 16 6 40 6 53 0 19 5 24 25 24 16 0 25 6 25 15 0 8 -4 15 -10 15
+-5 0 -10 -5 -10 -12z m-130 -43 c0 -18 -4 -23 -15 -19 -8 4 -15 15 -15 25 0
+10 7 19 15 19 9 0 15 -9 15 -25z m50 -19 c0 -39 -2 -44 -20 -39 -16 4 -20 14
+-20 44 0 32 3 39 20 39 17 0 20 -7 20 -44z m40 15 c0 -16 -3 -36 -6 -45 -12
+-31 -24 -16 -24 29 0 33 4 45 15 45 10 0 15 -10 15 -29z m-340 -26 c0 -9 -9
+-15 -21 -15 -18 0 -19 2 -9 15 7 8 16 15 21 15 5 0 9 -7 9 -15z"/>
+<path d="M840 305 c0 -8 9 -15 20 -15 11 0 20 7 20 15 0 8 -9 15 -20 15 -11 0
+-20 -7 -20 -15z"/>
+<path d="M810 255 c0 -8 9 -15 20 -15 11 0 20 7 20 15 0 8 -9 15 -20 15 -11 0
+-20 -7 -20 -15z"/>
+<path d="M580 245 c0 -12 13 -15 55 -15 48 0 55 -2 55 -20 0 -19 7 -20 95 -20
+78 0 95 3 95 15 0 8 -4 15 -10 15 -5 0 -10 -4 -10 -10 0 -6 -30 -10 -70 -10
+-66 0 -70 1 -70 23 0 22 -3 23 -60 19 -40 -3 -60 0 -60 7 0 6 -4 11 -10 11 -5
+0 -10 -7 -10 -15z"/>
+</g>
+<g id="tiny-guy">
+    <rect x="2" y="0" width="1" height="1" fill="#AC3232" />
+    <rect x="3" y="0" width="1" height="1" fill="#AC3232" />
+    <rect x="4" y="0" width="1" height="1" fill="#AC3232" />
+    <rect x="2" y="1" width="1" height="1" fill="#AC3232" />
+    <rect x="3" y="1" width="1" height="1" fill="#AC3232" />
+    <rect x="4" y="1" width="1" height="1" fill="#AC3232" />
+    <rect x="5" y="1" width="1" height="1" fill="#AC3232" />
+    <rect x="2" y="2" width="1" height="1" fill="#CBDBFC" />
+    <rect x="3" y="2" width="1" height="1" fill="#9BADB7" />
+    <rect x="4" y="2" width="1" height="1" fill="#CBDBFC" />
+    <rect x="2" y="3" width="1" height="1" fill="#9BADB7" />
+    <rect x="3" y="3" width="1" height="1" fill="#9BADB7" />
+    <rect x="4" y="3" width="1" height="1" fill="#9BADB7" />
+    <rect x="1" y="4" width="1" height="1" fill="#5B6EE1" />
+    <rect x="2" y="4" width="1" height="1" fill="#5B6EE1" />
+    <rect x="3" y="4" width="1" height="1" fill="#FBF236" />
+    <rect x="4" y="4" width="1" height="1" fill="#5B6EE1" />
+    <rect x="5" y="4" width="1" height="1" fill="#5B6EE1" />
+    <rect x="1" y="5" width="1" height="1" fill="#9BADB7" />
+    <rect x="2" y="5" width="1" height="1" fill="#524B24" />
+    <rect x="3" y="5" width="1" height="1" fill="#524B24" />
+    <rect x="4" y="5" width="1" height="1" fill="#524B24" />
+    <rect x="5" y="5" width="1" height="1" fill="#9BADB7" />
+    <rect x="2" y="6" width="1" height="1" fill="#9BADB7" />
+    <rect x="4" y="6" width="1" height="1" fill="#9BADB7" />
+</g>
+</svg>
+
+<script>
+    document.addEventListener('DOMContentLoaded', async () => {
+        const response = await fetch('310.json');
+        const sequencedMap = await response.json();
+
+        const tinyGuy = document.getElementById('tiny-guy');
+        let currentSequenceNumber = 1; // Start from the first position in the sequence
+
+        function updatePixelPosition(sequenceNumber) {
+        const viewBoxSize = 100;
+        const scaleFactor = 0.5; // The scale factor for "tiny guy"
+
+        for (let y = 0; y < sequencedMap.length; y++) {
+            for (let x = 0; x < sequencedMap[y].length; x++) {
+                if (sequencedMap[y][x] === sequenceNumber) {
+                    // Calculate unscaled position
+                    const xPos = (x / (sequencedMap[y].length +2.5)) * viewBoxSize;
+                    const yPos = (y / (sequencedMap.length +3)) * viewBoxSize;
+
+                    // Apply scaling and adjust translation to align with the grid
+                    tinyGuy.setAttribute('transform', `translate(${xPos}, ${yPos}) scale(${scaleFactor})`);
+                    return;
+                }
+            }
+        }
+    }
+
+
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowRight') {
+                currentSequenceNumber = Math.min(currentSequenceNumber + 1, 108); // Adjust 108 to your max sequence number
+            } else if (e.key === 'ArrowLeft') {
+                currentSequenceNumber = Math.max(currentSequenceNumber - 1, 1);
+            }
+            updatePixelPosition(currentSequenceNumber);
+        });
+
+        document.addEventListener('touchstart', (e) => {
+            const touchX = e.touches[0].clientX;
+            const screenWidth = window.innerWidth;
+
+            if (touchX < screenWidth / 2) {
+                currentSequenceNumber = Math.max(currentSequenceNumber - 1, 1);
+            } else {
+                currentSequenceNumber = Math.min(currentSequenceNumber + 1, 108); // Adjust 108 to your max sequence number
+            }
+            updatePixelPosition(currentSequenceNumber);
+        });
+
+        // Display and fade out arrows
+        const leftArrow = document.createElement('div');
+        leftArrow.id = 'left-arrow';
+        leftArrow.innerHTML = '&#8592;';
+        document.body.appendChild(leftArrow);
+
+        const rightArrow = document.createElement('div');
+        rightArrow.id = 'right-arrow';
+        rightArrow.innerHTML = '&#8594;';
+        document.body.appendChild(rightArrow);
+
+        setTimeout(() => {
+            leftArrow.style.opacity = 1;
+            rightArrow.style.opacity = 1;
+
+            setTimeout(() => {
+                leftArrow.style.opacity = 0;
+                rightArrow.style.opacity = 0;
+            }, 4000);
+        }, 2000);
+
+        updatePixelPosition(currentSequenceNumber); // Set initial position
+    });
+</script>
+
+</body>
+</html>

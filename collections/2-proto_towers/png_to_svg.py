@@ -42,4 +42,4 @@ def create_svg_from_png(image_path, svg_path, background_color=(255, 255, 255)):
         file.write(svg_output)
 
 # Usage
-create_svg_from_png('media/wip/276/276.png', 'media/wip/276/276.svg')
+create_svg_from_png('media/wip/300/300.png', 'media/wip/300/300.svg')

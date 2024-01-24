@@ -7,8 +7,8 @@ def create_collision_map(image_path, output_path):
     image = cv2.imread(image_path)
 
     # Define the color range for blue paths
-    lower_blue = np.array([100, 0, 0])
-    upper_blue = np.array([255, 100, 100])
+    lower_blue = np.array([255, 0, 0])
+    upper_blue = np.array([255, 0, 0])
 
     # Create a mask that captures areas of the image that are blue
     mask = cv2.inRange(image, lower_blue, upper_blue)
@@ -41,8 +41,8 @@ def create_sequenced_collision_map(collision_map):
     return sequenced_map
 
 # Usage
-image_path = 'media/wip/300/300.png'  # Replace with your image path
-output_path = 'media/wip/300/300_map.png'  # Replace with the desired output image path
+image_path = 'media/wip/310/310.png'  # Replace with your image path
+output_path = 'media/wip/310/310_map.png'  # Replace with the desired output image path
 collision_map = create_collision_map(image_path, output_path)
 
 # Convert the collision map to a sequenced collision map
@@ -53,7 +53,7 @@ formatted_json_lines = ["[" + ", ".join(map(str, row)) + "]" for row in sequence
 formatted_json = "[\n" + ",\n".join(formatted_json_lines) + "\n]"
 
 # Write to file
-json_output_path = 'media/wip/300/collisionMap.json'  # Set the path for the JSON file
+json_output_path = 'media/wip/310/310.json'  # Set the path for the JSON file
 with open(json_output_path, 'w') as json_file:
     json_file.write(formatted_json)
 

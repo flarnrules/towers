@@ -3,8 +3,8 @@ import imageio
 import os
 
 # Set the path and base filename
-PATH = "../collections/2-proto_towers/media/original_pngs/minted/1-50/"
-BASE_FILENAME = "tower29"  # Without extension
+PATH = "../collections/2-proto_towers/media/wip/300/"
+BASE_FILENAME = "reallycool"  # Without extension
 
 def preprocess_image(image_path, save_path):
     # Read the image using OpenCV

@@ -1,0 +1,76 @@
+{
+  "name": "Proto Tower 300",
+  "description": "This is a proof of concept, a prototype if you will. If on mobile, try touching on the right and lefthand size of the image to see the 'character' a simple blue pixel, move left and right across the world in which it lives. If on a computer, use the left and right arrow keys to move the character. 🟦",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "100x100"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "infinite"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "B&W"
+    },
+    {
+      "trait_type": "background pattern",
+      "value": "White"
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": 185
+    },
+    {
+      "trait_type": "recorded",
+      "value": "Partial"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "Aseprite, Visual Studio Code"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Mouse, Keyboard, Javascript"
+    },
+    {
+      "trait_type": "code snippet",
+      "value": "function updatePixelPosition(sequenceNumber)"
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "Interactive"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Scalable Vector Graphic (SVG)"
+    },
+    {
+      "trait_type": "time of deployment",
+      "value": "🏙️"
+    },
+    {
+      "trait_type": "number of frames",
+      "value": 69
+    },
+    {
+      "trait_type": "live stream",
+      "value": "No"
+    },
+    {
+      "trait_type": "vibe",
+      "value": "Prototype"
+    }
+  ],
+  "image": "ipfs://bafybeif7rtlmoakrzfg5c5fbzg3s6ltqbr6t4pokjokhke5jcawa72qbqy/300.svg",
+  "animation_url": "https://ipfs-gw.stargaze-apis.com/ipfs/bafybeif7rtlmoakrzfg5c5fbzg3s6ltqbr6t4pokjokhke5jcawa72qbqy/300.html"
+}
