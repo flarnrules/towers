@@ -21,7 +21,7 @@
 20. Proto Tower 253 "Sia Tower" - by Sia ⏳
 21. Proto Tower 255 "Crystal Tower" - by Graphein ✅
 22. Proto Tower 264-268 "Monkey Island Pentaptych" - by Pajon ✅
-23. Proto Tower "Floating Tower" - by Reggie ✅``
+23. Proto Tower "Floating Tower" - by Reggie ✅
 24. BUG TOWER
 25. B&W Tower by Ajk
 26. 
@@ -66,3 +66,163 @@ Next split on 23/01/2024
 memo: for collab 🏙️🌆
 ========================================
 
+
+
+[
+  {
+    "bank": {
+      "send": {
+        "amount": [
+          {
+            "amount": "1000000",
+            "denom": "ustars"
+          }
+        ],
+        "to_address": "stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z"
+      }
+    }
+  },
+  {
+    "bank": {
+      "send": {
+        "amount": [
+          {
+            "amount": "1000000",
+            "denom": "ustars"
+          }
+        ],
+        "to_address": "stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad"
+      }
+    }
+  },
+  {
+    "bank": {
+      "send": {
+        "amount": [
+          {
+            "amount": "1000000",
+            "denom": "ustars"
+          }
+        ],
+        "to_address": "stars13nyn5v2mxv8cs6nj0khrxy9wkmw7ry0cuzrvg3"
+      }
+    }
+  },
+  {
+    "bank": {
+      "send": {
+        "amount": [
+          {
+            "amount": "1000000",
+            "denom": "ustars"
+          }
+        ],
+        "to_address": "stars1apx87m4378vpnncglx8m6gklafhtnjhhr96027"
+      }
+    }
+  },
+  {
+    "bank": {
+      "send": {
+        "amount": [
+          {
+            "amount": "1000000",
+            "denom": "ustars"
+          }
+        ],
+        "to_address": "stars1d74f6c7rgyyym57530rc2tt88fnl6wpdcpz6ta"
+      }
+    }
+  },
+  {
+    "bank": {
+      "send": {
+        "amount": [
+          {
+            "amount": "1000000",
+            "denom": "ustars"
+          }
+        ],
+        "to_address": "stars1neqprx4sd0xrs4snn2q9ccchg6ksva3p0vxcfl"
+      }
+    }
+  },
+  {
+    "bank": {
+      "send": {
+        "amount": [
+          {
+            "amount": "1000000",
+            "denom": "ustars"
+          }
+        ],
+        "to_address": "stars18hj0dztsqyarjvfa30d64csj3ms06er3a8cjg3"
+      }
+    }
+  },
+  {
+    "bank": {
+      "send": {
+        "amount": [
+          {
+            "amount": "1000000",
+            "denom": "ustars"
+          }
+        ],
+        "to_address": "stars1y298nv7exjug2jfj9z06f9n9qe9f9nmzx9dzge"
+      }
+    }
+  },
+  {
+    "bank": {
+      "send": {
+        "amount": [
+          {
+            "amount": "1000000",
+            "denom": "ustars"
+          }
+        ],
+        "to_address": "stars1xdw60n3m2hve7rhyujxv8pyzju7uzk8fat0wv0"
+      }
+    }
+  },
+  {
+    "bank": {
+      "send": {
+        "amount": [
+          {
+            "amount": "1000000",
+            "denom": "ustars"
+          }
+        ],
+        "to_address": "stars1sezunc9x6zwqldypxnn26r9mkqvvlr95fx9zsg"
+      }
+    }
+  },
+  {
+    "bank": {
+      "send": {
+        "amount": [
+          {
+            "amount": "1000000",
+            "denom": "ustars"
+          }
+        ],
+        "to_address": "stars1mta69chjr6fkryyn2ur7c847hgvz5uyx9tgymw"
+      }
+    }
+  },
+  {
+    "stargate": {
+      "typeUrl": "/cosmos.staking.v1beta1.MsgDelegate",
+      "value": {
+        "delegatorAddress": "stars1hyhmssn4j6fxlvq58ctlpxwg5az7shg7zc77rp",
+        "validatorAddress": "starsvaloper1gz645mefvu5emd0llpfjchqqpyuxt0xxq34per",
+        "amount": {
+          "denom": "ustars",
+          "amount": "1000000"
+        }
+      }
+    }
+  }
+]
