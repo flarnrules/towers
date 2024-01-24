@@ -9,7 +9,7 @@ MEMO = "for collab 🏙️🌆"
 # Collaborators' contributions
 contributions = {
     'Jinxto': 7,
-    'Fluffhead': 1, #megazord assembly
+    'Fluffhead': 2,
     'Ajk': 3,
     'Randomkid': 1,
     'Berny': 2,
@@ -19,6 +19,7 @@ contributions = {
     'Pixlgeist': 1,
     'Sia': 0, #tentative apprentice, not holding proto tower
     'Graphein': 1,
+    'Reggie': 1,
 
     # Add more collaborators here
 }

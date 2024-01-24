@@ -21,10 +21,11 @@
 20. Proto Tower 253 "Sia Tower" - by Sia ⏳
 21. Proto Tower 255 "Crystal Tower" - by Graphein ✅
 22. Proto Tower 264-268 "Monkey Island Pentaptych" - by Pajon ✅
-23. Proto Tower "Floating Tower" - by Reggie ✅
-24. BUG TOWER
-25. B&W Tower by Ajk
-26. 
+23. Proto Tower 276 "Sk-Y TOWER" - by Reggie ✅
+24. Proto Tower 301 "The Tower on the River" - by Fluffhead
+25. BUG TOWER by Randomkid
+26. B&W Tower by Ajk
+27. 
 
 stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z - Jinxto
 stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad - Fluffhead
@@ -66,7 +67,30 @@ Next split on 23/01/2024
 memo: for collab 🏙️🌆
 ========================================
 
+========================================
+23/1/2024 - wallet liquid contents = 1898.59 STARS
+Split - 25% stake, 25% liquid, 50% to collaborators
+25% x 1898.59 = 474.6475 Staked
+25% x 1898.59 = 474.6475 Liquid
+50% x 1898.59 = 949.295 Collaborators
 
+Breakdown
+Jinxto - 25.93% x 949.295 = 246.1135185185185
+Fluffhead - 7.41% x 949.295 = 70.31814814814814
+Ajk - 11.11% x 949.295 = 105.47722222222221
+Randomkid - 3.70% x 949.295 = 35.15907407407407
+Berny - 7.41% x 949.295 = 70.31814814814814
+Votor - 3.70% x 949.295 = 35.15907407407407
+Quasimosos - 7.41% x 949.295 = 70.31814814814814
+Ijon - 22.22% x 949.295 = 210.95444444444442
+Pixlgeist - 3.70% x 949.295 = 35.15907407407407
+Sia - 0.00% x 949.295 = 0.0
+Graphein - 3.70% x 949.295 = 35.15907407407407
+Reggie - 3.70% x 949.295 = 35.15907407407407
+
+Next split on 23/01/2024
+memo: for collab 🏙️🌆
+========================================
 
 [
   {
