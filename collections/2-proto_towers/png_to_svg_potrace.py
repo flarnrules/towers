@@ -9,7 +9,7 @@ def convert_to_bmp(input_image, output_bmp):
             image = image.convert('RGBA')
         elif image.mode != 'RGB':
             # Convert non-RGB images to grayscale ('L') or you can choose to convert to 'RGB'
-            image = image.convert('L')
+            image = image.convert('RGB')
         image.save(output_bmp, "BMP")
 
 def convert_to_svg(input_bmp, output_svg):
@@ -20,9 +20,9 @@ def convert_to_svg(input_bmp, output_svg):
         print(f"An error occurred: {e}")
 
 # Usage
-input_image = "media/wip/310/310.png"  # Replace with your image path
-output_bmp = "media/wip/310/310.bmp"   # Temporary BMP file
-output_svg = "media/wip/310/310.svg" # Final SVG file
+input_image = "media/wip/305/305.png"  # Replace with your image path
+output_bmp = "media/wip/305/305.bmp"   # Temporary BMP file
+output_svg = "media/wip/305/305.svg" # Final SVG file
 
 convert_to_bmp(input_image, output_bmp)
 convert_to_svg(output_bmp, output_svg)

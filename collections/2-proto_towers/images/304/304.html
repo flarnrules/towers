@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proto Tower 304</title>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: lightgray;
+            overflow: hidden; /* Prevent scroll bars */
+        }
+
+        #image-container {
+            position: relative;
+            width: 90vmin; /* 90% of the viewport's smaller dimension */
+            height: 90vmin; /* Keeps the container square */
+            margin: auto;
+        }
+
+        img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* Ensures the image covers the container */
+        }
+
+        svg {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        #left-arrow, #right-arrow {
+            position: absolute;
+            top: 10%;
+            transform: translateY(-50%);
+            font-size: 5em;
+            color: black;
+            opacity: 0; /* Start with arrows invisible */
+            transition: opacity 2s;
+        }
+
+        #left-arrow { left: 25px; }
+        #right-arrow { right: 25px; }
+
+        #heart-emoji {
+    position: absolute;
+    top: 10%; /* Adjust to position the emoji */
+    left: 86%; /* Adjust to position the emoji */
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    transition: opacity 2s;
+}
+
+    </style>
+</head>
+<body>
+    <div id="image-container">
+        <div id="left-arrow">&#8592;</div>
+        <div id="right-arrow">&#8594;</div>
+        <img src="304.png" alt="a walkway to a tower and a bridge">
+        <svg>
+            <image id="sprite-image" href="unicorn_sprite.png" width="3%" height="3%"></image>
+        </svg>
+    
+        <div id="heart-emoji">💖</div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', async () => {
+            const response = await fetch('304.json');
+            const sequencedMap = await response.json();
+
+            const spriteImage = document.getElementById('sprite-image');
+            const heartEmoji = document.getElementById('heart-emoji');
+            let currentSequenceNumber = 1; // Start from the first position in the sequence
+
+            function updateSpritePosition(sequenceNumber) {
+                for (let y = 0; y < sequencedMap.length; y++) {
+                    for (let x = 0; x < sequencedMap[y].length; x++) {
+                        if (sequencedMap[y][x] === sequenceNumber) {
+                            const xPercent = (x / sequencedMap[y].length) * 100;
+                            const yPercent = (y / sequencedMap.length) * 100;
+                            spriteImage.setAttribute('x', `${xPercent}%`);
+                            spriteImage.setAttribute('y', `${yPercent}%`);
+
+                            
+                            if (sequenceNumber === 29) {
+                                heartEmoji.style.opacity = 1;
+                            } else {
+                                heartEmoji.style.opacity = 0;
+                            }
+                            return;
+                        }
+                    }
+                }
+            }
+
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowRight') {
+                currentSequenceNumber = Math.min(currentSequenceNumber + 1, 29);
+            } else if (e.key === 'ArrowLeft') {
+                currentSequenceNumber = Math.max(currentSequenceNumber - 1, 1);
+            }
+            updateSpritePosition(currentSequenceNumber);
+        });
+
+ 
+        document.addEventListener('touchstart', (e) => {
+            const touchX = e.touches[0].clientX;
+            const screenWidth = window.innerWidth;
+
+            if (touchX < screenWidth / 2) {
+                currentSequenceNumber = Math.max(currentSequenceNumber - 1, 1);
+            } else {
+                currentSequenceNumber = Math.min(currentSequenceNumber + 1, 29);
+            }
+            updateSpritePosition(currentSequenceNumber);
+        });
+
+     
+        const leftArrow = document.createElement('div');
+        leftArrow.id = 'left-arrow';
+        leftArrow.innerHTML = '&#8592;';
+        document.body.appendChild(leftArrow);
+
+        const rightArrow = document.createElement('div');
+        rightArrow.id = 'right-arrow';
+        rightArrow.innerHTML = '&#8594;';
+        document.body.appendChild(rightArrow);
+
+        setTimeout(() => {
+            document.getElementById('left-arrow').style.opacity = 1;
+            document.getElementById('right-arrow').style.opacity = 1;
+
+            setTimeout(() => {
+                document.getElementById('left-arrow').style.opacity = 0;
+                document.getElementById('right-arrow').style.opacity = 0;
+            }, 4000);
+        }, 2000);
+
+        updateSpritePosition(currentSequenceNumber);
+    });
+
+    function scaleEmoji() {
+    const image = document.querySelector('#image-container img');
+    const emoji = document.getElementById('heart-emoji');
+    const imageSize = image.offsetWidth;
+
+    const emojiSize = imageSize * 0.1;
+    emoji.style.fontSize = `${emojiSize}px`;
+}
+
+
+document.addEventListener('DOMContentLoaded', () => {
+    scaleEmoji();
+});
+window.addEventListener('resize', scaleEmoji);
+</script>
+
+</body>
+</html>

@@ -1,0 +1,76 @@
+{
+  "name": "Proto Tower 304",
+  "description": "There is a little unicorn pegasus that wishes to explore it's environment. 🦄🪽 Tell it where to go and you might find a suprise! ⚔️🛡️🗡️ (more instructions later!) ",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "32x32 -> 256x256"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "infinite"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "Simple"
+    },
+    {
+      "trait_type": "background pattern",
+      "value": "Clouds"
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": 165
+    },
+    {
+      "trait_type": "recorded",
+      "value": "No"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "Aseprite, Visual Studio Code"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Mouse, Keyboard, Javascript"
+    },
+    {
+      "trait_type": "code snippet",
+      "value": "if (sequenceNumber === 29) {heartEmoji.style.opacity = 1;}"
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "Interactive"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Hypertext Markup Language"
+    },
+    {
+      "trait_type": "time of deployment",
+      "value": "🌃"
+    },
+    {
+      "trait_type": "number of frames",
+      "value": 29
+    },
+    {
+      "trait_type": "live stream",
+      "value": "No"
+    },
+    {
+      "trait_type": "vibe",
+      "value": "Adventurous Unicorn 🦄"
+    }
+  ],
+  "image": "ipfs://bafybeidfiqacmltsddrb5v66oijqdwyyhey7rgcpphepbylkaxcndymvky/304.png",
+  "animation_url": "https://ipfs-gw.stargaze-apis.com/ipfs/bafybeidfiqacmltsddrb5v66oijqdwyyhey7rgcpphepbylkaxcndymvky/304.html"
+}
