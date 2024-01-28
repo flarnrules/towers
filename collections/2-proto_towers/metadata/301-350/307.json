@@ -1,0 +1,74 @@
+{
+    "name": "Proto Tower 307",
+    "description": "This is a special prize for a big winner of one of the games embedded in the descriptions of Proto Towers nfts (⚔️🛡️🗡️).\n\n In this case it was Madcatattack who collected all 5 of Pajon's Penaptych (id #s 264-268). The game description was on Proto Tower 269. In the description I stated that I would create an animated version of those and send it to your wallet, but upon animating... I'm not so sure that looks super cool. I think the penaptych looks good as a cluster of images, so I'm going to instead table that and make the arrangement some time later. Check in with me on a status in a couple weeks!Hope you enjoy this monolith instead Madcatattack! ⬛⬜",
+    "attributes": [
+      {
+        "trait_type": "pixels",
+        "value": "64x64"
+      },
+      {
+        "trait_type": "dimensions",
+        "value": "768x768"
+      },
+      {
+        "trait_type": "color palette",
+        "value": "Grayscale"
+      },
+      {
+        "trait_type": "background pattern",
+        "value": "Sigil"
+      },
+      {
+        "trait_type": "time in minutes",
+        "value": 35
+      },
+      {
+        "trait_type": "recorded",
+        "value": "No"
+      },
+      {
+        "trait_type": "raster graphics editor",
+        "value": "Aseprite"
+      },
+      {
+        "trait_type": "drawing instrument",
+        "value": "Digital Pen, Huion Graphics Tablet"
+      },
+      {
+        "trait_type": "code snippet",
+        "value": "python3 bulk_resize.py"
+      },
+      {
+        "trait_type": "deployment type",
+        "value": "Special 6 - Pajon's Penaptych"
+      },
+      {
+        "trait_type": "collab artist",
+        "value": "n/a"
+      },
+      {
+        "trait_type": "collab collection",
+        "value": "n/a"
+      },
+      {
+        "trait_type": "file format",
+        "value": "Portable Network Graphic"
+      },
+      {
+        "trait_type": "time of deployment",
+        "value": "🏙️"
+      },
+      {
+        "trait_type": "number of frames",
+        "value": 1
+      },
+      {
+        "trait_type": "live stream",
+        "value": "No"
+      },
+      {
+        "trait_type": "vibe",
+        "value": "Monolith"
+      }
+    ]
+  }
