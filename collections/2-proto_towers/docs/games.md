@@ -50,4 +50,21 @@ if someone collects all 5 of Pajon's panaptych (264-268) I'll make an animated o
 
 1. @madcatattack1 - stars1chlpr5rzmk99ctx082ekeh4zscvjjeca0pm0e5
 
-### Special 7 - 
+
+### Special 7 - Create a proposal on Proto Towers DAO
+2 winners total
+
+1. create a proposal to vote on their favorite proto tower.
+- fluffhead created a proposal, BIG WINNER
+- couldnt figure out how to not have the vote gamed, but fluffhead still wins because he made the first proposal.
+
+2. owner of the winning tower based on votes
+- Voting is currently in progress. Poll terminates in 1 week.
+- entries are:
+    235 (fluffhead)
+    189 (jinxto)
+    247 (viter)
+    222 (osmocake)
+    200 (frogstar)
+    303 (benjamin)
+
