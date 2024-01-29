@@ -1,6 +1,6 @@
 {
-    "name": "Smoking 1",
-    "description": "🚬 in the land of SMO-KING, the towers are cigs 🚬",
+    "name": "Smokers 1",
+    "description": "🚬 here we can see some smokers in their natural habitat 🚬",
     "attributes": [
       {
         "trait_type": "pixels",
@@ -12,7 +12,7 @@
       },
       {
         "trait_type": "color palette",
-        "value": "Microsoft Paint"
+        "value": "DB32"
       },
       {
         "trait_type": "background pattern",
@@ -20,7 +20,7 @@
       },
       {
         "trait_type": "time in minutes",
-        "value": 57
+        "value": 49
       },
       {
         "trait_type": "recorded",
@@ -28,11 +28,11 @@
       },
       {
         "trait_type": "raster graphics editor",
-        "value": "Microsoft Paint"
+        "value": "Aseprite"
       },
       {
         "trait_type": "drawing instrument",
-        "value": "Mouse"
+        "value": "Huion Graphics Tablet"
       },
       {
         "trait_type": "code snippet",
@@ -68,7 +68,7 @@
       },
       {
         "trait_type": "vibe",
-        "value": "Smoking"
+        "value": "Smokers"
       }
     ]
   }
