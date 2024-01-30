@@ -2,7 +2,8 @@ import datetime
 
 # Constants for split percentages and memo
 STAKE_PERCENTAGE = 0.25
-LIQUID_PERCENTAGE = 0.25
+LIQUID_PERCENTAGE = 0.24
+SMOKERS_CLUB_PERCENTAGE = 0.01
 COLLABORATORS_PERCENTAGE = 0.50
 MEMO = "for collab 🏙️🌆"
 
@@ -11,7 +12,7 @@ contributions = {
     'Jinxto': 7,
     'Fluffhead': 2,
     'Ajk': 3,
-    'Randomkid': 1,
+    'Randomkid': 2,
     'Berny': 2,
     'Votor': 1,
     'Quasimosos': 2,
@@ -41,14 +42,16 @@ def calculate_royalties():
     # Calculations for splits
     stake_amount = liquid_contents * STAKE_PERCENTAGE
     liquid_amount = liquid_contents * LIQUID_PERCENTAGE
+    smokers_club_amount = liquid_contents * SMOKERS_CLUB_PERCENTAGE
     collaborators_amount = liquid_contents * COLLABORATORS_PERCENTAGE
 
     # Separator for formatting
     separator = "=" * 40
     print(f"\n{separator}\n{date_input} - wallet liquid contents = {liquid_contents} STARS")
-    print("Split - 25% stake, 25% liquid, 50% to collaborators")
+    print("Split - 25% stake, 24% liquid, 1% to smokers club, 50% to collaborators")
     print(f"25% x {liquid_contents} = {stake_amount} Staked")
-    print(f"25% x {liquid_contents} = {liquid_amount} Liquid")
+    print(f"24% x {liquid_contents} = {liquid_amount} Liquid")
+    print(f"1% x {liquid_contents} = {smokers_club_amount} To Smoker's Club")
     print(f"50% x {liquid_contents} = {collaborators_amount} Collaborators")
 
     print("\nBreakdown")
