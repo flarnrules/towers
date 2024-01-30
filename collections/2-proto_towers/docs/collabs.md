@@ -23,7 +23,7 @@
 22. Proto Tower 264-268 "Monkey Island Pentaptych" - by Pajon ✅
 23. Proto Tower 276 "Sk-Y TOWER" - by Reggie ✅
 24. Proto Tower 301 "The Tower on the River" - by Fluffhead
-25. BUG TOWER by Randomkid
+25. Proto Tower 311 "BugTower" - by Randomkid
 26. B&W Tower by Ajk
 27. 
 
