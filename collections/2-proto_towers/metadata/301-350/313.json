@@ -1,0 +1,79 @@
+{
+	"name": "BugTower",
+	"description": "Inspired by the 'Lighthouse' ProtoTower minting which allowed Stargaze to discover and correct a bug due to the attached poem's form (backline entries).\n\n This poem is called 404\n\nFrom proto-RAM to rhymes, the BugTower proceeds\nPop-up in inky tongue, the four-0-four disease\nOnce in a crypto realm, the weirdo malware sins\nHail to the proto-King, thou keep the gardens clean\nAll invaders, deceived\nAnd drained",
+
+	"attributes": [
+		{
+			"trait_type": "pixels",
+			"value": "96x96"
+		},
+		{
+			"trait_type": "dimensions",
+			"value": "768x768"
+		},
+		{
+			"trait_type": "color palette",
+			"value": "Random Kid"
+		},
+		{
+			"trait_type": "background pattern",
+			"value": "Acid Horizon"
+		},
+		{
+			"trait_type": "time in minutes",
+			"value": 185
+		},
+		{
+			"trait_type": "recorded",
+			"value": "No"
+		},
+		{
+			"trait_type": "raster graphics editor",
+			"value": "Aseprite"
+		},
+		{
+			"trait_type": "drawing instrument",
+			"value": "Mouse"
+		},
+		{
+			"trait_type": "code snippet",
+			"value": "800%"
+		},
+		{
+			"trait_type": "deployment type",
+			"value": "Collab"
+		},
+		{
+			"trait_type": "collab artist",
+			"value": "Randomkid"
+		},
+		{
+			"trait_type": "collab collection",
+			"value": "🪲"
+		},
+		{
+			"trait_type": "file format",
+			"value": "Graphics Interchange Format"
+		},
+		{
+			"trait_type": "time of deployment",
+			"value": "🏙️"
+		},
+		{
+			"trait_type": "number of frames",
+			"value": 80
+		},
+		{
+			"trait_type": "live stream",
+			"value": "No"
+		},
+		{
+			"trait_type": "vibe",
+			"value": "BugTower Nabuchodonosor"
+		},
+		{
+			"trait_type": "discovered a 🪲",
+			"value": "Maybe"
+		}
+	]
+}

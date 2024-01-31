@@ -12,7 +12,7 @@ contributions = {
     'Jinxto': 7,
     'Fluffhead': 2,
     'Ajk': 3,
-    'Randomkid': 2,
+    'Randomkid': 3,
     'Berny': 2,
     'Votor': 1,
     'Quasimosos': 2,
@@ -38,6 +38,7 @@ def calculate_royalties():
     liquid_contents = float(input("Enter the wallet liquid contents in STARS: "))
     
     total_contributions = sum(contributions.values())
+    
 
     # Calculations for splits
     stake_amount = liquid_contents * STAKE_PERCENTAGE
@@ -53,6 +54,8 @@ def calculate_royalties():
     print(f"24% x {liquid_contents} = {liquid_amount} Liquid")
     print(f"1% x {liquid_contents} = {smokers_club_amount} To Smoker's Club")
     print(f"50% x {liquid_contents} = {collaborators_amount} Collaborators")
+
+    print("\n\nTotal collaborations: {}",total_contributions)
 
     print("\nBreakdown")
     for collaborator, num_nfts in contributions.items():

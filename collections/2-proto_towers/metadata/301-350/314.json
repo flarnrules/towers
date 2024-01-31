@@ -1,0 +1,78 @@
+{
+  "name": "Proto Tower 314",
+  "description": "Air Traffic Control (📡): 'Flight 314, this is Tower Control. You are approaching through heavy cloud cover. Please adjust heading to 270 degrees for runway alignment.'\n\nFlight 314 (✈️): 'Tower Control, Flight 314 adjusting to 270 degrees. Visibility is near zero in these clouds.'\n\nAir Traffic Control (📡): 'Acknowledged, Flight 314. Maintain current altitude and speed. We have a clear radar lock on your position.'\n\nFlight 314 (✈️): 'Maintaining current altitude and speed. Good thing those radio towers were fixed last week, or we wouldn't be able to see a thing in these conditions!'\n\nAir Traffic Control (📡): 'Absolutely, Flight 314. The repairs were timely. You're on a steady approach path. We'll guide you in.'\n\nFlight 314 (✈️): 'Thanks, Tower. Relying on your guidance for a safe landing.'\n\nAir Traffic Control (📡): 'You're in good hands, Flight 314. Prepare for landing instructions. Runway lights are fully operational and waiting for your arrival.'",
+  "attributes": [
+    {
+      "trait_type": "pixels",
+      "value": "64x64"
+    },
+    {
+      "trait_type": "dimensions",
+      "value": "768x768"
+    },
+    {
+      "trait_type": "color palette",
+      "value": "⬛⬜🟥"
+    },
+    {
+      "trait_type": "background pattern",
+      "value": "Long Reflecting Cloud"
+    },
+    {
+      "trait_type": "time in minutes",
+      "value": 45
+    },
+    {
+      "trait_type": "recorded",
+      "value": "No"
+    },
+    {
+      "trait_type": "raster graphics editor",
+      "value": "Aseprite"
+    },
+    {
+      "trait_type": "drawing instrument",
+      "value": "Digital Pen, Huion Graphics Tablet"
+    },
+    {
+      "trait_type": "code snippet",
+      "value": "1200%"
+    },
+    {
+      "trait_type": "deployment type",
+      "value": "Trait Of The Week"
+    },
+    {
+      "trait_type": "collab artist",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "collab collection",
+      "value": "n/a"
+    },
+    {
+      "trait_type": "file format",
+      "value": "Graphics Interchange Format"
+    },
+    {
+      "trait_type": "time of deployment",
+      "value": "🌁"
+    },
+    {
+      "trait_type": "number of frames",
+      "value": 21
+    },
+    {
+      "trait_type": "live stream",
+      "value": "No"
+    },
+    {
+      "trait_type": "vibe",
+      "value": "Radio Towers ⬛⬜🟥"
+    },
+    {
+      "trait_type": "discovered a 🪲",
+      "value": "No"
+    }
+  ]
+}

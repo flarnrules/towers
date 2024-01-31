@@ -7,7 +7,7 @@
 6. Proto Tower 180 "Skyscraping Tower" - by Jinxto ✅
 7. Proto Tower 211 "Megazord" - assembled by Fluffhead ✅
 8. Proto Tower 216 "Mission Sun " - by Ajk ✅
-9. Proto Tower 217 "Arakeen" - by Randomkid
+9. Proto Tower 217 "Arakeen" - by Randomkid ✅
 10. Proto Tower 218 "Cliff 2 " - by Ajk ✅
 11. Proto Tower 222 "Wizard's Tower" - by Berny ✅
 12. Proto Tower 223 "Witch's Shack" - by Berny ✅
@@ -20,10 +20,11 @@
 19. Proto Tower 241 "Tower of Storms" - by Pixlgeist ✅
 20. Proto Tower 253 "Sia Tower" - by Sia ⏳
 21. Proto Tower 255 "Crystal Tower" - by Graphein ✅
-22. Proto Tower 264-268 "Monkey Island Pentaptych" - by Pajon ✅
-23. Proto Tower 276 "Sk-Y TOWER" - by Reggie ✅
-24. Proto Tower 301 "The Tower on the River" - by Fluffhead
-25. Proto Tower 311 "BugTower" - by Randomkid
+22. Proto Tower 258 "Lighthouse" - by Randomkid ✅
+23. Proto Tower 264-268 "Monkey Island Pentaptych" - by Pajon ✅
+24. Proto Tower 276 "Sk-Y TOWER" - by Reggie ✅
+25. Proto Tower 301 "The Tower on the River" - by Fluffhead
+26. Proto Tower 311 "BugTower" - by Randomkid ✅
 26. B&W Tower by Ajk
 27. 
 
@@ -42,6 +43,9 @@ stars1mta69chjr6fkryyn2ur7c847hgvz5uyx9tgymw - Reggie
 
 Collectors (1% of Royalties = .01 x .05 = .0005)
 stars1mlxynkqd9js8tkdnkk0e27lgz7x9lt866n5r44 - Smoker's Club (smokers.stars)
+
+Donations to DAO
+stars12jrc38pc09frc4v7fqdsrmwp6rlfmxxaswnqpsf24m6p7q3u6n6qua5yju
 
 ========================================
 17/1/2024 - wallet liquid contents = 3323.0 STARS
@@ -91,6 +95,35 @@ Reggie - 3.70% x 949.295 = 35.15907407407407
 Next split on 23/01/2024
 memo: for collab 🏙️🌆
 ========================================
+
+========================================
+30/01/2024 - wallet liquid contents = 807.0 STARS
+Split - 25% stake, 24% liquid, 1% to smokers club, 50% to collaborators
+25% x 807.0 = 201.75 Staked
+24% x 807.0 = 193.68 Liquid
+1% x 807.0 = 8.07 To Smoker's Club
+50% x 807.0 = 403.5 Collaborators
+
+Breakdown
+Jinxto - 24.14% x 403.5 = 97.39655172413794
+Fluffhead - 6.90% x 403.5 = 27.82758620689655
+Ajk - 10.34% x 403.5 = 41.741379310344826
+Randomkid - 10.34% x 403.5 = 41.741379310344826
+Berny - 6.90% x 403.5 = 27.82758620689655
+Votor - 3.45% x 403.5 = 13.913793103448276
+Quasimosos - 6.90% x 403.5 = 27.82758620689655
+Ijon - 20.69% x 403.5 = 83.48275862068965
+Pixlgeist - 3.45% x 403.5 = 13.913793103448276
+Sia - 0.00% x 403.5 = 0.0
+Graphein - 3.45% x 403.5 = 13.913793103448276
+Reggie - 3.45% x 403.5 = 13.913793103448276
+
+Next split on 30/01/2024
+memo: for collab 🏙️🌆
+
+
+
+
 
 [
   {
