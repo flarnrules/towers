@@ -18,9 +18,10 @@ contributions = {
     'Quasimosos': 2,
     'Ijon': 6,
     'Pixlgeist': 1,
-    'Sia': 0, #tentative apprentice, not holding proto tower
+    'Sia': 1,
     'Graphein': 1,
     'Reggie': 1,
+    'Frogstar': 2,
 
     # Add more collaborators here
 }
@@ -31,7 +32,7 @@ def calculate_next_tuesday(current_date):
     return next_tuesday.strftime("%d/%m/%Y")
 
 def calculate_royalties():
-    # Getting the date
+    # Getting the date (day/month/year)
     date_input = input("Enter the date (e.g., 1/9/2024): ")
     
     # Getting the wallet liquid contents
