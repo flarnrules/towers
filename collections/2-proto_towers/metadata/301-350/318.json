@@ -1,0 +1,74 @@
+{
+    "name": "Frogtower",
+    "description": "The King of all frogs taking a walk in the park at midnight.",
+    "attributes": [
+      {
+        "trait_type": "pixels",
+        "value": "64x64"
+      },
+      {
+        "trait_type": "dimensions",
+        "value": "768x768"
+      },
+      {
+        "trait_type": "color palette",
+        "value": "Green & Blue With A Bit Of Brown"
+      },
+      {
+        "trait_type": "background pattern",
+        "value": "Van Goghesk"
+      },
+      {
+        "trait_type": "time in minutes",
+        "value": 45
+      },
+      {
+        "trait_type": "recorded",
+        "value": "No"
+      },
+      {
+        "trait_type": "raster graphics editor",
+        "value": "www.pixilart.com"
+      },
+      {
+        "trait_type": "drawing instrument",
+        "value": "Laptop Pad"
+      },
+      {
+        "trait_type": "code snippet",
+        "value": "be wild, but try to be right"
+      },
+      {
+        "trait_type": "deployment type",
+        "value": "Collab"
+      },
+      {
+        "trait_type": "collab artist",
+        "value": "Frogstar"
+      },
+      {
+        "trait_type": "collab collection",
+        "value": "Bad Towers"
+      },
+      {
+        "trait_type": "file format",
+        "value": "Portable Network Graphic"
+      },
+      {
+        "trait_type": "time of deployment",
+        "value": "🏙️"
+      },
+      {
+        "trait_type": "number of frames",
+        "value": 1
+      },
+      {
+        "trait_type": "live stream",
+        "value": "No"
+      },
+      {
+        "trait_type": "vibe",
+        "value": "This Is Too Addicting"
+      }
+    ]
+  }
