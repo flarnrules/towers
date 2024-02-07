@@ -48,7 +48,7 @@ he really likes the desert monolith proto tower 59
 1 winner total
 if someone collects all 5 of Pajon's panaptych (264-268) I'll make an animated one and send it to that person. They gotta tweet proof @flarnrules1
 
-1. @madcatattack1 - stars1chlpr5rzmk99ctx082ekeh4zscvjjeca0pm0e5
+1. @madcatattack1 - stars1chlpr5rzmk99ctx082ekeh4zscvjjeca0pm0e5 ✅
 
 
 ### Special 7 - Create a proposal on Proto Towers DAO
@@ -57,6 +57,8 @@ if someone collects all 5 of Pajon's panaptych (264-268) I'll make an animated o
 1. create a proposal to vote on their favorite proto tower.
 - fluffhead created a proposal, BIG WINNER
 - couldnt figure out how to not have the vote gamed, but fluffhead still wins because he made the first proposal.
+- proto tower 324 ✅
+⚔️🛡️🗡️➡️🌆🌃🏙️
 
 2. owner of the winning tower based on votes
 - Voting is currently in progress. Poll terminates in 1 week.
@@ -66,5 +68,8 @@ if someone collects all 5 of Pajon's panaptych (264-268) I'll make an animated o
     247 (viter)
     222 (osmocake)
     200 (frogstar)
-    303 (benjamin)
+    303 (benjamin) <- winner
+    stars1a9zmhn5ycxtz6h0x3f50cy2tdcve335d03tttf
+    - proto tower 325 ✅
+
 

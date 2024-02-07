@@ -1,0 +1,83 @@
+{
+    "name": "Proto Tower 324",
+    "description": "This tower was created and awarded to the community member Fluffhead for creating the first proposal on Proto Towers DAO ⚔️🛡️🗡️. It follows similar themed neon and vibrant, highly saturated colors. I played around a bit with transparency and some some color design concepts, but overall I would say - don't forget to put your sunglasses on while viewing this piece!",
+    "attributes": [
+      {
+        "trait_type": "pixels",
+        "value": "32x32"
+      },
+      {
+        "trait_type": "dimensions",
+        "value": "768x768"
+      },
+      {
+        "trait_type": "color palette",
+        "value": "VGA 13h"
+      },
+      {
+        "trait_type": "background pattern",
+        "value": "Neon Gradient"
+      },
+      {
+        "trait_type": "time in minutes",
+        "value": 34
+      },
+      {
+        "trait_type": "recorded",
+        "value": "No"
+      },
+      {
+        "trait_type": "raster graphics editor",
+        "value": "Aseprite"
+      },
+      {
+        "trait_type": "drawing instrument",
+        "value": "Huion Graphics Tablet"
+      },
+      {
+        "trait_type": "code snippet",
+        "value": "python3 bulk_resize.py"
+      },
+      {
+        "trait_type": "deployment type",
+        "value": "Special 7 - Create a proposal on Proto Towers DAO"
+      },
+      {
+        "trait_type": "collab artist",
+        "value": "n/a"
+      },
+      {
+        "trait_type": "collab collection",
+        "value": "n/a"
+      },
+      {
+        "trait_type": "file format",
+        "value": "Portable Network Graphic"
+      },
+      {
+        "trait_type": "time of deployment",
+        "value": "🌃"
+      },
+      {
+        "trait_type": "number of frames",
+        "value": 1
+      },
+      {
+        "trait_type": "live stream",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "vibe",
+        "value": "Neon"
+      },
+      {
+        "trait_type": "discovered a 🪲",
+        "value": "No"
+      },
+      {
+        "trait_type": "viewers of livestream",
+        "value": "n/a"
+      }
+
+    ]
+  }

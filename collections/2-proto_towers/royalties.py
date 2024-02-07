@@ -22,6 +22,7 @@ contributions = {
     'Graphein': 1,
     'Reggie': 1,
     'Frogstar': 2,
+    'Ubr': 1,
 
     # Add more collaborators here
 }
@@ -56,7 +57,7 @@ def calculate_royalties():
     print(f"1% x {liquid_contents} = {smokers_club_amount} To Smoker's Club")
     print(f"50% x {liquid_contents} = {collaborators_amount} Collaborators")
 
-    print("\n\nTotal collaborations: {}",total_contributions)
+    print("\n\nTotal collaborations:",total_contributions)
 
     print("\nBreakdown")
     for collaborator, num_nfts in contributions.items():

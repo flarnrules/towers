@@ -21,14 +21,17 @@
 20. Proto Tower 253 "Sia Tower" - by Sia ✅
 21. Proto Tower 255 "Crystal Tower" - by Graphein ✅
 22. Proto Tower 258 "Lighthouse" - by Randomkid ✅
-23. Proto Tower 264-268 "Monkey Island Pentaptych" - by Pajon ✅
-24. Proto Tower 276 "Sk-Y TOWER" - by Reggie ✅
-25. Proto Tower 301 "The Tower on the River" - by Fluffhead ✅
-26. Proto Tower 311 "BugTower" - by Randomkid ✅
-27. Proto Tower 316 "Hightower" - by Frogstar ✅
-28. Proto Tower 318 "Frogtower" - by Frogstar
-. B&W Tower by Ajk
-. 
+23. - 27. Proto Tower 264-268 "Monkey Island Pentaptych" - by Pajon ✅
+28. Proto Tower 276 "Sk-Y TOWER" - by Reggie ✅
+29. Proto Tower 301 "The Tower on the River" - by Fluffhead ✅
+30. Proto Tower 311 "BugTower" - by Randomkid ✅
+31. Proto Tower 316 "Hightower" - by Frogstar ✅
+32. Proto Tower 318 "Frogtower" - by Frogstar ✅
+33. Proto Tower 321 "Blotter Tower" - by Ubr ✅
+34. Cat Tower by Frogstar
+35. Coyote Tower by Frogstar
+36. B&W Tower by Ajk
+37. 3D Tower / Repurposed Mario Tower by Fluffhead
 
 stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z - Jinxto
 stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad - Fluffhead
@@ -43,6 +46,7 @@ stars1zgm5an3z2mgg0k80eh64dmdaujk5jyp4ypcc9w - Sia (she/her)
 stars1sezunc9x6zwqldypxnn26r9mkqvvlr95fx9zsg - Graphein (she/her)
 stars1mta69chjr6fkryyn2ur7c847hgvz5uyx9tgymw - Reggie
 stars1c7l3lvqp53fdg4ux8yvemsf540s044ne29gwk4 - Frogstar
+stars1qttmfljc3qcerypthjtxw4a8675xcf9ht0a9tt - Ubr
 
 
 Collectors (1% of Royalties = .01 x .05 = .0005)

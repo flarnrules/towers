@@ -1,0 +1,78 @@
+{
+	"name": "Blotter Tower 1",
+	"description": "You shall know the truth, and the truth shall make you mad.",
+	"attributes": [
+		{
+			"trait_type": "pixels",
+			"value": "64x64"
+		},
+		{
+			"trait_type": "dimensions",
+			"value": "768x768"
+		},
+		{
+			"trait_type": "color palette",
+			"value": "Lysergic Acid Diethylamide"
+		},
+		{
+			"trait_type": "background pattern",
+			"value": "Night of Wonder"
+		},
+		{
+			"trait_type": "time in minutes",
+			"value": "60"
+		},
+		{
+			"trait_type": "recorded",
+			"value": "No"
+		},
+		{
+			"trait_type": "raster graphics editor",
+			"value": "Aseprite"
+		},
+		{
+			"trait_type": "drawing instrument",
+			"value": "Mouse"
+		},
+		{
+			"trait_type": "code snippet",
+			"value": "python3 bulk_resize.py"
+		},
+		{
+			"trait_type": "deployment type",
+			"value": "Collab"
+		},
+		{
+			"trait_type": "collab artist",
+			"value": "ubr"
+		},
+		{
+			"trait_type": "collab collection",
+			"value": "Blotter Paper"
+		},
+		{
+			"trait_type": "file format",
+			"value": "Portable Network Graphic"
+		},
+		{
+			"trait_type": "time of deployment",
+			"value": "🌆"
+		},
+		{
+			"trait_type": "number of frames",
+			"value": "1"
+		},
+		{
+			"trait_type": "live stream",
+			"value": "No"
+		},
+		{
+			"trait_type": "vibe",
+			"value": "100 μg"
+		},
+		{
+			"trait_type":"discovered a 🪲",
+			"value":"No"
+		}
+	]
+}
