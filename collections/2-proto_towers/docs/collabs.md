@@ -28,8 +28,8 @@
 31. Proto Tower 316 "Hightower" - by Frogstar ✅
 32. Proto Tower 318 "Frogtower" - by Frogstar ✅
 33. Proto Tower 321 "Blotter Tower" - by Ubr ✅
-34. Cat Tower by Frogstar
-35. Coyote Tower by Frogstar
+34. Proto Tower 326 "Cat Tower" by Frogstar
+35. Proto Tower 327 "Coyote Tower" by Frogstar
 36. B&W Tower by Ajk
 37. 3D Tower / Repurposed Mario Tower by Fluffhead
 
