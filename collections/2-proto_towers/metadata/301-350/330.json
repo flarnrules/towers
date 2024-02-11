@@ -1,0 +1,83 @@
+{
+    "name": "Proto Tower 330",
+    "description": "🀄🐲新年快乐🐲🀄",
+    "attributes": [
+      {
+        "trait_type": "pixels",
+        "value": "32x32"
+      },
+      {
+        "trait_type": "dimensions",
+        "value": "768x768"
+      },
+      {
+        "trait_type": "color palette",
+        "value": "CGAO High"
+      },
+      {
+        "trait_type": "background pattern",
+        "value": "Fireworks"
+      },
+      {
+        "trait_type": "time in minutes",
+        "value": 55
+      },
+      {
+        "trait_type": "recorded",
+        "value": "No"
+      },
+      {
+        "trait_type": "raster graphics editor",
+        "value": "Aseprite"
+      },
+      {
+        "trait_type": "drawing instrument",
+        "value": "Huion Graphics Tablet"
+      },
+      {
+        "trait_type": "code snippet",
+        "value": "2300%"
+      },
+      {
+        "trait_type": "deployment type",
+        "value": "1/1"
+      },
+      {
+        "trait_type": "collab artist",
+        "value": "n/a"
+      },
+      {
+        "trait_type": "collab collection",
+        "value": "n/a"
+      },
+      {
+        "trait_type": "file format",
+        "value": "Graphics Interchange Format"
+      },
+      {
+        "trait_type": "time of deployment",
+        "value": "🏙️"
+      },
+      {
+        "trait_type": "number of frames",
+        "value": 32
+      },
+      {
+        "trait_type": "live stream",
+        "value": "No"
+      },
+      {
+        "trait_type": "vibe",
+        "value": "Year of the 🐲"
+      },
+      {
+        "trait_type": "discovered a 🪲",
+        "value": "No"
+      },
+      {
+        "trait_type": "viewers of livestream",
+        "value": "n/a"
+      }
+
+    ]
+  }
