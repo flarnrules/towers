@@ -1,0 +1,83 @@
+{
+    "name": "Proto Tower 331",
+    "description": "A strange town in a strange land. 👾",
+    "attributes": [
+      {
+        "trait_type": "pixels",
+        "value": "32x32"
+      },
+      {
+        "trait_type": "dimensions",
+        "value": "768x768"
+      },
+      {
+        "trait_type": "color palette",
+        "value": "Pixel Studio Default"
+      },
+      {
+        "trait_type": "background pattern",
+        "value": "Dark Skies"
+      },
+      {
+        "trait_type": "time in minutes",
+        "value": 37
+      },
+      {
+        "trait_type": "recorded",
+        "value": "No"
+      },
+      {
+        "trait_type": "raster graphics editor",
+        "value": "Pixel Studio"
+      },
+      {
+        "trait_type": "drawing instrument",
+        "value": "Finger"
+      },
+      {
+        "trait_type": "code snippet",
+        "value": "python3 bulk_resize.py"
+      },
+      {
+        "trait_type": "deployment type",
+        "value": "1/1"
+      },
+      {
+        "trait_type": "collab artist",
+        "value": "n/a"
+      },
+      {
+        "trait_type": "collab collection",
+        "value": "n/a"
+      },
+      {
+        "trait_type": "file format",
+        "value": "Portable Network Graphic"
+      },
+      {
+        "trait_type": "time of deployment",
+        "value": "🌃"
+      },
+      {
+        "trait_type": "number of frames",
+        "value": 1
+      },
+      {
+        "trait_type": "live stream",
+        "value": "No"
+      },
+      {
+        "trait_type": "vibe",
+        "value": "👾"
+      },
+      {
+        "trait_type": "discovered a 🪲",
+        "value": "No"
+      },
+      {
+        "trait_type": "viewers of livestream",
+        "value": "n/a"
+      }
+
+    ]
+  }
