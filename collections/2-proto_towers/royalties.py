@@ -21,7 +21,7 @@ contributions = {
     'Sia': 1,
     'Graphein': 1,
     'Reggie': 1,
-    'Frogstar': 4,
+    'Frogstar': 5,
     'Ubr': 1,
 
     # Add more collaborators here
