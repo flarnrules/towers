@@ -19,6 +19,7 @@ except ValueError:
     print("Please enter valid numbers for bids and sizes.")
     exit()
 
+
 # determine formula based on inputs
 def calculate_price(best_offer, floor_price, width, height, is_animation):
     if width == 8 and height == 8:
@@ -31,6 +32,7 @@ def calculate_price(best_offer, floor_price, width, height, is_animation):
         return floor_price
     elif width == 128 and height == 128 or is_animation:
         id_number = ID_NUMBER
+        print("this is an auction")
         return id_number + 10
     else:
         print("Invalid size. No pricing rule matched.")

@@ -1,0 +1,82 @@
+{
+	"name": "Proto Tower 336",
+	"description": "This was another livestream, which I love doing even though my internet has been kind of spotty recently on my sort of 'art computer' so I'll need to investigate that. I should perform some maintenance on my set up to make sure that everything is running nicely. I should also probably run a hardline to my rig instead of using wifi, I think that would be a lot better experience for livestreams. \n\nAnyways, this drawing is not my best, but I definitely had fun drawing it and I think I spent some time drawing an actual block in 3 dimensional space and tried to actually use perspective rules rather than just 'going with what i like'. I find that my drawings are actually less convincing when I'm *really trying* to use perspective, but that probably is only true for pieces where I don't draw any vanising points, horizon line, or guidelines. \n\nWhen I use those tools I tend to have better perspective. But I personally think that I excel more in the sort of 'flat on' view approach. Anyways, I'm just trying to explain away a somewhat poor drawing, when I truly did enjoy drawing it... we shouldn't be ashamed of our drawings.🖼️",
+	"attributes": [
+		{
+			"trait_type": "pixels",
+			"value": "128x128"
+		},
+		{
+			"trait_type": "dimensions",
+			"value": "768x768"
+		},
+		{
+			"trait_type": "color palette",
+			"value": "AAP-Splendor128"
+		},
+		{
+			"trait_type": "background pattern",
+			"value": "Expressive Minty Green"
+		},
+		{
+			"trait_type": "time in minutes",
+			"value": 65
+		},
+		{
+			"trait_type": "recorded",
+			"value": "No"
+		},
+		{
+			"trait_type": "raster graphics editor",
+			"value": "Aseprite"
+		},
+		{
+			"trait_type": "drawing instrument",
+			"value": "Houion Graphics Tablet"
+		},
+		{
+			"trait_type": "code snippet",
+			"value": "python3 bulk_resize.py"
+		},
+		{
+			"trait_type": "deployment type",
+			"value": "1/1"
+		},
+		{
+			"trait_type": "collab artist",
+			"value": "n/a"
+		},
+		{
+			"trait_type": "collab collection",
+			"value": "n/a"
+		},
+		{
+			"trait_type": "file format",
+			"value": "Portable Network Graphic"
+		},
+		{
+			"trait_type": "time of deployment",
+			"value": "🌃"
+		},
+		{
+			"trait_type": "number of frames",
+			"value": 1
+		},
+		{
+			"trait_type": "live stream",
+			"value": "Yes"
+		},
+		{
+			"trait_type": "vibe",
+			"value": "Expressionist"
+		},
+		{
+			"trait_type": "discovered a 🪲",
+			"value": "No"
+		},
+		{
+			"trait_type": "viewers of livestream",
+			"value": "Ubr, Frogstar"
+		}
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"name": "Proto Castle",
+	"description": "In the realm of dreams, Proto Castle stands,\nA fortress born from creative hands.\nIts towers whisper tales untold,\nIn every brick, a story to unfold. \n\nSunset hues kiss the edges of the tower,\nLight weaves through secret bowers.\nA canvas of dreams, where echoes sing.\n\nA fusion of past in pixel grace,\nTime's dance embodied in her flag.\nMajestic arches, ancient stones,\nStanding for years, a kingdom strong.",
+	"attributes": [
+		{
+			"trait_type": "pixels",
+			"value": "89x89"
+		},
+		{
+			"trait_type": "dimensions",
+			"value": "1780x1780"
+		},
+		{
+			"trait_type": "color palette",
+			"value": "Pantone Color Chart"
+		},
+		{
+			"trait_type": "background pattern",
+			"value": "Dithering"
+		},
+		{
+			"trait_type": "time in minutes",
+			"value": 260
+		},
+		{
+			"trait_type": "recorded",
+			"value": "No"
+		},
+		{
+			"trait_type": "raster graphics editor",
+			"value": "Adobe Photoshop"
+		},
+		{
+			"trait_type": "drawing instrument",
+			"value": "Mouse"
+		},
+		{
+			"trait_type": "code snippet",
+			"value": "what even is a JSON?"
+		},
+		{
+			"trait_type": "deployment type",
+			"value": "Collab"
+		},
+		{
+			"trait_type": "collab artist",
+			"value": "Pixel Dreamz"
+		},
+		{
+			"trait_type": "collab collection",
+			"value": "Bits of Pixel Magic"
+		},
+		{
+			"trait_type": "file format",
+			"value": "Graphics Interchange Format"
+		},
+		{
+			"trait_type": "time of deployment",
+			"value": "🏙️"
+		},
+		{
+			"trait_type": "number of frames",
+			"value": 3
+		},
+		{
+			"trait_type": "live stream",
+			"value": "No"
+		},
+		{
+			"trait_type": "vibe",
+			"value": "Castle"
+		}
+	]
+}
