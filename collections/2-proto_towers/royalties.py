@@ -23,6 +23,7 @@ contributions = {
     'Reggie': 1,
     'Frogstar': 5,
     'Ubr': 1,
+    'Sage': 1,
 
     # Add more collaborators here
 }

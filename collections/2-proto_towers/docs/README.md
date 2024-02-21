@@ -20,6 +20,11 @@ This is an exercise in learning how to develop little ways to automate the borin
 And just... get right into the interesting stuff.
 But sometimes *building* the tools to get there is more interesting than the origin *or* destination.
 
+The contract addresses for the collection:
+SG721: stars120pue6syyajg6wtj0339qa42a279xaj8km889lgx2lvw325leevs2s79h2
+Minter: stars1sea7asx204m0qwvy09vr6un84w0mu3kwaydcq9r404d2gmwp9spq584xxp
+
+
 ########################
 # DIRECTORY STRUCTURE ##
 ########################
