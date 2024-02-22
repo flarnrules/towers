@@ -31,7 +31,8 @@
 34. Proto Tower 326 "Cat Tower" by Frogstar ✅
 35. Proto Tower 327 "Coyote Tower" by Frogstar ✅
 36. Proto Tower 334 "The circle of a tower" by Frogstar ✅
-37. Proto Tower 335 "Proto Castle" by Sage
+37. Proto Tower 335 "Proto Castle" by Sage ✅
+37. Sandworm tower by Frogstar
 36. B&W Tower by Ajk
 37. 3D Tower / Repurposed Mario Tower by Fluffhead
 
@@ -53,11 +54,49 @@ stars18a9canxqrs9afxj68gcwvlkq2vzm58vjcuaarc - sage
 
 
 
-Collectors (1% of Royalties = .01 x .05 = .0005)
+??? Collectors (1% of Royalties = .01 x .05 = .0005) ???
 stars1mlxynkqd9js8tkdnkk0e27lgz7x9lt866n5r44 - Smoker's Club (smokers.stars)
 
 Donations to DAO
 stars12jrc38pc09frc4v7fqdsrmwp6rlfmxxaswnqpsf24m6p7q3u6n6qua5yju
+
+
+
+========================================
+20/2/2024 - wallet liquid contents = 862.0 STARS
+Split - 25% stake, 24% liquid, 1% to smokers club, 50% to collaborators
+25% x 862.0 = 215.5 Staked
+24% x 862.0 = 206.88 Liquid
+1% x 862.0 = 8.620000000000001 To Smoker's Club
+50% x 862.0 = 431.0 Collaborators
+
+
+Total collaborations: 37
+
+Breakdown
+Jinxto - 18.92% x 431.0 = 81.54054054054055
+Fluffhead - 5.41% x 431.0 = 23.2972972972973
+Ajk - 8.11% x 431.0 = 34.94594594594595
+Randomkid - 8.11% x 431.0 = 34.94594594594595
+Berny - 5.41% x 431.0 = 23.2972972972973
+Votor - 2.70% x 431.0 = 11.64864864864865
+Quasimosos - 5.41% x 431.0 = 23.2972972972973
+Ijon - 16.22% x 431.0 = 69.8918918918919
+Pixlgeist - 2.70% x 431.0 = 11.64864864864865
+Sia - 2.70% x 431.0 = 11.64864864864865
+Graphein - 2.70% x 431.0 = 11.64864864864865
+Reggie - 2.70% x 431.0 = 11.64864864864865
+Frogstar - 13.51% x 431.0 = 58.24324324324325
+Ubr - 2.70% x 431.0 = 11.64864864864865
+Sage - 2.70% x 431.0 = 11.64864864864865
+
+Next split on 20/02/2024
+memo: for collab 🏙️🌆
+========================================
+
+
+
+
 
 ========================================
 17/1/2024 - wallet liquid contents = 3323.0 STARS
@@ -134,37 +173,7 @@ Next split on 30/01/2024
 memo: for collab 🏙️🌆
 
 
-========================================
-20/2/2024 - wallet liquid contents = 862.0 STARS
-Split - 25% stake, 24% liquid, 1% to smokers club, 50% to collaborators
-25% x 862.0 = 215.5 Staked
-24% x 862.0 = 206.88 Liquid
-1% x 862.0 = 8.620000000000001 To Smoker's Club
-50% x 862.0 = 431.0 Collaborators
 
-
-Total collaborations: 37
-
-Breakdown
-Jinxto - 18.92% x 431.0 = 81.54054054054055
-Fluffhead - 5.41% x 431.0 = 23.2972972972973
-Ajk - 8.11% x 431.0 = 34.94594594594595
-Randomkid - 8.11% x 431.0 = 34.94594594594595
-Berny - 5.41% x 431.0 = 23.2972972972973
-Votor - 2.70% x 431.0 = 11.64864864864865
-Quasimosos - 5.41% x 431.0 = 23.2972972972973
-Ijon - 16.22% x 431.0 = 69.8918918918919
-Pixlgeist - 2.70% x 431.0 = 11.64864864864865
-Sia - 2.70% x 431.0 = 11.64864864864865
-Graphein - 2.70% x 431.0 = 11.64864864864865
-Reggie - 2.70% x 431.0 = 11.64864864864865
-Frogstar - 13.51% x 431.0 = 58.24324324324325
-Ubr - 2.70% x 431.0 = 11.64864864864865
-Sage - 2.70% x 431.0 = 11.64864864864865
-
-Next split on 20/02/2024
-memo: for collab 🏙️🌆
-========================================
 
 
 [

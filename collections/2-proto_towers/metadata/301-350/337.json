@@ -1,0 +1,82 @@
+{
+	"name": "Proto Tower 337",
+	"description": "This is a frog that was part of an early roll ~ basically a prototype frog ~ with some towers in the background. A 'roll' is when I run the python script I wrote called 'generate_nfts.py' and then all of the layers and rarities are calculated and all of the nfts that aren't 1/1s are generated. I'm finding as we get closer to mint date, and I have to thow out 100s of generated pieces of art... the better the collection is getting the more it pains me to throw them out. So I'm going to save some, especially ones with towers in the background, to be minted as proto towers. I'm thinking of saving some more for possibly a 'rejects' collection that would involve an airdrop component for holders of frogs, and then the mint price would be like... obscenely high. This of course would only be done if the community enjoys frogs as much as I do 🐸",
+	"attributes": [
+		{
+			"trait_type": "pixels",
+			"value": "128x128"
+		},
+		{
+			"trait_type": "dimensions",
+			"value": "1024x1024"
+		},
+		{
+			"trait_type": "color palette",
+			"value": "Frogs"
+		},
+		{
+			"trait_type": "background pattern",
+			"value": "Proto Towers"
+		},
+		{
+			"trait_type": "time in minutes",
+			"value": 0.001
+		},
+		{
+			"trait_type": "recorded",
+			"value": "No"
+		},
+		{
+			"trait_type": "raster graphics editor",
+			"value": "Aseprite"
+		},
+		{
+			"trait_type": "drawing instrument",
+			"value": "Python"
+		},
+		{
+			"trait_type": "code snippet",
+			"value": "python3 generate_nfts2.py"
+		},
+		{
+			"trait_type": "deployment type",
+			"value": "Generated"
+		},
+		{
+			"trait_type": "collab artist",
+			"value": "Flarnrules"
+		},
+		{
+			"trait_type": "collab collection",
+			"value": "Frogs"
+		},
+		{
+			"trait_type": "file format",
+			"value": "Portable Network Graphic"
+		},
+		{
+			"trait_type": "time of deployment",
+			"value": "🌃"
+		},
+		{
+			"trait_type": "number of frames",
+			"value": 1
+		},
+		{
+			"trait_type": "live stream",
+			"value": "No"
+		},
+		{
+			"trait_type": "vibe",
+			"value": "Frogs"
+		},
+		{
+			"trait_type": "discovered a 🪲",
+			"value": "No"
+		},
+		{
+			"trait_type": "viewers of livestream",
+			"value": "n/a"
+		}
+	]
+}
