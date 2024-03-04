@@ -4,7 +4,7 @@ def text_to_binary_block(text):
     return binary_result
 
 # Example usage
-text = "total"
+text = "total car monkey apple choadz"
 binary_text = text_to_binary_block(text)
 print(f"Original text: {text}")
 print("Binary representation (each character on a new line):")

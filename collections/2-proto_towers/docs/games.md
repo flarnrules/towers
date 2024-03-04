@@ -73,3 +73,9 @@ if someone collects all 5 of Pajon's panaptych (264-268) I'll make an animated o
     - proto tower 325 ✅
 
 
+### Special 8 - link your frog
+4 winners
+1. 341 - fluffhead
+2. 342 - jinxto
+3. 343 - homstead
+4. 345 - djlederle
