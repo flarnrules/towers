@@ -24,7 +24,7 @@ Smoker  ~ the proto tower is smoking a cigarette
 Being Smoked ~ the proto tower is actually in a giant person's mouth being smoked
 
 1. Series 1:
-    - Smoking
+    - Smoking 
     - Smoker
     - Being Smoked
 

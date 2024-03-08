@@ -75,7 +75,7 @@ if someone collects all 5 of Pajon's panaptych (264-268) I'll make an animated o
 
 ### Special 8 - link your frog
 4 winners
-1. 341 - fluffhead
-2. 342 - jinxto
-3. 343 - homstead
-4. 345 - djlederle
+1. 341 - fluffhead stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad
+2. 342 - jinxto stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z
+3. 343 - homestead stars1jzt962czzt3ruwsapec9fzmrm7kcj442vjk36c
+4. 345 - djlederle stars1xk9dsqx5wz44c58e2m5qes2xdgvsc5xg63pdh3
