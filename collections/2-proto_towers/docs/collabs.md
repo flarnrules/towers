@@ -32,25 +32,29 @@
 35. Proto Tower 327 "Coyote Tower" by Frogstar ✅
 36. Proto Tower 334 "The circle of a tower" by Frogstar ✅
 37. Proto Tower 335 "Proto Castle" by Sage ✅
+38. Brasco
+39. Blue
 37. Sandworm tower by Frogstar
 36. B&W Tower by Ajk
 37. 3D Tower / Repurposed Mario Tower by Fluffhead
 
-stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z - Jinxto
-stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad - Fluffhead
-stars13nyn5v2mxv8cs6nj0khrxy9wkmw7ry0cuzrvg3 - Ajk
-stars1apx87m4378vpnncglx8m6gklafhtnjhhr96027 - Randomkid
-stars1d74f6c7rgyyym57530rc2tt88fnl6wpdcpz6ta - Berny
-stars1neqprx4sd0xrs4snn2q9ccchg6ksva3p0vxcfl - Votor
-stars18hj0dztsqyarjvfa30d64csj3ms06er3a8cjg3 - Quasimosos
-stars1y298nv7exjug2jfj9z06f9n9qe9f9nmzx9dzge - Pajon (married couple?)
-stars1xdw60n3m2hve7rhyujxv8pyzju7uzk8fat0wv0 - Pixlgeist
-stars1zgm5an3z2mgg0k80eh64dmdaujk5jyp4ypcc9w - Sia (she/her)
-stars1sezunc9x6zwqldypxnn26r9mkqvvlr95fx9zsg - Graphein (she/her)
-stars1mta69chjr6fkryyn2ur7c847hgvz5uyx9tgymw - Reggie
-stars1c7l3lvqp53fdg4ux8yvemsf540s044ne29gwk4 - Frogstar
-stars1qttmfljc3qcerypthjtxw4a8675xcf9ht0a9tt - Ubr
-stars18a9canxqrs9afxj68gcwvlkq2vzm58vjcuaarc - sage
+1. stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z - Jinxto
+2. stars1algjxvnhf9rk8hxmjjc29saae848adhl32pnad - Fluffhead
+3. stars13nyn5v2mxv8cs6nj0khrxy9wkmw7ry0cuzrvg3 - Ajk
+4. stars1apx87m4378vpnncglx8m6gklafhtnjhhr96027 - Randomkid
+5. stars1d74f6c7rgyyym57530rc2tt88fnl6wpdcpz6ta - Berny
+6. stars1neqprx4sd0xrs4snn2q9ccchg6ksva3p0vxcfl - Votor
+7. stars18hj0dztsqyarjvfa30d64csj3ms06er3a8cjg3 - Quasimosos
+8. stars1y298nv7exjug2jfj9z06f9n9qe9f9nmzx9dzge - Pajon (married couple?)
+9. stars1xdw60n3m2hve7rhyujxv8pyzju7uzk8fat0wv0 - Pixlgeist
+10. stars1zgm5an3z2mgg0k80eh64dmdaujk5jyp4ypcc9w - Sia (she/her)
+11. stars1sezunc9x6zwqldypxnn26r9mkqvvlr95fx9zsg - Graphein (she/her)
+12. stars1mta69chjr6fkryyn2ur7c847hgvz5uyx9tgymw - Reggie
+13. stars1c7l3lvqp53fdg4ux8yvemsf540s044ne29gwk4 - Frogstar
+14. stars1qttmfljc3qcerypthjtxw4a8675xcf9ht0a9tt - Ubr
+15. stars18a9canxqrs9afxj68gcwvlkq2vzm58vjcuaarc - sage
+16. Brasco
+17. Blue
 
 
 

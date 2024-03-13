@@ -16,3 +16,7 @@
 ### upscale calculations for 1024x1024
 32x32 => 3200%
 128x128 => 800%
+
+### convert to a twitter banner ~ 1,500x500
+32x32 => 96x32 => 15.625
+64x64 => 192x64 => 7.8125

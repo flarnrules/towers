@@ -1,4 +1,4 @@
-
+# calculates the panel size overlay for ASTEROID_TOWERS
 
 new_canvas_grid_x = 5
 current_canvas_x = 768
