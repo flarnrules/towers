@@ -25,3 +25,7 @@ I can see this process evolving over time, but for now this is fun.
 For dividing grid patterns, the panel sizes can be calculated as follows:
 size of image is normally 768x768
 So if I wanted it to be 2 by 2 = we divide 768 by 2 to get
+
+### GRID SETTINGS
+FOR 768X768
+12x12 = 64 pixel grid size

@@ -25,6 +25,8 @@ contributions = {
     'Ubr': 1,
     'Sage': 1,
     'Brasco': 1,
+    'Blue': 1,
+    'Sebi': 3,
     
 
     # Add more collaborators here

@@ -13,6 +13,9 @@
 320x320 => 240%
 640x640 => 120%
 
+### upscale calculations for 1024x1024 dimensions
+64x64 => 1600%
+
 ### upscale calculations for 1024x1024
 32x32 => 3200%
 128x128 => 800%
