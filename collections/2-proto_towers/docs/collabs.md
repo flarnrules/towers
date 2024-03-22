@@ -32,8 +32,11 @@
 35. Proto Tower 327 "Coyote Tower" by Frogstar ✅
 36. Proto Tower 334 "The circle of a tower" by Frogstar ✅
 37. Proto Tower 335 "Proto Castle" by Sage ✅
-38. Brasco
-39. Blue
+38. Proto Tower 350 "Freder's Night Walk" by Brasco ✅
+39. Proto Tower 352 "The Tower" by Blue ✅
+40. Proto Tower 355 "Kong's Tower" by Sebi
+41. Proto Tower 356 "Rapunzel's Tower" by Sebi
+42. Proto Tower 357 "Sauron's Tower" by Sebi
 37. Sandworm tower by Frogstar
 36. B&W Tower by Ajk
 37. 3D Tower / Repurposed Mario Tower by Fluffhead
@@ -53,8 +56,9 @@
 13. stars1c7l3lvqp53fdg4ux8yvemsf540s044ne29gwk4 - Frogstar
 14. stars1qttmfljc3qcerypthjtxw4a8675xcf9ht0a9tt - Ubr
 15. stars18a9canxqrs9afxj68gcwvlkq2vzm58vjcuaarc - sage
-16. Brasco
-17. Blue
+16. stars1xuwl7x8htyl26t7pe3l0x6auj3j9jwd2k26qx5 - Brasco
+17. stars1s475d4waxa9gzhg72amdk64trlw5psddkpr84u - Blue
+18. Sebi
 
 
 

@@ -1,5 +1,5 @@
 # proto towers pricing model
-# version 0.02
+# version 0.03
 
 best_offer_input = input("Best offer: ")
 floor_price_input = input("Floor price: ")
@@ -21,7 +21,7 @@ except ValueError:
 # determine formula based on inputs
 def calculate_price(best_offer, floor_price, width, height, is_animation, pride_factor):
     # Calculate the base price as a starting point - using floor price or best offer as base depending on context
-    base_price = best_offer  # Starting with best offer as the base for further calculations
+    base_price = (best_offer + floor_price) / 2  # Starting with best offer as the base for further calculations
 
     # Adjust size multipliers to ensure larger canvases are priced higher
     size_multiplier = 1  # Start with 1 for no change

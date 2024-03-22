@@ -24,6 +24,8 @@ contributions = {
     'Frogstar': 5,
     'Ubr': 1,
     'Sage': 1,
+    'Brasco': 1,
+    
 
     # Add more collaborators here
 }

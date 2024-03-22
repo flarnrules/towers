@@ -1,0 +1,82 @@
+{
+	"name": "The Tower",
+	"description": "This first non-square proto tower is also Blue’s first attempt at creating a pixel art piece, or releasing an NFT at that. It’s the pixelated version of a hand-drawn tarot card I made long ago. Back then I was a fresh graduate wanting to learn tarot for stress relief and self-discovery, but had no money to buy an authentic tarot deck. So I drew one myself with a golden paint marker and black paper.",
+	"attributes": [
+		{
+			"trait_type": "pixels",
+			"value": "25x40"
+		},
+		{
+			"trait_type": "dimensions",
+			"value": "480x768"
+		},
+		{
+			"trait_type": "color palette",
+			"value": "🟨⬛"
+		},
+		{
+			"trait_type": "background pattern",
+			"value": "Pitch black sky"
+		},
+		{
+			"trait_type": "time in minutes",
+			"value": 373
+		},
+		{
+			"trait_type": "recorded",
+			"value": "No"
+		},
+		{
+			"trait_type": "raster graphics editor",
+			"value": "Procreate, Adobe Photoshop"
+		},
+		{
+			"trait_type": "drawing instrument",
+			"value": "iPad, Apple Pencil"
+		},
+		{
+			"trait_type": "code snippet",
+			"value": "I'm sorry, what?"
+		},
+		{
+			"trait_type": "deployment type",
+			"value": "Collab"
+		},
+		{
+			"trait_type": "collab artist",
+			"value": "Blue"
+		},
+		{
+			"trait_type": "collab collection",
+			"value": "@anartsyBlue"
+		},
+		{
+			"trait_type": "file format",
+			"value": "Graphics Interchange Format"
+		},
+		{
+			"trait_type": "time of deployment",
+			"value": "🏙️"
+		},
+		{
+			"trait_type": "number of frames",
+			"value": 25
+		},
+		{
+			"trait_type": "live stream",
+			"value": "No"
+		},
+		{
+			"trait_type": "vibe",
+			"value": "Minimalist"
+		},
+		{
+			"trait_type": "discovered a 🪲",
+			"value": "No"
+		},
+		{
+			"trait_type": "viewers of livestream",
+			"value": "n/a"
+		}
+	]
+}

@@ -1,0 +1,82 @@
+{
+	"name": "Blotter Tower 2",
+	"description": "This proto tower was created as a reward for a little quiz about Brasco's Metropolis themed collaboration for Proto Tower community member Ubr. He requested a second Blotter Tower. This one was fun to draw! Congrats on your big win, Ubr. ⚔️🛡️🗡️",
+	"attributes": [
+		{
+			"trait_type": "pixels",
+			"value": "32x32"
+		},
+		{
+			"trait_type": "dimensions",
+			"value": "768x768"
+		},
+		{
+			"trait_type": "color palette",
+			"value": "Atri 2600 NTSC"
+		},
+		{
+			"trait_type": "background pattern",
+			"value": "Blotter Paper"
+		},
+		{
+			"trait_type": "time in minutes",
+			"value": 47
+		},
+		{
+			"trait_type": "recorded",
+			"value": "No"
+		},
+		{
+			"trait_type": "raster graphics editor",
+			"value": "Aseprite"
+		},
+		{
+			"trait_type": "drawing instrument",
+			"value": "Huoin Graphics Tablet"
+		},
+		{
+			"trait_type": "code snippet",
+			"value": "python3 bulk_resize.py"
+		},
+		{
+			"trait_type": "deployment type",
+			"value": "⚔️🛡️🗡️"
+		},
+		{
+			"trait_type": "collab artist",
+			"value": "n/a"
+		},
+		{
+			"trait_type": "collab collection",
+			"value": "Blotter Paper"
+		},
+		{
+			"trait_type": "file format",
+			"value": "Portable Network Graphic"
+		},
+		{
+			"trait_type": "time of deployment",
+			"value": "🌃"
+		},
+		{
+			"trait_type": "number of frames",
+			"value": 1
+		},
+		{
+			"trait_type": "live stream",
+			"value": "No"
+		},
+		{
+			"trait_type": "vibe",
+			"value": "125 μg"
+		},
+		{
+			"trait_type": "discovered a 🪲",
+			"value": "No"
+		},
+		{
+			"trait_type": "viewers of livestream",
+			"value": "n/a"
+		}
+	]
+}
