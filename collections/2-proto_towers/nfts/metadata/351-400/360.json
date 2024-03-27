@@ -1,0 +1,86 @@
+{
+	"name": "Proto Tower 360",
+	"description": "Downloaded Aseprite onto my laptop, because it's technically a game available through Steam... which is crazy. Anyways, had a lot of fun animating these snowflakes. If you are wondering why the background pattern isn't 'Snowflakes', it's because the snowflakes are in the foreground! Also, there's an alternative version of this piece that didn't make the cut, and I'll send the image to the owner if they want it.",
+	"attributes": [
+		{
+			"trait_type": "pixels",
+			"value": "64x64"
+		},
+		{
+			"trait_type": "dimensions",
+			"value": "768x768"
+		},
+		{
+			"trait_type": "color palette",
+			"value": "DB32+"
+		},
+		{
+			"trait_type": "background pattern",
+			"value": "White"
+		},
+		{
+			"trait_type": "time in minutes",
+			"value": 145
+		},
+		{
+			"trait_type": "recorded",
+			"value": "No"
+		},
+		{
+			"trait_type": "raster graphics editor",
+			"value": "Aseprite"
+		},
+		{
+			"trait_type": "drawing instrument",
+			"value": "Houion Graphics Tablet"
+		},
+		{
+			"trait_type": "code snippet",
+			"value": "1200%"
+		},
+		{
+			"trait_type": "deployment type",
+			"value": "1/1"
+		},
+		{
+			"trait_type": "collab artist",
+			"value": "n/a"
+		},
+		{
+			"trait_type": "collab collection",
+			"value": "n/a"
+		},
+		{
+			"trait_type": "file format",
+			"value": "Graphics Interchange Format"
+		},
+		{
+			"trait_type": "time of deployment",
+			"value": "🌃"
+		},
+		{
+			"trait_type": "number of frames",
+			"value": 47
+		},
+		{
+			"trait_type": "live stream",
+			"value": "No"
+		},
+		{
+			"trait_type": "vibe",
+			"value": "Whiteout"
+		},
+		{
+			"trait_type": "discovered a 🪲",
+			"value": "No"
+		},
+		{
+			"trait_type": "viewers of livestream",
+			"value": "n/a"
+		},
+		{
+			"trait_type": "pricing model",
+			"value": "Version 0.04"
+		}
+	]
+}

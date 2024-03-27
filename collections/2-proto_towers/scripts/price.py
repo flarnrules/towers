@@ -1,5 +1,5 @@
 # proto towers pricing model
-# version 0.03
+# version 0.04
 
 best_offer_input = input("Best offer: ")
 floor_price_input = input("Floor price: ")
@@ -26,18 +26,18 @@ def calculate_price(best_offer, floor_price, width, height, is_animation, pride_
     # Adjust size multipliers to ensure larger canvases are priced higher
     size_multiplier = 1  # Start with 1 for no change
     if width == 8 and height == 8:
-        size_multiplier = 1.05  # Increase by 5%
+        size_multiplier = 1.05
     elif width == 16 and height == 16:
-        size_multiplier = 1.10  # Increase by 10%
+        size_multiplier = 1.10
     elif width == 32 and height == 32:
-        size_multiplier = 1.20  # Increase by 20%
+        size_multiplier = 1.20
     elif width == 64 and height == 64:
-        size_multiplier = 1.30  # Increase by 30%
+        size_multiplier = 1.30
     elif width == 128 and height == 128:
-        size_multiplier = 1.40  # Increase by 40%
+        size_multiplier = 1.40
     
     # Animation bonus applies as an additional percentage
-    animation_bonus = 1.10 if is_animation else 1  # 10% increase for animations
+    animation_bonus = 1.25 if is_animation else 1  # 25% increase for animations
     
     # Pride factor adjustment
     pride_multiplier = 1  # Default to 1 for no change
