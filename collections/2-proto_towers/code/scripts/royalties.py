@@ -1,3 +1,4 @@
+import subprocess
 import json
 import os
 import datetime
@@ -32,8 +33,27 @@ contributions = {
     'Blue': 1,
     'Sebi': 3,
     'Brady': 1,
+    'Peps': 1
     # Add more collaborators here
 }
+
+def get_wallet_balance():
+    command = ["starsd", "query", "bank", "balances", "stars1hyhmssn4j6fxlvq58ctlpxwg5az7shg7zc77rp"]
+    result = subprocess.run(command, capture_output=True, text=True)
+    raw_output = result.stdout
+
+
+    # Parse the raw output to extract the amount
+    for line in raw_output.split('\n'):
+        if 'amount:' in line:
+            # Extract the amount value from the line
+            amount = int(line.split('"')[1])
+            liquid_contents = amount / 1_000_000  # Convert ustars to Stars
+            return liquid_contents
+    
+    print("No balance found in the output.")
+    return 0
+
 
 # Count of collaborators
 collaborator_count = len(contributions)
@@ -56,10 +76,11 @@ def get_royalty_amounts(liquid_contents):
 
 def calculate_royalties():
     # Getting the date in ISO format
-    date_input = input("Enter the date (e.g., 2024-04-03): ")
+    date_input = datetime.datetime.now().strftime("%Y-%m-%d")
     
     # Getting the wallet liquid contents
-    liquid_contents = float(input("Enter the wallet liquid contents in STARS: "))
+    # queries liquid contents 'starsd query bank balances stars1hyhmssn4j6fxlvq58ctlpxwg5az7shg7zc77rp'
+    liquid_contents = get_wallet_balance()
     
     royalties = get_royalty_amounts(liquid_contents)
 
@@ -112,7 +133,7 @@ def calculate_royalties():
         
         # Timestamp for the transaction file
         timestamp = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
-        file_path = os.path.join(TRANSACTIONS_DIR, f'transaction_{timestamp}.txt')
+        file_path = os.path.join(TRANSACTIONS_DIR, f'transaction_{timestamp}.json')
 
         # Generate the custom transactions
         transactions = []

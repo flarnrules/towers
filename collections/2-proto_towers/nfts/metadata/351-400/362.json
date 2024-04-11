@@ -1,0 +1,86 @@
+{
+	"name": "Proto Tower 362",
+	"description": "This is the first in a series of three Proto Towers, with sequentially smaller canvas sizes. Thematically similar, each piece demonstrates the various creative decisions that arise with the constraint of fewer and fewer pixels. Also, all three pieces were constrained by 4-color palette, with the intent to further enhance cohesiveness across the series. Last, these were drawn with a sort of 'speed digital painting' approach, with zero planning and 100% concentration for a short duration. Each of these pieces was recorded, and timelapses of the drawings have been created.",
+	"attributes": [
+		{
+			"trait_type": "pixels",
+			"value": "128x128"
+		},
+		{
+			"trait_type": "dimensions",
+			"value": "768x768"
+		},
+		{
+			"trait_type": "color palette",
+			"value": "EN4"
+		},
+		{
+			"trait_type": "background pattern",
+			"value": "Stars"
+		},
+		{
+			"trait_type": "time in minutes",
+			"value": 14
+		},
+		{
+			"trait_type": "recorded",
+			"value": "Yes"
+		},
+		{
+			"trait_type": "raster graphics editor",
+			"value": "Aseprite"
+		},
+		{
+			"trait_type": "drawing instrument",
+			"value": "Houion Graphics Tablet"
+		},
+		{
+			"trait_type": "code snippet",
+			"value": "python3 bulk_resize.py"
+		},
+		{
+			"trait_type": "deployment type",
+			"value": "Series"
+		},
+		{
+			"trait_type": "collab artist",
+			"value": "n/a"
+		},
+		{
+			"trait_type": "collab collection",
+			"value": "n/a"
+		},
+		{
+			"trait_type": "file format",
+			"value": "Portable Network Graphic"
+		},
+		{
+			"trait_type": "time of deployment",
+			"value": "🏙️"
+		},
+		{
+			"trait_type": "number of frames",
+			"value": 1
+		},
+		{
+			"trait_type": "live stream",
+			"value": "No"
+		},
+		{
+			"trait_type": "vibe",
+			"value": "Otherworldly Night Desert"
+		},
+		{
+			"trait_type": "discovered a 🪲",
+			"value": "No"
+		},
+		{
+			"trait_type": "viewers of livestream",
+			"value": "n/a"
+		},
+		{
+			"trait_type": "pricing model",
+			"value": "Version 0.04"
+		}
+	]
+}

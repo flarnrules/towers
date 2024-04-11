@@ -3,8 +3,8 @@ import os
 import re
 
 # params
-input_folder = '../media/original_pngs/351-400'
-output_folder = '../nfts/images/351-400'
+input_folder = '../../media/original_pngs/351-400'
+output_folder = '../../nfts/images/351-400'
 new_width = 768
 new_height = 768
 
