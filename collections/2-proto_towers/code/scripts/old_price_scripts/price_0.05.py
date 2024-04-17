@@ -59,7 +59,7 @@ def calculate_price(best_offer, floor_price, width, height, is_animation, pride_
     final_price = base_price * final_multiplier
     print(f"The final multiplier for this piece is: {final_multiplier}")
 
-    return final_price
+    return final_price, size_multiplier, animation_bonus, pride_multiplier, base_price
 
 # Add an input for the pride factor
 pride_factor_input = input("Pride factor (1-3): ")
@@ -93,12 +93,3 @@ print(f"Multipliers - Size: {size_multiplier}, Animation: {animation_bonus}, Pri
 print(f"Final Multiplier: {final_multiplier:.2f}")
 print(f"Calculated Price: {base_price:.2f} STARS * {final_multiplier:.2f} = {final_price:.2f} STARS")
 print(f"The price for your configuration is: {final_price:.2f} STARS")
-
-# Print input values for transparency
-print("\n=== Pricing Calculation Details ===")
-print(f"Pricing Model Version: {pricing_model_version}")
-print(f"Best Offer: {best_offer} STARS")
-print(f"Floor Price: {floor_price} STARS")
-print(f"Size: {WIDTH}x{HEIGHT} pixels")
-print(f"Animation: {'Yes' if IS_ANIMATION else 'No'}")
-print(f"Pride Factor: {PRIDE_FACTOR}")
