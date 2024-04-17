@@ -21,7 +21,7 @@ contributions = {
     'Berny': 2,
     'Votor': 1,
     'Quasimosos': 2,
-    'Ijon': 6,
+    'Pajon': 6,
     'Pixlgeist': 1,
     'Sia': 1,
     'Graphein': 1,
@@ -118,47 +118,87 @@ def calculate_royalties():
     print(f"memo: {MEMO}")
     print(f"{separator}")
 
+    generate_json = input("Do you want to output royalties data as JSON? (y/n) ").strip().lower()
+    if generate_json == 'y':
+        output_royalties_json(royalties, date_input)
+    
     generate_tx = input("Do you want to generate a transaction from the results? (y/n) ").strip().lower()
     if generate_tx == 'y':
-        # Load the collaborators' addresses
         if not os.path.exists(COLLABS_FILE_PATH):
             print(f"Error: The file {COLLABS_FILE_PATH} does not exist.")
-            return  # Exit the function if the file doesn't exist
+            return
 
         with open(COLLABS_FILE_PATH, 'r') as f:
             collab_addresses = json.load(f)
 
-        # Ensure the transactions directory exists
-        os.makedirs(TRANSACTIONS_DIR, exist_ok=True)
-        
         # Timestamp for the transaction file
         timestamp = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
         file_path = os.path.join(TRANSACTIONS_DIR, f'transaction_{timestamp}.json')
 
-        # Generate the custom transactions
         transactions = []
         for name, amount in royalties.items():
-            if name in collab_addresses:
-                address = collab_addresses[name]
-                # Construct the transaction object
+            address = collab_addresses.get(name)
+            if address:
                 transaction = {
-                    "msg": {
-                        "type": "cosmos-sdk/MsgSend",
-                        "value": {
-                            "from_address": "royalties_wallet_address",  # Make sure to replace with actual wallet address
-                            "to_address": address,
-                            "amount": [{"denom": "ustar", "amount": str(int(amount * 1000000))}]  # assuming the amount needs to be in micro units
-                        }
-                    },
-                    "fee": {"amount": [{"denom": "ustar", "amount": "5000"}], "gas": "200000"},
-                    "memo": f"Royalty payout for {name} on {date_input}",
+                    "@type": "/cosmos.bank.v1beta1.MsgSend",
+                    "from_address": "royalties_wallet_address",
+                    "to_address": address,
+                    "amount": [{
+                        "denom": "ustars",
+                        "amount": str(int(amount * 1_000_000))  # Convert to micro-units
+                    }]
                 }
                 transactions.append(transaction)
-        
-        # Write the transaction to a file
-        with open(file_path, 'w') as f:
-            json.dump(transactions, f, indent=4)
 
-        print(f"Transaction generated and saved to {file_path}")
+        # Generate the transaction file
+        transaction_data = {
+            "body": {
+                "messages": transactions,
+                "memo": f"Royalty payouts on {date_input}",
+                "timeout_height": "0",
+                "extension_options": [],
+                "non_critical_extension_options": []
+            },
+            "auth_info": {
+                "signer_infos": [],
+                "fee": {
+                    "amount": [{"denom": "ustars", "amount": "200000"}],
+                    "gas_limit": "200000",
+                    "payer": "",
+                    "granter": ""
+                }
+            },
+            "signatures": []
+        }
+
+        with open(file_path, 'w') as f:
+            json.dump(transaction_data, f, indent=4)
+
+        print(f"Transaction file generated and saved to {file_path}")
+
+def output_royalties_json(royalties, date_input):
+    # Ensure the directory for output exists
+    os.makedirs(TRANSACTIONS_DIR, exist_ok=True)
+
+    # Define file path
+    timestamp = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
+    output_path = os.path.join(TRANSACTIONS_DIR, f'royalties_{timestamp}.json')
+
+    # Structure the data
+    royalties_data = []
+    for collaborator, amount in royalties.items():
+        royalties_data.append({
+            "collaborator": collaborator,
+            "amount": amount,
+            "memo": MEMO,
+            "date": date_input
+        })
+
+    # Write the JSON output to a file
+    with open(output_path, 'w') as f:
+        json.dump(royalties_data, f, indent=4)
+
+    print(f"Royalties data saved to {output_path}")
+
 
 calculate_royalties()
