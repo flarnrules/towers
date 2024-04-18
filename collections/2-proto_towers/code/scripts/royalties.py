@@ -8,9 +8,12 @@ STAKE_PERCENTAGE = 0.25
 LIQUID_PERCENTAGE = 0.24
 SMOKERS_CLUB_PERCENTAGE = 0.01
 COLLABORATORS_PERCENTAGE = 0.50
-MEMO = "for collab 🏙️🌆"
-TRANSACTIONS_DIR = "../data/transactions"
-COLLABS_FILE_PATH = "../data/collabs.json"
+MEMO = ""
+TRANSACTIONS_DIR = "/home/flarnrules/repos/towers/collections/2-proto_towers/code/data/transactions"
+COLLABS_FILE_PATH = "/home/flarnrules/repos/towers/collections/2-proto_towers/code/data/collabs.json"
+ROYALTIES_WALLET_ADDRESS = "stars1hyhmssn4j6fxlvq58ctlpxwg5az7shg7zc77rp" # royalties wallet
+VALIDATOR_WALLET_ADDRESS = "starsvaloper10jm8fvdyqlj78w0j5nawc76wsn4pqmdx9vsdyy" # nos node
+SMOKERS_CLUB_ADDRESS = "stars1mlxynkqd9js8tkdnkk0e27lgz7x9lt866n5r44" # ashtray?
 
 # Collaborators' contributions
 contributions = {
@@ -38,7 +41,7 @@ contributions = {
 }
 
 def get_wallet_balance():
-    command = ["starsd", "query", "bank", "balances", "stars1hyhmssn4j6fxlvq58ctlpxwg5az7shg7zc77rp"]
+    command = ["starsd", "query", "bank", "balances", ROYALTIES_WALLET_ADDRESS]
     result = subprocess.run(command, capture_output=True, text=True)
     raw_output = result.stdout
 
@@ -141,20 +144,46 @@ def calculate_royalties():
             if address:
                 transaction = {
                     "@type": "/cosmos.bank.v1beta1.MsgSend",
-                    "from_address": "royalties_wallet_address",
+                    "from_address": ROYALTIES_WALLET_ADDRESS,
                     "to_address": address,
                     "amount": [{
                         "denom": "ustars",
                         "amount": str(int(amount * 1_000_000))  # Convert to micro-units
                     }]
                 }
+                             
                 transactions.append(transaction)
+        
+        smokers = {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": ROYALTIES_WALLET_ADDRESS,
+                "to_address": SMOKERS_CLUB_ADDRESS,
+                "amount": [{
+                    "denom": "ustars",
+                    "amount": str(int(smokers_club_amount * 1_000_000))
+                }]
+            }
+        
+        
+        stake = {
+                "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+                "delegator_address": ROYALTIES_WALLET_ADDRESS,
+                "validator_address": VALIDATOR_WALLET_ADDRESS,
+                "amount": {
+                    "denom": "ustars",
+                    "amount": str(int(stake_amount * 1_000_000))
+                }
+            }
+        transactions.append(stake)
+
+
+        transactions.append(smokers)
 
         # Generate the transaction file
         transaction_data = {
             "body": {
                 "messages": transactions,
-                "memo": f"Royalty payouts on {date_input}",
+                "memo": "automation success?",
                 "timeout_height": "0",
                 "extension_options": [],
                 "non_critical_extension_options": []
@@ -162,8 +191,8 @@ def calculate_royalties():
             "auth_info": {
                 "signer_infos": [],
                 "fee": {
-                    "amount": [{"denom": "ustars", "amount": "200000"}],
-                    "gas_limit": "200000",
+                    "amount": [{"denom": "ustars", "amount": "600000"}],
+                    "gas_limit": "600000",
                     "payer": "",
                     "granter": ""
                 }
@@ -175,6 +204,7 @@ def calculate_royalties():
             json.dump(transaction_data, f, indent=4)
 
         print(f"Transaction file generated and saved to {file_path}")
+        print(file_path)
 
 def output_royalties_json(royalties, date_input):
     # Ensure the directory for output exists
@@ -202,3 +232,4 @@ def output_royalties_json(royalties, date_input):
 
 
 calculate_royalties()
+
