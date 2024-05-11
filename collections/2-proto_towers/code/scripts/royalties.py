@@ -36,7 +36,8 @@ contributions = {
     'Blue': 1,
     'Sebi': 3,
     'Brady': 1,
-    'Peps': 1
+    'Peps': 1,
+    'Osmocake': 1
     # Add more collaborators here
 }
 

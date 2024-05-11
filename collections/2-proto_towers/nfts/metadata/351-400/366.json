@@ -1,0 +1,86 @@
+{
+	"name": "Proto Tower 366",
+	"description": "I drew this one a while ago, so I don't really remember what was going on in my head as I created it. I recall I wanted to take a break and make a drawing, and I also was trying to create a substrate background, but it really looks more like red wires.",
+	"attributes": [
+		{
+			"trait_type": "pixels",
+			"value": "64x64"
+		},
+		{
+			"trait_type": "dimensions",
+			"value": "768x768"
+		},
+		{
+			"trait_type": "color palette",
+			"value": "ARNE32"
+		},
+		{
+			"trait_type": "background pattern",
+			"value": "Red Wires"
+		},
+		{
+			"trait_type": "time in minutes",
+			"value": "???"
+		},
+		{
+			"trait_type": "recorded",
+			"value": "No"
+		},
+		{
+			"trait_type": "raster graphics editor",
+			"value": "Aseprite"
+		},
+		{
+			"trait_type": "drawing instrument",
+			"value": "Houion Graphics Tablet"
+		},
+		{
+			"trait_type": "code snippet",
+			"value": "python3 bulk_resize.py"
+		},
+		{
+			"trait_type": "deployment type",
+			"value": "1/1"
+		},
+		{
+			"trait_type": "collab artist",
+			"value": "n/a"
+		},
+		{
+			"trait_type": "collab collection",
+			"value": "n/a"
+		},
+		{
+			"trait_type": "file format",
+			"value": "Portable Network Graphic"
+		},
+		{
+			"trait_type": "time of deployment",
+			"value": "🏙️"
+		},
+		{
+			"trait_type": "number of frames",
+			"value": 1
+		},
+		{
+			"trait_type": "live stream",
+			"value": "No"
+		},
+		{
+			"trait_type": "vibe",
+			"value": "Alien Society"
+		},
+		{
+			"trait_type": "discovered a 🪲",
+			"value": "No"
+		},
+		{
+			"trait_type": "viewers of livestream",
+			"value": "n/a"
+		},
+		{
+			"trait_type": "pricing model",
+			"value": "Version 0.04"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Insert Name",
+	"description": "Insert Description",
+	"attributes": [
+		{
+			"trait_type": "Addictions Of The Thing",
+			"value": "Thing"
+		},
+		{
+			"trait_type": "Atmosphere Of The Thing",
+			"value": "Thing"
+		},
+		{
+			"trait_type": "Inspiration Of The Thing",
+			"value": "Thing"
+		},
+		{
+			"trait_type": "Living Thing",
+			"value": "Thing"
+		}
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"name": "Cake Tower",
+	"description": "What's a cake tower? Imagine the house in the story Hansel and Gretel but on a grander scale, decadently adorned with cherries and chocolate icing. If you visit the cake tower, be sure to bring your cake fork with so you can try a bite from every layer. Start at the top and work your way down or vice versa at your peril. ",
+	"attributes": [
+		{
+			"trait_type": "pixels",
+			"value": "64x64"
+		},
+		{
+			"trait_type": "dimensions",
+			"value": "768x768"
+		},
+		{
+			"trait_type": "color palette",
+			"value": "osmocake, cherry, concrete"
+		},
+		{
+			"trait_type": "background pattern",
+			"value": "Stars and clouds"
+		},
+		{
+			"trait_type": "time in minutes",
+			"value": 90
+		},
+		{
+			"trait_type": "recorded",
+			"value": "Unrecorded"
+		},
+		{
+			"trait_type": "raster graphics editor",
+			"value": "Photoshop"
+		},
+		{
+			"trait_type": "drawing instrument",
+			"value": "Mac Pro"
+		},
+		{
+			"trait_type": "code snippet",
+			"value": "None"
+		},
+		{
+			"trait_type": "deployment type",
+			"value": "Image"
+		},
+		{
+			"trait_type": "collab artist",
+			"value": "osmocake"
+		},
+		{
+			"trait_type": "collab collection",
+			"value": "ProtoTowers"
+		},
+		{
+			"trait_type": "file format",
+			"value": "Portable Network Graphic"
+		},
+		{
+			"trait_type": "time of deployment",
+			"value": "6 PM April 2 2024"
+		},
+		{
+			"trait_type": "number of frames",
+			"value": 1
+		},
+		{
+			"trait_type": "live stream",
+			"value": "None"
+		},
+		{
+			"trait_type": "vibe",
+			"value": "Fantasy"
+		}
+	]
+}
