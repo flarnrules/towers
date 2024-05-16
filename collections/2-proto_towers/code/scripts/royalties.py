@@ -13,7 +13,7 @@ TRANSACTIONS_DIR = "/home/flarnrules/repos/towers/collections/2-proto_towers/cod
 COLLABS_FILE_PATH = "/home/flarnrules/repos/towers/collections/2-proto_towers/code/data/collabs.json"
 ROYALTIES_WALLET_ADDRESS = "stars1hyhmssn4j6fxlvq58ctlpxwg5az7shg7zc77rp" # royalties wallet
 VALIDATOR_WALLET_ADDRESS = "starsvaloper10jm8fvdyqlj78w0j5nawc76wsn4pqmdx9vsdyy" # nos node
-SMOKERS_CLUB_ADDRESS = "stars1mlxynkqd9js8tkdnkk0e27lgz7x9lt866n5r44" # ashtray?
+SMOKERS_CLUB_ADDRESS = "stars1mlxynkqd9js8tkdnkk0e27lgz7x9lt866n5r44" # smokers
 
 # Collaborators' contributions
 contributions = {
@@ -139,6 +139,7 @@ def calculate_royalties():
         timestamp = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
         file_path = os.path.join(TRANSACTIONS_DIR, f'transaction_{timestamp}.json')
 
+        # build the json payload!!!!!!!
         transactions = []
         for name, amount in royalties.items():
             address = collab_addresses.get(name)
