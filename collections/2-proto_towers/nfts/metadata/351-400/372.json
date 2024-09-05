@@ -1,0 +1,74 @@
+{
+	"name": "Proto Tower 372",
+	"description": "This Proto Tower is first made by Crypto Matcha artist with Flarnrules collaboration. We used Aseprite and spent many hours to make this animations to be done. Our goal was to spread this vibe of smoker cat in matcha tower to Stargaze!",
+	"attributes": [
+		{
+			"trait_type": "pixels",
+			"value": "164x164"
+		},
+		{
+			"trait_type": "dimensions",
+			"value": "768x768"
+		},
+		{
+			"trait_type": "color palette",
+			"value": "Standart aseprite"
+		},
+		{
+			"trait_type": "background pattern",
+			"value": "Clouds, mountains and field"
+		},
+		{
+			"trait_type": "time in minutes",
+			"value": 2400
+		},
+		{
+			"trait_type": "recorded",
+			"value": "No"
+		},
+		{
+			"trait_type": "raster graphics editor",
+			"value": "Aseprite"
+		},
+		{
+			"trait_type": "drawing instrument",
+			"value": "Mouse"
+		},
+		{
+			"trait_type": "code snippet",
+			"value": "468.35"
+		},
+		{
+			"trait_type": "deployment type",
+			"value": "Collab"
+		},
+		{
+			"trait_type": "collab artist",
+			"value": "Crypto Matcha"
+		},
+		{
+			"trait_type": "collab collection",
+			"value": "Crypto Matcha"
+		},
+		{
+			"trait_type": "file format",
+			"value": "Graphics Interchange Format"
+		},
+		{
+			"trait_type": "time of deployment",
+			"value": "🌃"
+		},
+		{
+			"trait_type": "number of frames",
+			"value": 656
+		},
+		{
+			"trait_type": "live stream",
+			"value": "No"
+		},
+		{
+			"trait_type": "vibe",
+			"value": "Smoked"
+		}
+	]
+}

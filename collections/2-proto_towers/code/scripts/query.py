@@ -5,7 +5,7 @@ import json
 # babu stars1nyfn4p8x5a8ysc5t6umgaxuety6x8g6me3hyt4vx6svmh8695m8qqkdqy3
 
 def query_collection():
-    address = 'stars1nyfn4p8x5a8ysc5t6umgaxuety6x8g6me3hyt4vx6svmh8695m8qqkdqy3'  # Hardcoded address here
+    address = 'stars120pue6syyajg6wtj0339qa42a279xaj8km889lgx2lvw325leevs2s79h2'  # Hardcoded address here
     url = 'https://graphql.mainnet.stargaze-apis.com/graphql'
     query = """
     query Query($address: String!) {

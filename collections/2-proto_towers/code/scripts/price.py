@@ -1,6 +1,8 @@
 from query import query_collection
 
-from query import query_collection
+# Update this if major changes are made
+pricing_model_version = "0.07"
+
 
 # Define the necessary functions
 def get_size_multiplier(width, height):
@@ -38,9 +40,10 @@ def calculate_final_price(best_offer, floor_price, width, height, is_animation, 
     
     return final_price, base_price, final_multiplier
 
-# Main execution block
-pricing_model_version = "0.06"
+def get_pricing_method(is_animation):
+    return "Auction" if is_animation else "Sale"
 
+# Main execution block
 try:
     floor_price, best_offer = query_collection()
 except Exception as e:
@@ -61,6 +64,8 @@ pride_factor = int(pride_factor_input)
 # Calculate prices and multipliers
 final_price, base_price, final_multiplier = calculate_final_price(best_offer, floor_price, width, height, is_animation, pride_factor)
 
+pricing_method = get_pricing_method(is_animation)
+
 # Print detailed output with rounding
 print("\n=== Pricing Calculation Details ===")
 print(f"Version: {pricing_model_version}")
@@ -72,3 +77,4 @@ print(f"Animation Bonus: {get_animation_bonus(is_animation):.2f}")
 print(f"Pride Multiplier: {get_pride_multiplier(pride_factor):.2f}")
 print(f"Final Multiplier: {final_multiplier:.2f}")
 print(f"Calculated Price: {final_price:.2f} STARS")
+print(f"Pricing Method: {pricing_method}")

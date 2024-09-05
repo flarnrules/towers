@@ -1,0 +1,86 @@
+{
+	"name": "Proto Tower 373",
+	"description": "Madcatattack shared a gif of proto tower #286 (Unicorn Proto Tower 10)",
+	"attributes": [
+		{
+			"trait_type": "pixels",
+			"value": "64x64"
+		},
+		{
+			"trait_type": "dimensions",
+			"value": "768x768"
+		},
+		{
+			"trait_type": "color palette",
+			"value": "EDG32"
+		},
+		{
+			"trait_type": "background pattern",
+			"value": "Clouds"
+		},
+		{
+			"trait_type": "time in minutes",
+			"value": "20"
+		},
+		{
+			"trait_type": "recorded",
+			"value": "Yes"
+		},
+		{
+			"trait_type": "raster graphics editor",
+			"value": "Aseprite"
+		},
+		{
+			"trait_type": "drawing instrument",
+			"value": "Mouse"
+		},
+		{
+			"trait_type": "code snippet",
+			"value": "1600%"
+		},
+		{
+			"trait_type": "deployment type",
+			"value": "1/1"
+		},
+		{
+			"trait_type": "collab artist",
+			"value": "n/a"
+		},
+		{
+			"trait_type": "collab collection",
+			"value": "n/a"
+		},
+		{
+			"trait_type": "file format",
+			"value": "Portable Network Graphic"
+		},
+		{
+			"trait_type": "time of deployment",
+			"value": "🌃"
+		},
+		{
+			"trait_type": "number of frames",
+			"value": 1
+		},
+		{
+			"trait_type": "live stream",
+			"value": "Yes"
+		},
+		{
+			"trait_type": "vibe",
+			"value": "A Lone Tower"
+		},
+		{
+			"trait_type": "discovered a 🪲",
+			"value": "No"
+		},
+		{
+			"trait_type": "viewers of livestream",
+			"value": "2"
+		},
+		{
+			"trait_type": "pricing model",
+			"value": "n/a"
+		}
+	]
+}

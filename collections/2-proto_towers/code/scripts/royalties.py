@@ -37,7 +37,11 @@ contributions = {
     'Sebi': 3,
     'Brady': 1,
     'Peps': 1,
-    'Osmocake': 1
+    'Osmocake': 1,
+    'Luvcraft': 1,
+    'Nucleus': 1,
+    'Crypto Matcha': 1,
+
     # Add more collaborators here
 }
 
