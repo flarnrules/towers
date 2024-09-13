@@ -50,17 +50,19 @@ def get_wallet_balance():
     result = subprocess.run(command, capture_output=True, text=True)
     raw_output = result.stdout
 
+    # Split the raw output by lines and look for 'ustars' denom
+    ustars_amount = 0
+    for line in raw_output.splitlines():
+        if 'denom: ustars' in line:
+            # The amount is on the previous line, so we fetch it
+            previous_line_index = raw_output.splitlines().index(line) - 1
+            amount_line = raw_output.splitlines()[previous_line_index]
+            ustars_amount = int(amount_line.split('"')[1]) / 1_000_000  # Convert to Stars
+            break
 
-    # Parse the raw output to extract the amount
-    for line in raw_output.split('\n'):
-        if 'amount:' in line:
-            # Extract the amount value from the line
-            amount = int(line.split('"')[1])
-            liquid_contents = amount / 1_000_000  # Convert ustars to Stars
-            return liquid_contents
-    
-    print("No balance found in the output.")
-    return 0
+    if ustars_amount == 0:
+        print("No ustars balance found.")
+    return ustars_amount
 
 
 # Count of collaborators
@@ -197,8 +199,8 @@ def calculate_royalties():
             "auth_info": {
                 "signer_infos": [],
                 "fee": {
-                    "amount": [{"denom": "ustars", "amount": "600000"}],
-                    "gas_limit": "600000",
+                    "amount": [{"denom": "ustars", "amount": "700000"}],
+                    "gas_limit": "700000",
                     "payer": "",
                     "granter": ""
                 }

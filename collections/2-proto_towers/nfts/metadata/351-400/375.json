@@ -1,6 +1,6 @@
 {
-	"name": "Proto Tower 373",
-	"description": "Madcatattack shared a gif of proto tower #286 (Unicorn Proto Tower 10)",
+	"name": "Proto Tower 375",
+	"description": "Drew this and animated it while listening to the creator of a collection on Solana called web kidz talk about nostalgia and 90s stuff.",
 	"attributes": [
 		{
 			"trait_type": "pixels",
@@ -12,15 +12,15 @@
 		},
 		{
 			"trait_type": "color palette",
-			"value": "EDG32"
+			"value": "AAP-64"
 		},
 		{
 			"trait_type": "background pattern",
-			"value": "Clouds"
+			"value": "Supernova"
 		},
 		{
 			"trait_type": "time in minutes",
-			"value": "20"
+			"value": "65"
 		},
 		{
 			"trait_type": "recorded",
@@ -36,7 +36,7 @@
 		},
 		{
 			"trait_type": "code snippet",
-			"value": "1600%"
+			"value": "1200%"
 		},
 		{
 			"trait_type": "deployment type",
@@ -52,7 +52,7 @@
 		},
 		{
 			"trait_type": "file format",
-			"value": "Portable Network Graphic"
+			"value": "Graphics Interchange Format"
 		},
 		{
 			"trait_type": "time of deployment",
@@ -60,7 +60,7 @@
 		},
 		{
 			"trait_type": "number of frames",
-			"value": 1
+			"value": 18
 		},
 		{
 			"trait_type": "live stream",
@@ -68,7 +68,7 @@
 		},
 		{
 			"trait_type": "vibe",
-			"value": "A Lone Tower"
+			"value": "Vibrant"
 		},
 		{
 			"trait_type": "discovered a 🪲",
@@ -80,7 +80,11 @@
 		},
 		{
 			"trait_type": "pricing model",
-			"value": "n/a"
+			"value": "0.07"
+		},
+		{
+			"trait_type": "initial price",
+			"value": "2560.80 STARS"
 		}
 	]
 }

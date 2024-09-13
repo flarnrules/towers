@@ -1,10 +1,10 @@
 {
-	"name": "Proto Tower 373",
-	"description": "Madcatattack shared a gif of proto tower #286 (Unicorn Proto Tower 10)",
+	"name": "Proto Tower 374",
+	"description": "I started this one a longass time ago, and just got around to finishing it. Two animated ones in a row is a nice way to get back into the swing of proto towers. I would like to make more proto towers because it is one of the most joyful things to do - just sit down and create a colorful architectural landscape with pixel art. I honestly think it's my favorite thing to do. Often creating animations can be a source of stress - as it requires a bit of planning and additional effort, but these little twinkly stars just came naturally. 🌃🌆🏙️",
 	"attributes": [
 		{
 			"trait_type": "pixels",
-			"value": "64x64"
+			"value": "32x32"
 		},
 		{
 			"trait_type": "dimensions",
@@ -12,15 +12,15 @@
 		},
 		{
 			"trait_type": "color palette",
-			"value": "EDG32"
+			"value": "Gameboy"
 		},
 		{
 			"trait_type": "background pattern",
-			"value": "Clouds"
+			"value": "Stars"
 		},
 		{
 			"trait_type": "time in minutes",
-			"value": "20"
+			"value": "about 1 month or more, so at least 60x24x30=43,200"
 		},
 		{
 			"trait_type": "recorded",
@@ -36,7 +36,7 @@
 		},
 		{
 			"trait_type": "code snippet",
-			"value": "1600%"
+			"value": "2300%"
 		},
 		{
 			"trait_type": "deployment type",
@@ -52,7 +52,7 @@
 		},
 		{
 			"trait_type": "file format",
-			"value": "Portable Network Graphic"
+			"value": "Graphics Interchange Format"
 		},
 		{
 			"trait_type": "time of deployment",
@@ -60,7 +60,7 @@
 		},
 		{
 			"trait_type": "number of frames",
-			"value": 1
+			"value": 27
 		},
 		{
 			"trait_type": "live stream",
@@ -68,7 +68,7 @@
 		},
 		{
 			"trait_type": "vibe",
-			"value": "A Lone Tower"
+			"value": "Starry Night"
 		},
 		{
 			"trait_type": "discovered a 🪲",
@@ -76,11 +76,15 @@
 		},
 		{
 			"trait_type": "viewers of livestream",
-			"value": "2"
+			"value": "can't remember"
 		},
 		{
 			"trait_type": "pricing model",
-			"value": "n/a"
+			"value": "0.07"
+		},
+		{
+			"trait_type": "initial price",
+			"value": "2400.75 STARS"
 		}
 	]
 }
