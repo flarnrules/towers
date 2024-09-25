@@ -19,9 +19,9 @@ traits to capture on the page itself:
 {
 "artists_names":" #string
     {
-    "artist_name" : "Ben"
-    "artist_name" : "Jean"
-    "artist_name" : "other"
+    "artist_name" : "person1"
+    "artist_name" : "person2"
+    "artist_name" : "person3"
     }
 "date created": "2023-09-17" #integer
 "page number": "7" #integer
