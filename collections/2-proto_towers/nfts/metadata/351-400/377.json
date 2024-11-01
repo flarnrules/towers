@@ -1,6 +1,6 @@
 {
-	"name": "Proto Tower 375",
-	"description": "Drew this and animated it while listening to the creator of a collection on Solana called web kidz talk about nostalgia and 90s stuff.",
+	"name": "Proto Tower 377",
+	"description": "This is the very first proto tower drawn with the Proto Towers Art Engine's pixel_painter.py subprocess. It is a simplified version of a pixel art renderer, that I wrote from scratch.",
 	"attributes": [
 		{
 			"trait_type": "pixels",
@@ -12,15 +12,15 @@
 		},
 		{
 			"trait_type": "color palette",
-			"value": "AAP-64"
+			"value": "Freehand"
 		},
 		{
 			"trait_type": "background pattern",
-			"value": "Supernova"
+			"value": "Sun With Clouds"
 		},
 		{
 			"trait_type": "time in minutes",
-			"value": "65"
+			"value": "25"
 		},
 		{
 			"trait_type": "recorded",
@@ -28,7 +28,7 @@
 		},
 		{
 			"trait_type": "raster graphics editor",
-			"value": "Aseprite"
+			"value": "Proto Towers Art Engine"
 		},
 		{
 			"trait_type": "drawing instrument",
