@@ -1,0 +1,30 @@
+{
+    "name": "RHINOCEROS",
+    "description": "This is Inktober, a growable collection of digital drawings that follows most of the rules and prompts of Inktober. \n \n 1) Make a drawing in ink \n 2) Post it \n 3) Hashtag it with #inktober and #inktober<year> \n 4) Repeat ",
+    "attributes": [
+        {
+            "trait_type": "pixels",
+            "value": 100
+        },
+        {
+            "trait_type": "dimensions",
+            "value": "10x10"
+        },
+        {
+            "trait_type": "year",
+            "value": 2024
+        },
+        {
+            "trait_type": "day",
+            "value": 21
+        },
+        {
+            "trait_type": "artist",
+            "value": "flarnrules"
+        },
+        {
+            "trait_type": "iteration",
+            "value": 3
+        }
+    ]
+}
