@@ -1,0 +1,90 @@
+{
+	"name": "Proto Tower 377",
+	"description": "This is the very first proto tower drawn with the Proto Towers Art Engine's pixel_painter.py subprocess. It is a simplified version of a pixel art renderer, that I wrote from scratch.",
+	"attributes": [
+		{
+			"trait_type": "pixels",
+			"value": "14x14"
+		},
+		{
+			"trait_type": "dimensions",
+			"value": "512x512"
+		},
+		{
+			"trait_type": "color palette",
+			"value": "Freehand"
+		},
+		{
+			"trait_type": "background pattern",
+			"value": "Sun With Clouds"
+		},
+		{
+			"trait_type": "time in minutes",
+			"value": "25"
+		},
+		{
+			"trait_type": "recorded",
+			"value": "Yes"
+		},
+		{
+			"trait_type": "raster graphics editor",
+			"value": "Proto Towers Art Engine"
+		},
+		{
+			"trait_type": "drawing instrument",
+			"value": "Mouse"
+		},
+		{
+			"trait_type": "code snippet",
+			"value": "3657.14%%"
+		},
+		{
+			"trait_type": "deployment type",
+			"value": "1/1"
+		},
+		{
+			"trait_type": "collab artist",
+			"value": "n/a"
+		},
+		{
+			"trait_type": "collab collection",
+			"value": "n/a"
+		},
+		{
+			"trait_type": "file format",
+			"value": "Portable Network Graphic"
+		},
+		{
+			"trait_type": "time of deployment",
+			"value": "🌃"
+		},
+		{
+			"trait_type": "number of frames",
+			"value": 1
+		},
+		{
+			"trait_type": "live stream",
+			"value": "Yes"
+		},
+		{
+			"trait_type": "vibe",
+			"value": "Vibrant"
+		},
+		{
+			"trait_type": "discovered a 🪲",
+			"value": "No"
+		},
+		{
+			"trait_type": "viewers of livestream",
+			"value": "2"
+		},
+		{
+			"trait_type": "pricing model",
+			"value": "0.07 -> just feels"
+		},
+		{
+			"trait_type": "initial price",
+			"value": "2,560.80 STARS -> 12,500 STARS"
+		}
+	]
+}

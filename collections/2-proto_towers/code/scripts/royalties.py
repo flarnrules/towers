@@ -40,7 +40,7 @@ contributions = {
     'Osmocake': 1,
     'Luvcraft': 1,
     'Nucleus': 1,
-    'Crypto Matcha': 1,
+    'Crypto Matcha': 2,
 
     # Add more collaborators here
 }

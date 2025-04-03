@@ -1,0 +1,54 @@
+{
+    "name": "Gumball 5003",
+    "description": "A cosmic gumball for a cosmic day.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Reflective Lake"
+        },
+        {
+            "trait_type": "Gumball",
+            "value": "Sun"
+        },
+        {
+            "trait_type": "Face",
+            "value": "None"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "None"
+        },
+        {
+            "trait_type": "Post-Processing",
+            "value": "Glitch"
+        },
+        {
+            "trait_type": "Collection Category",
+            "value": "Galactic Core"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        },
+        {
+            "trait_type": "Special Type",
+            "value": "Blank"
+        },
+        {
+            "trait_type": "Special Background",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Special Gumball",
+            "value": "24k Gold"
+        },
+        {
+            "trait_type": "Special Headgear",
+            "value": "Crown"
+        },
+        {
+            "trait_type": "Special Face",
+            "value": "Sneaky"
+        }
+    ]
+}

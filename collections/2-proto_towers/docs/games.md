@@ -79,3 +79,7 @@ if someone collects all 5 of Pajon's panaptych (264-268) I'll make an animated o
 2. 342 - jinxto stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z
 3. 343 - homestead stars1jzt962czzt3ruwsapec9fzmrm7kcj442vjk36c
 4. 345 - djlederle stars1xk9dsqx5wz44c58e2m5qes2xdgvsc5xg63pdh3
+
+### Special 9 - how many projects am I working on
+1 winner
+1. 
